@@ -1,5 +1,4 @@
-## deseret learning tool
-## 𐐔𐐯𐑅𐑆𐐯𐑉𐐯𐐻 𐑊𐐲𐑉𐑌𐐮𐑍 𐐻𐐭𐑊
+## deseret learning tool - 𐐔𐐯𐑅𐑆𐐯𐑉𐐯𐐻 𐑊𐐲𐑉𐑌𐐮𐑍 𐐻𐐭𐑊
 ### BCOG200 - Python for Brain and Cognitive Sciences - final project
 ### 𐐒𐐗𐐉𐐘200 - 𐐑𐐴𐑃𐐱𐑌 𐑁𐐱𐑉 𐐒𐑉𐐩𐑌 𐐰𐑌𐐼 𐐕𐐱𐑀𐑌𐐮𐐻𐐮𐑂 𐐝𐐴𐐲𐑌𐑅𐐮𐑅 - 𐑁𐐴𐑌𐐲𐑊 𐐹𐑉𐐱𐐾𐐯𐐿𐐻
 
