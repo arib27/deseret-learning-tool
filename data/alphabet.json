@@ -1,0 +1,308 @@
+{
+    "𐐨": {
+        "name": "Long I",
+        "pronunciation": "'ee' in keep, sleep",
+        "keyboard encoding": "ii",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐩": {
+        "name": "Long E",
+        "pronunciation": "'a' in stay, face",
+        "keyboard encoding": "ee",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐪": {
+        "name": "Long A",
+        "pronunciation": "'a' in father, bra",
+        "keyboard encoding": "aa",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐫": {
+        "name": "Long Ah",
+        "pronunciation": "'au' in fraud, caught",
+        "keyboard encoding": "aw",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐬": {
+        "name": "Long O",
+        "pronunciation": "'o' in go, code",
+        "keyboard encoding": "oo",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐭": {
+        "name": "Long Oo",
+        "pronunciation": "'oo' in tool, goose",
+        "keyboard encoding": "uu",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐮": {
+        "name": "Short I",
+        "pronunciation": "'i' in kit, sing",
+        "keyboard encoding": "i",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐯": {
+        "name": "Short E",
+        "pronunciation": "'e' in bed, dress",
+        "keyboard encoding": "e",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐰": {
+        "name": "Short A",
+        "pronunciation": "'a' in cat, bad",
+        "keyboard encoding": "a",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐱": {
+        "name": "Short Ah",
+        "pronunciation": "'o' in body, god",
+        "keyboard encoding": "au",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐲": {
+        "name": "Short O",
+        "pronunciation": "'u' in up, cut",
+        "keyboard encoding": "o",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐳": {
+        "name": "Short Oo",
+        "pronunciation": "'u' in push, foot",
+        "keyboard encoding": "u",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐴": {
+        "name": "Ay",
+        "pronunciation": "'y' in cry, 'i' in price",
+        "keyboard encoding": "ie",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐵": {
+        "name": "Ow",
+        "pronunciation": "'ou' in mouth, 'ow' in how",
+        "keyboard encoding": "ow",
+        "features": [
+            "vowel"
+        ]
+    },
+    "𐐶": {
+        "name": "Wu",
+        "pronunciation": "'w' in whale, wind",
+        "keyboard encoding": "w",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐷": {
+        "name": "Yee",
+        "pronunciation": "'y' in day, yes",
+        "keyboard encoding": "y",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐸": {
+        "name": "H",
+        "pronunciation": "'h' in hi, hair",
+        "keyboard encoding": "h",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐹": {
+        "name": "Pee",
+        "pronunciation": "'p' in put, pine",
+        "keyboard encoding": "p",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐺": {
+        "name": "Bee",
+        "pronunciation": "'b' in bread, buy",
+        "keyboard encoding": "b",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐻": {
+        "name": "Tee",
+        "pronunciation": "'t' in town, train",
+        "keyboard encoding": "t",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐼": {
+        "name": "Dee",
+        "pronunciation": "'d' in drink, dawn",
+        "keyboard encoding": "d",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐽": {
+        "name": "Chee",
+        "pronunciation": "'ch' in church, change",
+        "keyboard encoding": "c",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐾": {
+        "name": "Jee",
+        "pronunciation": "'j' in judge, jam",
+        "keyboard encoding": "j",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐐿": {
+        "name": "Kay",
+        "pronunciation": "'k' in keep, kind",
+        "keyboard encoding": "k",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑀": {
+        "name": "Gay",
+        "pronunciation": "'g' in ground, gate",
+        "keyboard encoding": "g",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑁": {
+        "name": "Ef",
+        "pronunciation": "'f' in fox, frame",
+        "keyboard encoding": "f",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑂": {
+        "name": "Vee",
+        "pronunciation": "'v' in vice, vixen",
+        "keyboard encoding": "v",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑃": {
+        "name": "Eth",
+        "pronunciation": "'th' in thought, thigh",
+        "keyboard encoding": "th",
+        "features": [
+            "consonant",
+            "unvoiced"
+        ]
+    },
+    "𐑄": {
+        "name": "Thee",
+        "pronunciation": "'th' in this, breathe",
+        "keyboard encoding": "dh",
+        "features": [
+            "consonant",
+            "voiced"
+        ]
+    },
+    "𐑅": {
+        "name": "Es",
+        "pronunciation": "'s' in sound, stand",
+        "keyboard encoding": "s",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑆": {
+        "name": "Zee",
+        "pronunciation": "'z' in zoom, zen",
+        "keyboard encoding": "z",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑇": {
+        "name": "Esh",
+        "pronunciation": "'sh' in shirt, shower",
+        "keyboard encoding": "sh",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑈": {
+        "name": "Zhee",
+        "pronunciation": "'s' in pleasure, 'g' in beige",
+        "keyboard encoding": "zh",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑉": {
+        "name": "Er",
+        "pronunciation": "'r' in round, reap",
+        "keyboard encoding": "r",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑊": {
+        "name": "El",
+        "pronunciation": "'l' in loud, linger",
+        "keyboard encoding": "l",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑋": {
+        "name": "Em",
+        "pronunciation": "'m' in morning, mirth",
+        "keyboard encoding": "m",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑌": {
+        "name": "En",
+        "pronunciation": "'n' in north, neat",
+        "keyboard encoding": "n",
+        "features": [
+            "consonant"
+        ]
+    },
+    "𐑍": {
+        "name": "Eng",
+        "pronunciation": "'ng' in sing, king",
+        "keyboard encoding": "ng",
+        "features": [
+            "consonant"
+        ]
+    }
+}
