@@ -1,6 +1,6 @@
-# deseret learning tool
+## deseret learning tool
 ## 𐐔𐐯𐑅𐑆𐐯𐑉𐐯𐐻 𐑊𐐲𐑉𐑌𐐮𐑍 𐐻𐐭𐑊
-## BCOG200 - Python for Brain and Cognitive Sciences - final project
+### BCOG200 - Python for Brain and Cognitive Sciences - final project
 ### 𐐒𐐗𐐉𐐘200 - 𐐑𐐴𐑃𐐱𐑌 𐑁𐐱𐑉 𐐒𐑉𐐩𐑌 𐐰𐑌𐐼 𐐕𐐱𐑀𐑌𐐮𐐻𐐮𐑂 𐐝𐐴𐐲𐑌𐑅𐐮𐑅 - 𐑁𐐴𐑌𐐲𐑊 𐐹𐑉𐐱𐐾𐐯𐐿𐐻
 
 In this project I plan to create learning application for the Deseret alphabet. The Deseret is a phonetic writing system used to write English, developed by the early Mormon community in the 1850s for purposes of orthographic reform and cultural differentiation. This application will be structured similar to other language-learning or flashcard applications, and will teach users to read and write in the Deseret alphabet using spaced repetition. 
