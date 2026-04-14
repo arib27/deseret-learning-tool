@@ -13,6 +13,8 @@ In this project I plan to create learning application for the Deseret alphabet. 
 #### Review loop
   This function presents the cards to the user and checks their answers, then updates the schedule for each card.
 
-I also plan on including a small library of helpful tips and notes for working with the Deseret, as I hope this project will be used in my broader research group to train new research assistants. 
+I also plan on including a small library of helpful tips and notes for working with the Deseret, as I hope this project will be used in my broader research group to train new research assistants.
+
+The program also contains a markdown file with instructions to install a keyboard that allows them to type the characters.
 
 Users will be able to gain access to the program through my research colloquium and run the program from their command line.
