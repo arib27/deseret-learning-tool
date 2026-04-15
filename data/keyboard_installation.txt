@@ -19,11 +19,11 @@ https://help.keyman.com/keyboard/deseret/1.2/deseret
 Due to the nature of typing the Deseret on a Latin-based keyboard, there are a few quirks 
 that can lead to typos. I've outlined them here so you can avoid them in advance!
 
-- You might be tempted to type 𐐳 when you mean 𐐲 - remember that the former uses the u key, 
-    and the latter the o key. Many words in English with the shwa sound (𐐲) are spelled with 
+You might be tempted to type 𐐋 when you mean 𐐊 - remember that the former uses the u key, 
+    and the latter the o key. Many words in English with the shwa sound (𐐊) are spelled with 
     'u', so watch out.
   
-- Symbols which are typed with two key-presses can be tricky. For example, you might need 
-    𐐮𐐮 or 𐐮𐐯 - which would automatically correct to 𐐨 and 𐐴. Avoid this by pressing the space key, 
+Symbols which are typed with two key-presses can be tricky. For example, you might need 
+    𐐆𐐆 or 𐐆𐐇 - which would automatically correct to 𐐀 and 𐐌. Avoid this by pressing the space key, 
     typing the second letter, then deleting the space. Keep an eye out for these, they're easy 
     to miss!

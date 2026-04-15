@@ -2,6 +2,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import tkinter.font as tkFont
 import webbrowser
+from pathlib import Path
 
 ## TO DO
 # configure start button
@@ -11,6 +12,9 @@ import webbrowser
 # create user interface
 class Gui:
     def __init__(self):
+        self.BASE_DIR = Path(__file__).resolve().parent  # src/
+        self.PROJECT_ROOT = self.BASE_DIR.parent  # project/
+        self.DATA_DIR = self.PROJECT_ROOT / "data"  # project/data/
         self.root = tk.Tk()
         self.open_window()
         self.main_frame()
@@ -86,6 +90,8 @@ class Gui:
         self.start_button.pack(side="bottom", pady=5)
 
         # add image
+        img_path = self.DATA_DIR / "des_img.jpg"
+        self.fb_img = Image.open(img_path)
         self.fb_img = Image.open("des_img.jpg")
         self.fb_img = ImageTk.PhotoImage(self.fb_img)
         first_book_img = tk.Label(self.main_frame, image=self.fb_img)
@@ -104,7 +110,8 @@ class Gui:
         self.instructions_frame.pack(fill="both", expand=True)
 
         # fill instructions frame with info
-        with open("program_instructions.txt", "r", encoding="utf-8") as file:
+        instr_path = self.DATA_DIR / "program_instructions.txt"
+        with open(instr_path, "r", encoding="utf-8") as file:
             instr_text = file.read()
 
         tk.Label(
@@ -149,7 +156,8 @@ class Gui:
         self.keyboard_instr_frame.pack(fill="both", expand=True)
 
         # fill keyboard frame with info
-        with open("keyboard_installation.txt", "r", encoding="utf-8") as file:
+        key_instr_path = self.DATA_DIR / "keyboard_installation.txt"
+        with open(key_instr_path, "r", encoding="utf-8") as file:
             key_instr_text = file.read()
 
         tk.Label(
