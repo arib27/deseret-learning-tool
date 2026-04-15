@@ -18,3 +18,6 @@ I also plan on including a small library of helpful tips and notes for working w
 The program also contains a markdown file with instructions to install a keyboard that allows them to type the characters.
 
 Users will be able to gain access to the program through my research colloquium and run the program from their command line.
+
+### How to test the program
+From the command line, open the "deseret-learning-tool" folder, and run "main.py".
