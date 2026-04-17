@@ -2,7 +2,10 @@
 ### BCOG200 - Python for Brain and Cognitive Sciences - final project
 ### 𐐒𐐗𐐉𐐘200 - 𐐑𐐴𐑃𐐱𐑌 𐑁𐐱𐑉 𐐒𐑉𐐩𐑌 𐐰𐑌𐐼 𐐕𐐱𐑀𐑌𐐮𐐻𐐮𐑂 𐐝𐐴𐐲𐑌𐑅𐐮𐑅 - 𐑁𐐴𐑌𐐲𐑊 𐐹𐑉𐐱𐐾𐐯𐐿𐐻
 
-In this project I plan to create learning application for the Deseret alphabet. The Deseret is a phonetic writing system used to write English, developed by the early Mormon community in the 1850s for purposes of orthographic reform and cultural differentiation. This application will be structured similar to other language-learning or flashcard applications, and will teach users to read and write in the Deseret alphabet using spaced repetition. 
+### How to test the program
+From the command line, open the "deseret-learning-tool" folder, and run "main.py".
+
+In this project I plan to create a learning application for the Deseret alphabet. The Deseret is a phonetic writing system used to write English, developed by the early Mormon community in the 1850s for purposes of orthographic reform and cultural differentiation. This application will be structured similar to other language-learning or flashcard applications, and will teach users to read and write in the Deseret alphabet using spaced repetition. Users will be able to gain access to the program through my research colloquium.
 
 #### the GUI
   The program will run on a basic GUI from the command line.
@@ -14,10 +17,3 @@ In this project I plan to create learning application for the Deseret alphabet. 
   This function presents the cards to the user and checks their answers, then updates the schedule for each card.
 
 I also plan on including a small library of helpful tips and notes for working with the Deseret, as I hope this project will be used in my broader research group to train new research assistants.
-
-The program also contains a markdown file with instructions to install a keyboard that allows them to type the characters.
-
-Users will be able to gain access to the program through my research colloquium and run the program from their command line.
-
-### How to test the program
-From the command line, open the "deseret-learning-tool" folder, and run "main.py".

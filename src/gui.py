@@ -6,18 +6,18 @@ from pathlib import Path
 
 ## TO DO
 # configure start button
-# maybe: change paths for .txt, .jpg files into data folder, universalize go_back_frame functions
+# universalize go_back_frame functions
 
 
 # create user interface
 class Gui:
     def __init__(self):
-        self.BASE_DIR = Path(__file__).resolve().parent  # src/
-        self.PROJECT_ROOT = self.BASE_DIR.parent  # project/
-        self.DATA_DIR = self.PROJECT_ROOT / "data"  # project/data/
+        self.SRC_FOLDER = Path(__file__).resolve().parent  # src/
+        self.PROJ_FOLDER = self.SRC_FOLDER.parent  # project/
+        self.DATA_FOLDER = self.PROJ_FOLDER / "data"  # project/data/
         self.root = tk.Tk()
         self.open_window()
-        self.main_frame()
+        self.main_window_frame()
 
     # create main window
     def open_window(self):
@@ -25,7 +25,7 @@ class Gui:
         self.root.geometry("900x600")
 
     # create frame for main window which shows on opening
-    def main_frame(self):
+    def main_window_frame(self):
         self.main_frame = tk.Frame(self.root, bg="#EDE4BE")
         self.main_frame.pack(fill="both", expand=True)
 
@@ -90,9 +90,8 @@ class Gui:
         self.start_button.pack(side="bottom", pady=5)
 
         # add image
-        img_path = self.DATA_DIR / "des_img.jpg"
+        img_path = self.DATA_FOLDER / "des_img.jpg"
         self.fb_img = Image.open(img_path)
-        self.fb_img = Image.open("des_img.jpg")
         self.fb_img = ImageTk.PhotoImage(self.fb_img)
         first_book_img = tk.Label(self.main_frame, image=self.fb_img)
         first_book_img.pack(side="bottom", pady=5)
@@ -110,7 +109,7 @@ class Gui:
         self.instructions_frame.pack(fill="both", expand=True)
 
         # fill instructions frame with info
-        instr_path = self.DATA_DIR / "program_instructions.txt"
+        instr_path = self.DATA_FOLDER / "program_instructions.txt"
         with open(instr_path, "r", encoding="utf-8") as file:
             instr_text = file.read()
 
@@ -156,7 +155,7 @@ class Gui:
         self.keyboard_instr_frame.pack(fill="both", expand=True)
 
         # fill keyboard frame with info
-        key_instr_path = self.DATA_DIR / "keyboard_installation.txt"
+        key_instr_path = self.DATA_FOLDER / "keyboard_installation.txt"
         with open(key_instr_path, "r", encoding="utf-8") as file:
             key_instr_text = file.read()
 
