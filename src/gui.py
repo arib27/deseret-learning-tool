@@ -6,7 +6,6 @@ from pathlib import Path
 
 ## TO DO
 # configure start button
-# universalize go_back_frame functions
 
 
 # create user interface
@@ -16,6 +15,8 @@ class Gui:
         self.PROJ_FOLDER = self.SRC_FOLDER.parent  # project/
         self.DATA_FOLDER = self.PROJ_FOLDER / "data"  # project/data/
         self.root = tk.Tk()
+        self.frame_stack = []
+        self.current_frame = None
         self.open_window()
         self.main_window_frame()
 
@@ -27,7 +28,7 @@ class Gui:
     # create frame for main window which shows on opening
     def main_window_frame(self):
         self.main_frame = tk.Frame(self.root, bg="#EDE4BE")
-        self.main_frame.pack(fill="both", expand=True)
+        self.show_frame(self.main_frame)
 
         # create custom fonts for gui
         self.header_font_1 = tkFont.Font(family="Georgia Bold", size=32)
@@ -102,11 +103,7 @@ class Gui:
 
     # define instructions page button function
     def open_instructions(self):
-        # hide old frame
-        self.main_frame.pack_forget()
-        # create new frame that opens on button press
-        self.instructions_frame = tk.Frame(self.root, bg="#EDE4BE")
-        self.instructions_frame.pack(fill="both", expand=True)
+        frame = tk.Frame(self.root, bg="#EDE4BE")
 
         # fill instructions frame with info
         instr_path = self.DATA_FOLDER / "program_instructions.txt"
@@ -114,7 +111,7 @@ class Gui:
             instr_text = file.read()
 
         tk.Label(
-            self.instructions_frame,
+            frame,
             text=instr_text,
             font=self.main_text_font,
             bg="#EDE4BE",
@@ -122,37 +119,26 @@ class Gui:
 
         # create buttons
         self.back_button = tk.Button(
-            self.instructions_frame,
+            frame,
             text="Back",
-            command=self.frame_back_to_main,
+            command=self.go_back,
             bg="#FFFFDB",
             font=self.button_font_1,
         )
         self.back_button.pack(side="bottom", pady=10)
 
         self.keyboard_instructions_button = tk.Button(
-            self.instructions_frame,
+            frame,
             text="Keyboard installation and use",
             command=self.open_keyboard_instructions,
             font=self.button_font_1,
             bg="#FFFFDB",
-        )
-        self.keyboard_instructions_button.pack(side="bottom", pady=10)
-
-    # create function that returns page to main frame
-    def frame_back_to_main(self):
-        # hide old frame
-        self.instructions_frame.pack_forget()
-        # open new frame
-        self.main_frame.pack(fill="both", expand=True)
+        ).pack(side="bottom")
+        self.show_frame(frame)
 
     # define keyboard instructions page button function
     def open_keyboard_instructions(self):
-        # hide old frame
-        self.instructions_frame.pack_forget()
-        # create keyboard instructions frame
-        self.keyboard_instr_frame = tk.Frame(self.root, bg="#EDE4BE")
-        self.keyboard_instr_frame.pack(fill="both", expand=True)
+        frame = tk.Frame(self.root, bg="#EDE4BE")
 
         # fill keyboard frame with info
         key_instr_path = self.DATA_FOLDER / "keyboard_installation.txt"
@@ -160,7 +146,7 @@ class Gui:
             key_instr_text = file.read()
 
         tk.Label(
-            self.keyboard_instr_frame,
+            frame,
             text=key_instr_text,
             font=self.main_text_font,
             bg="#EDE4BE",
@@ -168,20 +154,29 @@ class Gui:
 
         # add back button
         self.back_button = tk.Button(
-            self.keyboard_instr_frame,
+            frame,
             text="Back",
-            command=self.frame_back_to_instr,
+            command=self.go_back,
             font=self.button_font_1,
             bg="#FFFFDB",
-        )
-        self.back_button.pack(side="top")
+        ).pack(side="bottom", pady=10)
+        self.show_frame(frame)
 
-    # create function that returns page to instructions frame
-    def frame_back_to_instr(self):
-        # hide old frame
-        self.keyboard_instr_frame.pack_forget()
-        # open new frame
-        self.instructions_frame.pack(fill="both", expand=True)
+    # create function that shows new frame
+    def show_frame(self, new_frame):
+        if self.current_frame is not None:
+            self.current_frame.pack_forget()
+            self.frame_stack.append(self.current_frame)
+        self.current_frame = new_frame
+        self.current_frame.pack(fill="both", expand=True)
+
+    # create function that goes back a frame
+    def go_back(self):
+        if self.current_frame is not None:
+            self.current_frame.pack_forget()
+        if self.frame_stack:
+            self.current_frame = self.frame_stack.pop()
+            self.current_frame.pack(fill="both", expand=True)
 
     # define program start button function
     def begin_program(self):
