@@ -1,8 +1,12 @@
 import tkinter as tk
 from PIL import Image, ImageTk
 import tkinter.font as tkFont
+
 import webbrowser
+
 from pathlib import Path
+
+from cards import load_cards
 
 ## TO DO
 # configure start button
@@ -14,9 +18,11 @@ class Gui:
         self.SRC_FOLDER = Path(__file__).resolve().parent  # src/
         self.PROJ_FOLDER = self.SRC_FOLDER.parent  # project/
         self.DATA_FOLDER = self.PROJ_FOLDER / "data"  # project/data/
+
         self.root = tk.Tk()
         self.frame_stack = []
         self.current_frame = None
+
         self.open_window()
         self.main_window_frame()
 
@@ -84,7 +90,7 @@ class Gui:
         self.start_button = tk.Button(
             self.main_frame,
             text="Begin! - 𐐒𐐀𐐘𐐆𐐤!",
-            command=self.begin_program,
+            command=load_cards,
             font=self.button_font_1,
             bg="#FFFFDB",
         )

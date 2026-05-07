@@ -1,308 +1,346 @@
-{
-    "𐐨": {
+[
+    {
+        "prompt": "𐐨",
+        "answer": "ii",
         "name": "Long I",
         "pronunciation": "'ee' in keep, sleep",
-        "keyboard encoding": "ii",
         "features": [
             "vowel"
         ]
     },
-    "𐐩": {
+    {
+        "prompt": "𐐩",
+        "answer": "ee",
         "name": "Long E",
         "pronunciation": "'a' in stay, face",
-        "keyboard encoding": "ee",
         "features": [
             "vowel"
         ]
     },
-    "𐐪": {
+    {
+        "prompt": "𐐪",
+        "answer": "aa",
         "name": "Long A",
         "pronunciation": "'a' in father, bra",
-        "keyboard encoding": "aa",
         "features": [
             "vowel"
         ]
     },
-    "𐐫": {
+    {
+        "prompt": "𐐫",
+        "answer": "aw",
         "name": "Long Ah",
         "pronunciation": "'au' in fraud, caught",
-        "keyboard encoding": "aw",
         "features": [
             "vowel"
         ]
     },
-    "𐐬": {
+    {
+        "prompt": "𐐬",
+        "answer": "oo",
         "name": "Long O",
         "pronunciation": "'o' in go, code",
-        "keyboard encoding": "oo",
         "features": [
             "vowel"
         ]
     },
-    "𐐭": {
+    {
+        "prompt": "𐐭",
+        "answer": "uu",
         "name": "Long Oo",
         "pronunciation": "'oo' in tool, goose",
-        "keyboard encoding": "uu",
         "features": [
             "vowel"
         ]
     },
-    "𐐮": {
+    {
+        "prompt": "𐐮",
+        "answer": "i",
         "name": "Short I",
         "pronunciation": "'i' in kit, sing",
-        "keyboard encoding": "i",
         "features": [
             "vowel"
         ]
     },
-    "𐐯": {
+    {
+        "prompt": "𐐯",
+        "answer": "e",
         "name": "Short E",
         "pronunciation": "'e' in bed, dress",
-        "keyboard encoding": "e",
         "features": [
             "vowel"
         ]
     },
-    "𐐰": {
+    {
+        "prompt": "𐐰",
+        "answer": "a",
         "name": "Short A",
         "pronunciation": "'a' in cat, bad",
-        "keyboard encoding": "a",
         "features": [
             "vowel"
         ]
     },
-    "𐐱": {
+    {
+        "prompt": "𐐱",
+        "answer": "au",
         "name": "Short Ah",
         "pronunciation": "'o' in body, god",
-        "keyboard encoding": "au",
         "features": [
             "vowel"
         ]
     },
-    "𐐲": {
+    {
+        "prompt": "𐐲",
+        "answer": "o",
         "name": "Short O",
         "pronunciation": "'u' in up, cut",
-        "keyboard encoding": "o",
         "features": [
             "vowel"
         ]
     },
-    "𐐳": {
+    {
+        "prompt": "𐐳",
+        "answer": "u",
         "name": "Short Oo",
         "pronunciation": "'u' in push, foot",
-        "keyboard encoding": "u",
         "features": [
             "vowel"
         ]
     },
-    "𐐴": {
+    {
+        "prompt": "𐐴",
+        "answer": "ie",
         "name": "Ay",
         "pronunciation": "'y' in cry, 'i' in price",
-        "keyboard encoding": "ie",
         "features": [
             "vowel"
         ]
     },
-    "𐐵": {
+    {
+        "prompt": "𐐵",
+        "answer": "ow",
         "name": "Ow",
         "pronunciation": "'ou' in mouth, 'ow' in how",
-        "keyboard encoding": "ow",
         "features": [
             "vowel"
         ]
     },
-    "𐐶": {
+    {
+        "prompt": "𐐶",
+        "answer": "w",
         "name": "Wu",
         "pronunciation": "'w' in whale, wind",
-        "keyboard encoding": "w",
         "features": [
             "consonant"
         ]
     },
-    "𐐷": {
+    {
+        "prompt": "𐐷",
+        "answer": "y",
         "name": "Yee",
         "pronunciation": "'y' in day, yes",
-        "keyboard encoding": "y",
         "features": [
             "consonant"
         ]
     },
-    "𐐸": {
+    {
+        "prompt": "𐐸",
+        "answer": "h",
         "name": "H",
         "pronunciation": "'h' in hi, hair",
-        "keyboard encoding": "h",
         "features": [
             "consonant"
         ]
     },
-    "𐐹": {
+    {
+        "prompt": "𐐹",
+        "answer": "p",
         "name": "Pee",
         "pronunciation": "'p' in put, pine",
-        "keyboard encoding": "p",
         "features": [
             "consonant"
         ]
     },
-    "𐐺": {
+    {
+        "prompt": "𐐺",
+        "answer": "b",
         "name": "Bee",
         "pronunciation": "'b' in bread, buy",
-        "keyboard encoding": "b",
         "features": [
             "consonant"
         ]
     },
-    "𐐻": {
+    {
+        "prompt": "𐐻",
+        "answer": "t",
         "name": "Tee",
         "pronunciation": "'t' in town, train",
-        "keyboard encoding": "t",
         "features": [
             "consonant"
         ]
     },
-    "𐐼": {
+    {
+        "prompt": "𐐼",
+        "answer": "d",
         "name": "Dee",
         "pronunciation": "'d' in drink, dawn",
-        "keyboard encoding": "d",
         "features": [
             "consonant"
         ]
     },
-    "𐐽": {
+    {
+        "prompt": "𐐽",
+        "answer": "c",
         "name": "Chee",
         "pronunciation": "'ch' in church, change",
-        "keyboard encoding": "c",
         "features": [
             "consonant"
         ]
     },
-    "𐐾": {
+    {
+        "prompt": "𐐾",
+        "answer": "j",
         "name": "Jee",
         "pronunciation": "'j' in judge, jam",
-        "keyboard encoding": "j",
         "features": [
             "consonant"
         ]
     },
-    "𐐿": {
+    {
+        "prompt": "𐐿",
+        "answer": "k",
         "name": "Kay",
         "pronunciation": "'k' in keep, kind",
-        "keyboard encoding": "k",
         "features": [
             "consonant"
         ]
     },
-    "𐑀": {
+    {
+        "prompt": "𐑀",
+        "answer": "g",
         "name": "Gay",
         "pronunciation": "'g' in ground, gate",
-        "keyboard encoding": "g",
         "features": [
             "consonant"
         ]
     },
-    "𐑁": {
+    {
+        "prompt": "𐑁",
+        "answer": "f",
         "name": "Ef",
         "pronunciation": "'f' in fox, frame",
-        "keyboard encoding": "f",
         "features": [
             "consonant"
         ]
     },
-    "𐑂": {
+    {
+        "prompt": "𐑂",
+        "answer": "v",
         "name": "Vee",
         "pronunciation": "'v' in vice, vixen",
-        "keyboard encoding": "v",
         "features": [
             "consonant"
         ]
     },
-    "𐑃": {
+    {
+        "prompt": "𐑃",
+        "answer": "th",
         "name": "Eth",
         "pronunciation": "'th' in thought, thigh",
-        "keyboard encoding": "th",
         "features": [
             "consonant",
             "unvoiced"
         ]
     },
-    "𐑄": {
+    {
+        "prompt": "𐑄",
+        "answer": "dh",
         "name": "Thee",
         "pronunciation": "'th' in this, breathe",
-        "keyboard encoding": "dh",
         "features": [
             "consonant",
             "voiced"
         ]
     },
-    "𐑅": {
+    {
+        "prompt": "𐑅",
+        "answer": "s",
         "name": "Es",
         "pronunciation": "'s' in sound, stand",
-        "keyboard encoding": "s",
         "features": [
             "consonant"
         ]
     },
-    "𐑆": {
+    {
+        "prompt": "𐑆",
+        "answer": "z",
         "name": "Zee",
         "pronunciation": "'z' in zoom, zen",
-        "keyboard encoding": "z",
         "features": [
             "consonant"
         ]
     },
-    "𐑇": {
+    {
+        "prompt": "𐑇",
+        "answer": "sh",
         "name": "Esh",
         "pronunciation": "'sh' in shirt, shower",
-        "keyboard encoding": "sh",
         "features": [
             "consonant"
         ]
     },
-    "𐑈": {
+    {
+        "prompt": "𐑈",
+        "answer": "zh",
         "name": "Zhee",
         "pronunciation": "'s' in pleasure, 'g' in beige",
-        "keyboard encoding": "zh",
         "features": [
             "consonant"
         ]
     },
-    "𐑉": {
+    {
+        "prompt": "𐑉",
+        "answer": "r",
         "name": "Er",
         "pronunciation": "'r' in round, reap",
-        "keyboard encoding": "r",
         "features": [
             "consonant"
         ]
     },
-    "𐑊": {
+    {
+        "prompt": "𐑊",
+        "answer": "l",
         "name": "El",
         "pronunciation": "'l' in loud, linger",
-        "keyboard encoding": "l",
         "features": [
             "consonant"
         ]
     },
-    "𐑋": {
+    {
+        "prompt": "𐑋",
+        "answer": "m",
         "name": "Em",
         "pronunciation": "'m' in morning, mirth",
-        "keyboard encoding": "m",
         "features": [
             "consonant"
         ]
     },
-    "𐑌": {
+    {
+        "prompt": "𐑌",
+        "answer": "n",
         "name": "En",
         "pronunciation": "'n' in north, neat",
-        "keyboard encoding": "n",
         "features": [
             "consonant"
         ]
     },
-    "𐑍": {
+    {
+        "prompt": "𐑍",
+        "answer": "ng",
         "name": "Eng",
         "pronunciation": "'ng' in sing, king",
-        "keyboard encoding": "ng",
         "features": [
             "consonant"
         ]
     }
-}
+]
