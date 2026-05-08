@@ -1,15 +1,14 @@
 import tkinter as tk
 from PIL import Image, ImageTk
 import tkinter.font as tkFont
+from tkinter import ttk
 
 import webbrowser
 
 from pathlib import Path
 
-from cards import load_cards
-
 ## TO DO
-# configure start button
+# configure start menu buttons
 
 
 # create user interface
@@ -38,9 +37,10 @@ class Gui:
 
         # create custom fonts for gui
         self.header_font_1 = tkFont.Font(family="Georgia Bold", size=32)
-        self.header_font_2 = tkFont.Font(family="Georgia Bold", size=32)
+        self.header_font_2 = tkFont.Font(family="Georgia Bold", size=20)
         self.button_font_1 = tkFont.Font(family="Georgia", size=15)
         self.main_text_font = tkFont.Font(family="Georgia", size=12)
+        self.text_entry_font = tkFont.Font(family="Noto Sans Deseret", size=23)
 
         # create text
         tk.Label(
@@ -52,7 +52,7 @@ class Gui:
         tk.Label(
             self.main_frame,
             text="𐐔𐐯𐑅𐑆𐑉𐐯𐐻 𐐢𐐯𐑉𐑌𐐮𐑍 𐐓𐐭𐑊",
-            font=self.header_font_2,
+            font=self.header_font_1,
             bg="#EDE4BE",
         ).pack(side="top", pady=5)
 
@@ -80,7 +80,7 @@ class Gui:
         self.instructions_button = tk.Button(
             self.main_frame,
             text="Program Instructions - 𐐑𐐡𐐄𐐘𐐡𐐈𐐣 𐐆𐐤𐐝𐐓𐐡𐐊𐐗𐐟𐐆𐐤𐐞",
-            command=self.open_instructions,
+            command=self.main_instructions,
             font=self.button_font_1,
             bg="#FFFFDB",
         )
@@ -90,7 +90,7 @@ class Gui:
         self.start_button = tk.Button(
             self.main_frame,
             text="Begin! - 𐐒𐐀𐐘𐐆𐐤!",
-            command=load_cards,
+            command=self.begin_menu_frame,
             font=self.button_font_1,
             bg="#FFFFDB",
         )
@@ -108,7 +108,7 @@ class Gui:
         webbrowser.open("http://faculty.las.illinois.edu/rshosted/deseret.html")
 
     # define instructions page button function
-    def open_instructions(self):
+    def main_instructions(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
         # fill instructions frame with info
@@ -126,7 +126,7 @@ class Gui:
         # create buttons
         self.back_button = tk.Button(
             frame,
-            text="Back",
+            text="Back - 𐐒𐐈𐐗",
             command=self.go_back,
             bg="#FFFFDB",
             font=self.button_font_1,
@@ -135,7 +135,7 @@ class Gui:
 
         self.keyboard_instructions_button = tk.Button(
             frame,
-            text="Keyboard installation and use",
+            text="Keyboard installation and use - 𐐗𐐀𐐒𐐄𐐡𐐔",
             command=self.open_keyboard_instructions,
             font=self.button_font_1,
             bg="#FFFFDB",
@@ -143,7 +143,7 @@ class Gui:
         self.show_frame(frame)
 
     # define keyboard instructions page button function
-    def open_keyboard_instructions(self):
+    def keyboard_instructions(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
         # fill keyboard frame with info
@@ -161,7 +161,7 @@ class Gui:
         # add back button
         self.back_button = tk.Button(
             frame,
-            text="Back",
+            text="Back - 𐐒𐐈𐐗",
             command=self.go_back,
             font=self.button_font_1,
             bg="#FFFFDB",
@@ -184,6 +184,142 @@ class Gui:
             self.current_frame = self.frame_stack.pop()
             self.current_frame.pack(fill="both", expand=True)
 
-    # define program start button function
-    def begin_program(self):
-        pass
+    # create begin program menu
+    def begin_menu_frame(self):
+        frame = tk.Frame(self.root, bg="#EDE4BE")
+
+        # create text and buttons
+        tk.Label(
+            frame,
+            text="Choose a learning mode to proceed - 𐐕𐐅𐐞 𐐊 𐐢𐐇𐐡𐐤𐐆𐐥 𐐣𐐄𐐔 𐐓𐐅 𐐑𐐡𐐄𐐝𐐀𐐔",
+            font=self.header_font_2,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=30)
+
+        self.back_button = tk.Button(
+            frame,
+            text="Back - 𐐒𐐈𐐗",
+            command=self.go_back,
+            font=self.button_font_1,
+            bg="#FFFFDB",
+        ).pack(side="bottom", pady=15)
+
+        img_path = self.DATA_FOLDER / "des_img_2.jpg"
+        self.manu_img = Image.open(img_path)
+        self.manu_img = ImageTk.PhotoImage(self.manu_img)
+        manuscript_img = tk.Label(frame, image=self.manu_img)
+        manuscript_img.pack(side="bottom", pady=9)
+
+        tk.Button(
+            frame,
+            text="Flashcards - 𐐙𐐢𐐈𐐟𐐗𐐉𐐡𐐔𐐞",
+            command=self.flashcards_frame,
+            font=self.button_font_1,
+            bg="#FFFFDB",
+        ).pack(pady=9)
+
+        tk.Button(
+            frame,
+            text="Deseret to Latin Typing - 𐐔𐐇𐐝𐐞𐐡𐐇𐐓 𐐓𐐅 𐐢𐐈𐐓𐐆𐐤 𐐓𐐌𐐑𐐆𐐥",
+            command=self.d_to_l_typing_frame,
+            font=self.button_font_1,
+            bg="#FFFFDB",
+        ).pack(pady=9)
+
+        tk.Button(
+            frame,
+            text="Latin to Deseret Typing - 𐐢𐐈𐐓𐐆𐐤 𐐓𐐅 𐐔𐐇𐐝𐐞𐐡𐐇𐐓 𐐓𐐌𐐑𐐆𐐥",
+            command=self.l_to_d_typing_frame,
+            font=self.button_font_1,
+            bg="#FFFFDB",
+        ).pack(pady=9)
+
+        self.show_frame(frame)
+
+    # create flashcard function frame
+    def flashcards_frame(self):
+        frame = tk.Frame(self.root, bg="#EDE4BE")
+
+        self.back_button = tk.Button(
+            frame,
+            text="Back - 𐐒𐐈𐐗",
+            command=self.go_back,
+            font=self.button_font_1,
+            bg="#FFFFDB",
+        ).pack(side="bottom", pady=15)
+
+        self.show_frame(frame)
+
+    # create deseret to latin typing function frame
+    def d_to_l_typing_frame(self):
+        frame = tk.Frame(self.root, bg="#EDE4BE")
+
+        tk.Label(
+            frame,
+            text="Deseret to Latin Typing practice - 𐐔𐐇𐐝𐐞𐐡𐐇𐐓 𐐓𐐅 𐐢𐐈𐐓𐐆𐐤 𐐓𐐌𐐑𐐆𐐥 𐐑𐐡𐐈𐐗𐐓𐐆𐐝",
+            font=self.header_font_2,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=30)
+
+        tk.Label(
+            frame,
+            text="Enter the corresponding Latin text for the Deseret shown.",
+            font=self.header_font_2,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=30)
+
+        tk.Label(
+            frame,
+            text="Here is the example",
+            font=self.header_font_1,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=30)
+
+        self.back_button = tk.Button(
+            frame,
+            text="Back - 𐐒𐐈𐐗",
+            command=self.go_back,
+            font=self.button_font_1,
+            bg="#FFFFDB",
+        ).pack(side="bottom", pady=15)
+
+        tk.Text(frame, width=20, font=self.text_entry_font).pack(side="bottom", pady=80)
+
+        self.show_frame(frame)
+
+    # create latin to deseret typing function frame
+    def l_to_d_typing_frame(self):
+        frame = tk.Frame(self.root, bg="#EDE4BE")
+
+        tk.Label(
+            frame,
+            text="Latin to Deseret Typing practice - 𐐢𐐈𐐓𐐆𐐤 𐐓𐐅 𐐔𐐇𐐝𐐞𐐡𐐇𐐓 𐐓𐐌𐐑𐐆𐐥 𐐑𐐡𐐈𐐗𐐓𐐆𐐝",
+            font=self.header_font_2,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=30)
+
+        tk.Label(
+            frame,
+            text="Enter the corresponding Deseret text for the Latin shown.",
+            font=self.header_font_2,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=30)
+
+        tk.Label(
+            frame,
+            text="Here is the example",
+            font=self.header_font_1,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=30)
+
+        self.back_button = tk.Button(
+            frame,
+            text="Back - 𐐒𐐈𐐗",
+            command=self.go_back,
+            font=self.button_font_1,
+            bg="#FFFFDB",
+        ).pack(side="bottom", pady=15)
+
+        tk.Text(frame, width=20, font=self.text_entry_font).pack(side="bottom", pady=80)
+
+        self.show_frame(frame)
