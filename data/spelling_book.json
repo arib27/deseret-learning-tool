@@ -1,0 +1,4477 @@
+[
+    {
+        "latin": "abide",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐺𐐴𐐼"
+        ]
+    },
+    {
+        "latin": "able",
+        "difficulty": 1,
+        "deseret": [
+            "𐐩𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "aboard",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐺𐐬𐑉𐐼"
+        ]
+    },
+    {
+        "latin": "abode",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐺𐐬𐐼"
+        ]
+    },
+    {
+        "latin": "abomination",
+        "difficulty": 3,
+        "deseret": [
+            "𐐰𐐺𐐱𐑋𐐮𐐩𐑇𐐲𐑌",
+            "𐐰𐐺𐐱𐑋𐐮𐑌𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "about",
+        "difficulty": 1,
+        "deseret": [
+            "𐐰𐐺𐐵𐐻"
+        ]
+    },
+    {
+        "latin": "abridged",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐺𐑉𐐮𐐾𐐼"
+        ]
+    },
+    {
+        "latin": "abundance",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐺𐐲𐑌𐐼𐐰𐑌𐑅",
+            "𐐰𐐺𐐲𐑌𐐼𐐲𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "acceptable",
+        "difficulty": 3,
+        "deseret": [
+            "𐐰𐐿𐑅𐐯𐐹𐐻𐐰𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "accomplish",
+        "difficulty": 3,
+        "deseret": [
+            "𐐰𐐿𐐱𐑋𐐹𐑊𐐮𐑇"
+        ]
+    },
+    {
+        "latin": "acknowledge",
+        "difficulty": 3,
+        "deseret": [
+            "𐐰𐐿𐑌𐐱𐑊𐐯𐐾"
+        ]
+    },
+    {
+        "latin": "administer",
+        "difficulty": 3,
+        "deseret": [
+            "𐐰𐐼𐑋𐐮𐑌𐐮𐑅𐐻𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "adultery",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐼𐐲𐑊𐐻𐐯𐑉𐐮",
+            "𐐰𐐼𐐲𐑊𐐻𐑉𐐮"
+        ]
+    },
+    {
+        "latin": "advanced",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐼𐑂𐐰𐑌𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "adversary",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐼𐑂𐐯𐑉𐑅𐐯𐑉𐐮",
+            "𐐰𐐼𐑂𐐯𐑉𐑅𐐰𐑉𐐮"
+        ]
+    },
+    {
+        "latin": "advocate",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐼𐑂𐐬𐑀𐐩𐐻"
+        ]
+    },
+    {
+        "latin": "affection",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐑁𐐯𐐿𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "afflicted",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐑁𐑊𐐮𐐿𐐻𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "after",
+        "difficulty": 1,
+        "deseret": [
+            "𐐪𐑁𐐻𐐯𐑉",
+            "𐐪𐑁𐐻𐑉",
+            "𐐰𐑁𐐻𐐯𐑉",
+            "𐐰𐑁𐐻𐑉"
+        ]
+    },
+    {
+        "latin": "afterwards",
+        "difficulty": 3,
+        "deseret": [
+            "𐐪𐑁𐐻𐐯𐑉𐐶𐐲𐑉𐐼𐑆",
+            "𐐰𐑁𐐻𐑉𐐶𐐫𐑉𐐼𐑆"
+        ]
+    },
+    {
+        "latin": "agreeable",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑀𐑉𐐨𐐯𐐺𐑊𐐮",
+            "𐐰𐑀𐑉𐐨𐐰𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "all",
+        "difficulty": 1,
+        "deseret": [
+            "𐐫𐑊",
+            "𐐬𐑊",
+            "𐐭𐑊"
+        ]
+    },
+    {
+        "latin": "almighty",
+        "difficulty": 3,
+        "deseret": [
+            "𐐫𐑊𐑋𐐴𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "also",
+        "difficulty": 1,
+        "deseret": [
+            "𐐫𐑊𐑅𐐬",
+            "𐐫𐑊𐑅𐐱",
+            "𐐬𐑊𐑅𐐬"
+        ]
+    },
+    {
+        "latin": "although",
+        "difficulty": 3,
+        "deseret": [
+            "𐐃𐑊𐑄𐐬",
+            "𐐫𐑊𐑄𐐬"
+        ]
+    },
+    {
+        "latin": "altogether",
+        "difficulty": 3,
+        "deseret": [
+            "𐐫𐑊𐐻𐐳𐑀𐐯𐑄𐑉"
+        ]
+    },
+    {
+        "latin": "and",
+        "difficulty": 1,
+        "deseret": [
+            "𐐰𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "any",
+        "difficulty": 1,
+        "deseret": [
+            "𐐯𐑌𐐮",
+            "𐑌𐐮"
+        ]
+    },
+    {
+        "latin": "apostles",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐹𐐱𐑅𐑊𐑆"
+        ]
+    },
+    {
+        "latin": "appearance",
+        "difficulty": 3,
+        "deseret": [
+            "𐐰𐐹𐐨𐑉𐐰𐑌𐑅",
+            "𐐰𐐹𐐨𐑉𐐲𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "appetite",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐹𐐮𐐻𐐴𐐻"
+        ]
+    },
+    {
+        "latin": "approach",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐹𐑉𐐬𐐽"
+        ]
+    },
+    {
+        "latin": "approved",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐹𐑉𐐭𐑂𐐼"
+        ]
+    },
+    {
+        "latin": "as",
+        "difficulty": 1,
+        "deseret": [
+            "𐐰𐑆"
+        ]
+    },
+    {
+        "latin": "assemble",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐑅𐐯𐑋𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "astonished",
+        "difficulty": 3,
+        "deseret": [
+            "𐐰𐑅𐐻𐐱𐑌𐐮𐑇𐐻"
+        ]
+    },
+    {
+        "latin": "at",
+        "difficulty": 1,
+        "deseret": [
+            "𐐰𐐻"
+        ]
+    },
+    {
+        "latin": "attended",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐻𐐯𐑌𐐼𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "attitude",
+        "difficulty": 2,
+        "deseret": [
+            "𐐰𐐻𐐮𐐻𐐮𐐭𐐼"
+        ]
+    },
+    {
+        "latin": "authority",
+        "difficulty": 2,
+        "deseret": [
+            "𐐫𐑃𐐱𐑉𐐮𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "back",
+        "difficulty": 1,
+        "deseret": [
+            "𐐺𐐰𐐿"
+        ]
+    },
+    {
+        "latin": "bacon",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐩𐐿𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "bad",
+        "difficulty": 1,
+        "deseret": [
+            "𐐺𐐰𐐼"
+        ]
+    },
+    {
+        "latin": "bag",
+        "difficulty": 1,
+        "deseret": [
+            "𐐺𐐰𐑀"
+        ]
+    },
+    {
+        "latin": "baits",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐩𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "bake",
+        "difficulty": 1,
+        "deseret": [
+            "𐐺𐐩𐐿"
+        ]
+    },
+    {
+        "latin": "balance",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐰𐑊𐐰𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "ball",
+        "difficulty": 1,
+        "deseret": [
+            "𐐺𐐫𐑊"
+        ]
+    },
+    {
+        "latin": "band",
+        "difficulty": 1,
+        "deseret": [
+            "𐐺𐐰𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "baptized",
+        "difficulty": 3,
+        "deseret": [
+            "𐐺𐐰𐐹𐐻𐐴𐑆𐐼"
+        ]
+    },
+    {
+        "latin": "beautiful",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐮𐐭𐐻𐐮𐑁𐐳𐑊"
+        ]
+    },
+    {
+        "latin": "because",
+        "difficulty": 1,
+        "deseret": [
+            "𐐒𐐨𐐿𐐫𐑆",
+            "𐐒𐐯𐐿𐐫𐑆",
+            "𐐺𐐨𐐿𐐫𐑆",
+            "𐐺𐐩𐐿𐐫𐑆",
+            "𐐺𐐮𐐿𐐫𐑆",
+            "𐐺𐐯𐐿𐐫𐑆",
+            "𐐺𐐯𐑀𐐫𐑆",
+            "𐐺𐐿𐐫𐑆"
+        ]
+    },
+    {
+        "latin": "beckoned",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐯𐐿𐐲𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "beforehand",
+        "difficulty": 3,
+        "deseret": [
+            "𐐺𐐨𐑁𐐬𐑉𐐸𐐰𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "beginning",
+        "difficulty": 2,
+        "deseret": [
+            "𐐒𐑀𐐮𐑌𐑍",
+            "𐐺𐐨𐑀𐐮𐑌𐐮𐑍",
+            "𐐺𐐯𐑀𐐮𐑌𐐮𐑍",
+            "𐐺𐐿𐐮𐑌𐑍",
+            "𐐺𐐿𐑌𐑌𐑍",
+            "𐐺𐑀𐐮𐑌𐐮𐑍",
+            "𐐺𐑀𐐮𐑌𐑍"
+        ]
+    },
+    {
+        "latin": "begotten",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐨𐑀𐐱𐐻𐑌",
+            "𐐺𐑀𐐱𐐻𐑌"
+        ]
+    },
+    {
+        "latin": "believed",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐨𐑊𐐨𐑂𐐼",
+            "𐐺𐐨𐑊𐐲𐑂𐐼"
+        ]
+    },
+    {
+        "latin": "bitterness",
+        "difficulty": 3,
+        "deseret": [
+            "𐐺𐐮𐐻𐐯𐑉𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "blessings",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐑊𐐯𐑅𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "blindness",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐑊𐐴𐑌𐐼𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "blushing",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐑊𐐲𐑇𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "boldness",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐬𐑊𐐼𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "borrower",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐫𐑉𐐬𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "brambles",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺 𐑉𐐰𐑋𐐺𐑊𐑆"
+        ]
+    },
+    {
+        "latin": "brethren",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐑉𐐯𐑄𐑉𐐯𐑌"
+        ]
+    },
+    {
+        "latin": "brightness",
+        "difficulty": 3,
+        "deseret": [
+            "𐐺𐑉𐐴𐐻𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "brimstone",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐑉𐐮𐑋𐑅𐐻𐐬𐑌"
+        ]
+    },
+    {
+        "latin": "brother",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐑉𐐲𐑄𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "business",
+        "difficulty": 2,
+        "deseret": [
+            "𐐺𐐮𐑆𐑌𐐯𐑅",
+            "𐐺𐐮𐑆𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "but",
+        "difficulty": 1,
+        "deseret": [
+            "𐐒𐐲𐐻",
+            "𐐲𐐻",
+            "𐐺𐐲𐐻",
+            "𐑄𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "by",
+        "difficulty": 1,
+        "deseret": [
+            "𐐒𐐌",
+            "𐐒𐐴",
+            "𐐮𐑌",
+            "𐐺𐐴"
+        ]
+    },
+    {
+        "latin": "cage",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐩𐐾"
+        ]
+    },
+    {
+        "latin": "cake",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐩𐐿"
+        ]
+    },
+    {
+        "latin": "calamities",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐰𐑊𐐰𐑋𐐮𐐻𐐮𐑆"
+        ]
+    },
+    {
+        "latin": "calf",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐪𐑁"
+        ]
+    },
+    {
+        "latin": "call",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐫𐑊"
+        ]
+    },
+    {
+        "latin": "calm",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐪𐑋"
+        ]
+    },
+    {
+        "latin": "calves",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐪𐑂𐑆"
+        ]
+    },
+    {
+        "latin": "came",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐩𐑋",
+            "𐑊𐐩𐑋"
+        ]
+    },
+    {
+        "latin": "can",
+        "difficulty": 1,
+        "deseret": [
+            "𐐗𐐰𐑌",
+            "𐐿𐐰𐑌",
+            "𐐿𐐱𐑌",
+            "𐑌𐐰𐑀"
+        ]
+    },
+    {
+        "latin": "candle",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐰𐑌𐐼𐑊"
+        ]
+    },
+    {
+        "latin": "captivity",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐰𐐹𐐻𐐮𐑂𐐮𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "celestial",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐨𐑊𐐯𐑅𐐻𐐨𐐰𐑊"
+        ]
+    },
+    {
+        "latin": "certainly",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐯𐑉𐐻𐐮𐑌𐑊𐐮",
+            "𐑅𐐲𐑉𐐻𐐮𐑌𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "chanting",
+        "difficulty": 2,
+        "deseret": [
+            "𐐽𐐪𐑌𐐻𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "chastisement",
+        "difficulty": 3,
+        "deseret": [
+            "𐐽𐐰𐑅𐐻𐐮𐑅𐑋𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "cheerful",
+        "difficulty": 2,
+        "deseret": [
+            "𐐽𐐨𐑉𐑁𐐳𐑊"
+        ]
+    },
+    {
+        "latin": "chestnuts",
+        "difficulty": 2,
+        "deseret": [
+            "𐐽𐐯𐑅𐑌𐐲𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "children",
+        "difficulty": 2,
+        "deseret": [
+            "𐐕𐐮𐑊𐐼𐑉𐐯𐑌",
+            "𐐕𐐮𐑊𐐼𐑉𐐯𐑍",
+            "𐐽𐐮𐑊𐐼𐑉𐐯𐑌",
+            "𐐽𐐮𐑊𐐼𐑉𐐯𐑍",
+            "𐐽𐐮𐑊𐐼𐑉𐑌"
+        ]
+    },
+    {
+        "latin": "cleanliness",
+        "difficulty": 3,
+        "deseret": [
+            "𐐗𐑊𐐨𐑌𐑊𐐮𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "cleverly",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐑊𐐯𐑂𐐯𐑉𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "clinging",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐑊𐐮𐑍𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "combinations",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐱𐑋𐐺𐐮𐑌𐐩𐑇𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "come",
+        "difficulty": 1,
+        "deseret": [
+            "𐐗𐐲𐑋",
+            "𐐿𐐯𐑋",
+            "𐐿𐐲𐑋"
+        ]
+    },
+    {
+        "latin": "commander",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐲𐑋𐐰𐑌𐐼𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "communication",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐱𐑋𐐮𐐳𐑌𐐮𐐿𐐩𐑇𐐲𐑌",
+            "𐐿𐐲𐑋𐐮𐐭𐑌𐐮𐐿𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "companions",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐲𐑋𐐹𐐰𐑌𐐷𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "compassion",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐲𐑋𐐹𐐰𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "complain",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐲𐑋𐐹𐑊𐐩𐑌"
+        ]
+    },
+    {
+        "latin": "concerning",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐱𐑌𐑅𐐯𐑉𐑌𐐮𐑍",
+            "𐐿𐐱𐑌𐑅𐐲𐑉𐑌𐐮𐑍",
+            "𐐿𐐱𐑌𐑅𐐲𐑉𐑌𐑍",
+            "𐐿𐐲𐑌𐑅𐐲𐑉𐑌𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "condemnation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐱𐑌𐐼𐑋𐑌𐐩𐑇𐐲𐑌",
+            "𐐿𐐱𐑌𐐼𐑋𐑌𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "confidence",
+        "difficulty": 3,
+        "deseret": [
+            "𐐗𐐱𐑌𐑁𐐮𐐼𐐯𐑌𐑅",
+            "𐐿𐐱𐑌𐑁𐐮𐐼𐐯𐑌𐑅",
+            "𐐿𐐱𐑌𐑁𐐮𐐼𐐯𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "congregation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐱𐑍𐑀𐑉𐐯𐑀𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "connected",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐱𐑌𐐯𐐿𐐻𐐯𐐼",
+            "𐐿𐐲𐑌𐐯𐐿𐐻𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "consider",
+        "difficulty": 2,
+        "deseret": [
+            "𐐗𐐲𐑌𐑅𐐮𐐼𐐯𐑉",
+            "𐐿𐐱𐑌𐑅𐐮𐐼𐐯𐑉",
+            "𐐿𐐱𐑌𐑅𐐮𐐼𐑉",
+            "𐐿𐐲𐑌𐑅𐐮𐐼𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "converted",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐲𐑌𐑂𐐯𐑉𐐻𐐯𐐼",
+            "𐐿𐐲𐑌𐑂𐐲𐑉𐐻𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "countries",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐲𐑌𐐻𐑉𐐮𐑆"
+        ]
+    },
+    {
+        "latin": "covenant",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐲𐑂𐐨𐑌𐐲𐑌𐐻",
+            "𐐿𐐲𐑂𐐮𐑌𐐰𐑌𐐻",
+            "𐐿𐐲𐑂𐐯𐑌𐐰𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "crucifixion",
+        "difficulty": 3,
+        "deseret": [
+            "𐐗𐑉𐐭𐑅𐐮𐑁𐐮𐐿𐑇𐐲𐑌",
+            "𐐿𐑉𐐭𐑅𐐮𐑁𐐮𐐿𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "cultivate",
+        "difficulty": 2,
+        "deseret": [
+            "𐐗𐐲𐑊𐐻𐐮𐑂𐐩𐐻",
+            "𐐿𐐲𐑊𐐻𐐮𐑂𐐩𐐻"
+        ]
+    },
+    {
+        "latin": "daily",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐩𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "dainty",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐩𐑌𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "damage",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐰𐑋𐐩𐐾"
+        ]
+    },
+    {
+        "latin": "dance",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐪𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "danger",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐩𐑌𐐾𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "dark",
+        "difficulty": 1,
+        "deseret": [
+            "𐐼𐐪𐑉𐐿",
+            "𐐼𐐪𐑉𐐿𐑌𐐯𐑅",
+            "𐐼𐐰𐑉𐐿"
+        ]
+    },
+    {
+        "latin": "darts",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐪𐑉𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "daughter",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐫𐐻𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "day",
+        "difficulty": 1,
+        "deseret": [
+            "𐐔𐐩",
+            "𐐜𐐩",
+            "𐐺𐐩",
+            "𐐼𐐩"
+        ]
+    },
+    {
+        "latin": "deceitful",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐮𐑅𐐨𐐻𐑁𐐲𐑊",
+            "𐐼𐐯𐑅𐐨𐐻𐑁𐐲𐑊"
+        ]
+    },
+    {
+        "latin": "deliverance",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐨𐑊𐐮𐑂𐐯𐑉𐐲𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "departure",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐨𐐹𐐪𐑉𐐻𐐷𐐭𐑉"
+        ]
+    },
+    {
+        "latin": "descendant",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐨𐑅𐐯𐑌𐐼𐐲𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "desirable",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐨𐑆𐐴𐑉𐐰𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "desolation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐯𐑅𐐬𐑊𐐩𐑇𐐲𐑌",
+            "𐐼𐐯𐑅𐐲𐑊𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "despitefully",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐯𐑅𐐹𐐴𐐻𐑁𐐳𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "destroyers",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐨𐑅𐐻𐑉𐐱𐐮𐐯𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "destruction",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐨𐑅𐐻𐑉𐐲𐐿𐑇𐐲𐑌",
+            "𐐼𐐨𐑅𐐻𐑉𐐲𐐿𐑇𐐲𐑌𐑆",
+            "𐐼𐐮𐑅𐐻𐑉𐐲𐐿𐑇𐐲𐑌",
+            "𐐼𐐮𐑅𐐻𐑉𐐲𐐿𐑇𐑌",
+            "𐐼𐐯𐑅𐐻𐑉𐐲𐐿𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "difficult",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐮𐑁𐐮𐐿𐐲𐑊𐐻"
+        ]
+    },
+    {
+        "latin": "disciples",
+        "difficulty": 2,
+        "deseret": [
+            "𐐔𐐮𐑅𐐴𐐹𐑊𐑆",
+            "𐐼𐐮𐑅𐐴𐐹𐑊𐑆",
+            "𐐼𐑅𐐴𐐹𐑊𐑆"
+        ]
+    },
+    {
+        "latin": "discovery",
+        "difficulty": 2,
+        "deseret": [
+            "𐐔𐐮𐑅𐐿𐐲𐑂𐐯𐑉𐐮"
+        ]
+    },
+    {
+        "latin": "disposing",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐮𐑅𐐹𐐬𐑆𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "disposition",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐮𐑅𐐹𐐬𐑆𐐮𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "disputations",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐮𐑅𐐹𐐮𐐭𐐻𐐩𐑇𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "disputing",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐮𐑅𐐹𐐮𐐭𐐻𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "dissemblers",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐮𐑅𐐯𐑋𐐺𐑊𐐯𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "dissensions",
+        "difficulty": 3,
+        "deseret": [
+            "𐐔𐐮𐑅𐐯𐑌𐑇𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "dissolved",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐯𐑆𐐫𐑊𐑂𐐼"
+        ]
+    },
+    {
+        "latin": "divorcement",
+        "difficulty": 3,
+        "deseret": [
+            "𐐼𐐮𐑂𐐬𐑉𐑅𐑋𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "do",
+        "difficulty": 1,
+        "deseret": [
+            "𐐔𐐬",
+            "𐐔𐐭",
+            "𐐼𐐭",
+            "𐐼𐐳"
+        ]
+    },
+    {
+        "latin": "dwellings",
+        "difficulty": 2,
+        "deseret": [
+            "𐐼𐐶𐐯𐑊𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "each",
+        "difficulty": 1,
+        "deseret": [
+            "𐐨𐐽"
+        ]
+    },
+    {
+        "latin": "eagle",
+        "difficulty": 2,
+        "deseret": [
+            "𐐨𐑀𐑊"
+        ]
+    },
+    {
+        "latin": "ear",
+        "difficulty": 1,
+        "deseret": [
+            "𐐨𐑉"
+        ]
+    },
+    {
+        "latin": "early",
+        "difficulty": 2,
+        "deseret": [
+            "𐐊𐑉𐑊𐐮",
+            "𐐲𐑉𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "earnest",
+        "difficulty": 2,
+        "deseret": [
+            "𐐲𐑉𐑌𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "earth",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑉𐑃",
+            "𐐲𐑉𐐹",
+            "𐐲𐑉𐑃",
+            "𐐲𐑉𐑇",
+            "𐐲𐑌𐑃",
+            "𐑉𐑃"
+        ]
+    },
+    {
+        "latin": "earthquake",
+        "difficulty": 3,
+        "deseret": [
+            "𐐲𐑉𐑃𐐿𐐶𐐩𐐿"
+        ]
+    },
+    {
+        "latin": "ease",
+        "difficulty": 1,
+        "deseret": [
+            "𐐨𐑆"
+        ]
+    },
+    {
+        "latin": "east",
+        "difficulty": 1,
+        "deseret": [
+            "𐐨𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "emigrated",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑋𐐮𐑀𐑉𐐩𐐻𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "emptiness",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑋𐐻𐐮𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "encircled",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑌𐑅𐐲𐑉𐐿𐑊𐐼"
+        ]
+    },
+    {
+        "latin": "encourage",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑌𐐿𐐲𐑉𐐲𐐾"
+        ]
+    },
+    {
+        "latin": "energetic",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑌𐐯𐑉𐐾𐐯𐐻𐐮𐐿"
+        ]
+    },
+    {
+        "latin": "engravings",
+        "difficulty": 3,
+        "deseret": [
+            "𐐇𐑌𐑀𐑉𐐩𐑂𐐮𐑍𐑆",
+            "𐐯𐑌𐑀𐑉𐐩𐑂𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "entangled",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑌𐐻𐐰𐑍𐑀𐑊𐐼"
+        ]
+    },
+    {
+        "latin": "especially",
+        "difficulty": 3,
+        "deseret": [
+            "𐐯𐑅𐐹𐐯𐑇𐐲𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "establish",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑅𐐻𐐰𐐺𐑊𐐮𐑇",
+            "𐑅𐐻𐐰𐐺𐑊𐐮𐑇"
+        ]
+    },
+    {
+        "latin": "even",
+        "difficulty": 1,
+        "deseret": [
+            "𐐀𐑂𐑌",
+            "𐐨𐑂𐑌"
+        ]
+    },
+    {
+        "latin": "everlasting",
+        "difficulty": 3,
+        "deseret": [
+            "𐐯𐑂𐐯𐑉𐑊𐐪𐑅𐐻𐐮𐑍",
+            "𐐯𐑂𐑉𐑊𐐰𐑅𐐻𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "exceeding",
+        "difficulty": 3,
+        "deseret": [
+            "𐐯𐐿𐑅𐐨𐐼𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "excellent",
+        "difficulty": 3,
+        "deseret": [
+            "𐐇𐐿𐑅𐐯𐑊𐐯𐑌𐐻",
+            "𐐯𐐿𐑅𐐯𐑊𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "existence",
+        "difficulty": 3,
+        "deseret": [
+            "𐐯𐑀𐑆𐐮𐑅𐐻𐐰𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "expedient",
+        "difficulty": 3,
+        "deseret": [
+            "𐐯𐐿𐑅𐐹𐐨𐐼𐐮𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "face",
+        "difficulty": 1,
+        "deseret": [
+            "𐑁𐐩𐑅"
+        ]
+    },
+    {
+        "latin": "faculty",
+        "difficulty": 2,
+        "deseret": [
+            "𐑁𐐰𐐿𐐲𐑊𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "fade",
+        "difficulty": 1,
+        "deseret": [
+            "𐑁𐐩𐐼"
+        ]
+    },
+    {
+        "latin": "fail",
+        "difficulty": 1,
+        "deseret": [
+            "𐑁𐐩𐑊"
+        ]
+    },
+    {
+        "latin": "faint",
+        "difficulty": 2,
+        "deseret": [
+            "𐑁𐐩𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "fair",
+        "difficulty": 1,
+        "deseret": [
+            "𐑁𐐩𐑉"
+        ]
+    },
+    {
+        "latin": "faith",
+        "difficulty": 2,
+        "deseret": [
+            "𐐙𐐩𐑃",
+            "𐑁𐐩𐑃"
+        ]
+    },
+    {
+        "latin": "fellowship",
+        "difficulty": 3,
+        "deseret": [
+            "𐑁𐐮𐑊𐐬𐑇𐐮𐐹"
+        ]
+    },
+    {
+        "latin": "firmament",
+        "difficulty": 2,
+        "deseret": [
+            "𐑁𐐲𐑉𐑋𐐰𐑋𐐯𐑌𐐻",
+            "𐑁𐑉𐑋𐐰𐑋𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "first",
+        "difficulty": 1,
+        "deseret": [
+            "𐐙𐐊𐐡𐐝𐐓",
+            "𐐙𐐲𐑉𐑅𐐻",
+            "𐑁𐐲𐑉𐑅𐐻",
+            "𐑁𐑉𐑅𐐻",
+            "𐑁𐑉𐑅𐐻𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "foolishness",
+        "difficulty": 3,
+        "deseret": [
+            "𐑁𐐭𐑊𐐮𐑇𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "for",
+        "difficulty": 1,
+        "deseret": [
+            "𐐙𐐫𐑉",
+            "𐐙𐐬𐑉",
+            "𐐙𐐱𐑉",
+            "𐐸𐐫𐑉",
+            "𐑁𐐫 𐑉",
+            "𐑁𐐫𐑉",
+            "𐑁𐐬𐑉",
+            "𐑁𐐭𐑉",
+            "𐑁𐐱𐑉"
+        ]
+    },
+    {
+        "latin": "forbidden",
+        "difficulty": 2,
+        "deseret": [
+            "𐑁𐐲𐑉𐐺𐐮𐐼𐑌"
+        ]
+    },
+    {
+        "latin": "forefathers",
+        "difficulty": 3,
+        "deseret": [
+            "𐑁𐐬𐑉𐑁𐐪𐑄𐐯𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "forgiveness",
+        "difficulty": 3,
+        "deseret": [
+            "𐑁𐐲𐑉𐑀𐐮𐑂𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "forgotten",
+        "difficulty": 2,
+        "deseret": [
+            "𐑁𐐲𐑉𐑀𐐱𐐻𐑌"
+        ]
+    },
+    {
+        "latin": "forsaketh",
+        "difficulty": 2,
+        "deseret": [
+            "𐑁𐐫𐑉𐑅𐐩𐐿𐑃"
+        ]
+    },
+    {
+        "latin": "fortifications",
+        "difficulty": 3,
+        "deseret": [
+            "𐐙𐐫𐑉𐐻𐐮𐑁𐐮𐐿𐐩𐑇𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "foundation",
+        "difficulty": 3,
+        "deseret": [
+            "𐑁𐐵𐑌𐐼𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "frightened",
+        "difficulty": 3,
+        "deseret": [
+            "𐑁𐑉𐐴𐐻𐐯𐑌𐐼",
+            "𐑁𐑉𐐴𐐻𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "from",
+        "difficulty": 1,
+        "deseret": [
+            "𐐙𐐡𐐉𐐣",
+            "𐐙𐑉𐐱𐑋",
+            "𐑁𐑉𐐱𐑋",
+            "𐑋𐑉𐐱𐑋"
+        ]
+    },
+    {
+        "latin": "gain",
+        "difficulty": 1,
+        "deseret": [
+            "𐑀𐐩𐑌"
+        ]
+    },
+    {
+        "latin": "games",
+        "difficulty": 2,
+        "deseret": [
+            "𐑀𐐩𐑋𐑆"
+        ]
+    },
+    {
+        "latin": "garden",
+        "difficulty": 2,
+        "deseret": [
+            "𐑀𐐪𐑉𐐼𐑌"
+        ]
+    },
+    {
+        "latin": "gate",
+        "difficulty": 1,
+        "deseret": [
+            "𐑀𐐩𐐻"
+        ]
+    },
+    {
+        "latin": "gather",
+        "difficulty": 2,
+        "deseret": [
+            "𐐘𐐰𐑄𐐯𐑉",
+            "𐑀𐐰𐑄𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "gave",
+        "difficulty": 1,
+        "deseret": [
+            "𐑀𐐩𐑂"
+        ]
+    },
+    {
+        "latin": "genealogy",
+        "difficulty": 2,
+        "deseret": [
+            "𐐾𐐯𐑌𐐨𐐰𐑊𐐬𐐾𐐮",
+            "𐐾𐐯𐑌𐐮𐐰𐑊𐐲𐐾𐐮"
+        ]
+    },
+    {
+        "latin": "generation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐾𐐯𐑌𐐯𐑉𐐩𐑇𐐲𐑌",
+            "𐐾𐐯𐑌𐑉𐐩𐑇𐐲𐑌",
+            "𐐾𐐯𐑌𐑉𐐩𐑇𐑌"
+        ]
+    },
+    {
+        "latin": "get",
+        "difficulty": 1,
+        "deseret": [
+            "𐑀𐐯𐐻"
+        ]
+    },
+    {
+        "latin": "give",
+        "difficulty": 1,
+        "deseret": [
+            "𐐘𐐮𐑂",
+            "𐐿𐐮𐑂",
+            "𐑀𐐮𐑂"
+        ]
+    },
+    {
+        "latin": "glorified",
+        "difficulty": 2,
+        "deseret": [
+            "𐑀𐑊𐐬𐑉𐐮𐑁𐐴𐐼"
+        ]
+    },
+    {
+        "latin": "go",
+        "difficulty": 1,
+        "deseret": [
+            "𐐘𐐬",
+            "𐐿𐐬",
+            "𐑀𐐬"
+        ]
+    },
+    {
+        "latin": "good",
+        "difficulty": 1,
+        "deseret": [
+            "𐐔𐐳𐐼",
+            "𐐘𐐳𐐼",
+            "𐐫𐐳𐐼",
+            "𐐿𐐳𐐼",
+            "𐑀𐐳𐐼"
+        ]
+    },
+    {
+        "latin": "government",
+        "difficulty": 3,
+        "deseret": [
+            "𐐘𐐲𐑂𐐯𐑉𐑌𐑋𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "greatness",
+        "difficulty": 2,
+        "deseret": [
+            "𐑀𐑉𐐩𐐻𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "greenhouse",
+        "difficulty": 3,
+        "deseret": [
+            "𐑀𐑉𐐨𐑌𐐸𐐵𐑅"
+        ]
+    },
+    {
+        "latin": "grievousness",
+        "difficulty": 3,
+        "deseret": [
+            "𐑀𐑉𐐨𐑂𐐷𐐲𐑅𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "groanings",
+        "difficulty": 2,
+        "deseret": [
+            "𐑀𐑉𐐬𐑌𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "guiltless",
+        "difficulty": 2,
+        "deseret": [
+            "𐑀𐐮𐑊𐐻𐑊𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "habit",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐰𐐺𐐮𐐻"
+        ]
+    },
+    {
+        "latin": "habitation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐸𐐰𐐺𐐮𐐻𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "had",
+        "difficulty": 1,
+        "deseret": [
+            "𐐸𐐯𐐼",
+            "𐐸𐐰𐐼"
+        ]
+    },
+    {
+        "latin": "hail",
+        "difficulty": 1,
+        "deseret": [
+            "𐐸𐐩𐑊"
+        ]
+    },
+    {
+        "latin": "hair",
+        "difficulty": 1,
+        "deseret": [
+            "𐐸𐐩𐑉",
+            "𐐸𐐯𐐰𐑉"
+        ]
+    },
+    {
+        "latin": "half",
+        "difficulty": 1,
+        "deseret": [
+            "𐐸𐐪𐑁"
+        ]
+    },
+    {
+        "latin": "hallowed",
+        "difficulty": 2,
+        "deseret": [
+            "𐐐𐐰𐑊𐐬𐐼",
+            "𐐸𐐰𐑊𐐬𐐼"
+        ]
+    },
+    {
+        "latin": "ham",
+        "difficulty": 1,
+        "deseret": [
+            "𐐸𐐰𐑋"
+        ]
+    },
+    {
+        "latin": "happiness",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐰𐐹𐐮𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "harnessed",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐰𐑉𐑌𐐯𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "harshness",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐪𐑉𐑇𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "have",
+        "difficulty": 1,
+        "deseret": [
+            "𐐐𐐰𐑂",
+            "𐐸𐐈𐑂",
+            "𐐸𐐰𐐲",
+            "𐐸𐐰𐑂"
+        ]
+    },
+    {
+        "latin": "hazelnuts",
+        "difficulty": 3,
+        "deseret": [
+            "𐐸𐐩𐑆𐑊𐑌𐐲𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "he",
+        "difficulty": 1,
+        "deseret": [
+            "𐐐𐐨",
+            "𐐸𐐨",
+            "𐐸𐐩",
+            "𐐸𐐸"
+        ]
+    },
+    {
+        "latin": "henceforth",
+        "difficulty": 3,
+        "deseret": [
+            "𐐸𐐯𐑌𐑅𐑁𐐬𐑉𐑃"
+        ]
+    },
+    {
+        "latin": "her",
+        "difficulty": 1,
+        "deseret": [
+            "𐐸𐐮𐑋",
+            "𐐸𐐯𐑉",
+            "𐐸𐐲𐑉",
+            "𐐸𐑉"
+        ]
+    },
+    {
+        "latin": "hereafter",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐨𐑉𐐪𐑁𐐻𐐯𐑉",
+            "𐐸𐐨𐑉𐐰𐑁𐐻𐑉"
+        ]
+    },
+    {
+        "latin": "heritages",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐯𐑉𐐮𐐻𐐯𐐾𐐯𐑆"
+        ]
+    },
+    {
+        "latin": "him",
+        "difficulty": 1,
+        "deseret": [
+            "𐐴𐐰𐑋",
+            "𐐸𐐩𐑋",
+            "𐐸𐐮𐑋",
+            "𐐸𐐴𐑋",
+            "𐑋𐐨"
+        ]
+    },
+    {
+        "latin": "his",
+        "difficulty": 1,
+        "deseret": [
+            "𐐐𐐮𐑂",
+            "𐐐𐐮𐑆",
+            "𐐮𐑆",
+            "𐐸𐐮𐑅",
+            "𐐸𐐮𐑆",
+            "𐑄𐐮"
+        ]
+    },
+    {
+        "latin": "honeycomb",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐲𐑌𐐮𐐿𐐬𐑋"
+        ]
+    },
+    {
+        "latin": "honorable",
+        "difficulty": 2,
+        "deseret": [
+            "𐐱𐑌𐑉𐐰𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "household",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐵𐑅𐐸𐐬𐑊𐐼"
+        ]
+    },
+    {
+        "latin": "how",
+        "difficulty": 1,
+        "deseret": [
+            "𐐐𐐵",
+            "𐐸𐐵"
+        ]
+    },
+    {
+        "latin": "howsoever",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐵𐑅𐐬𐐯𐑂𐑉"
+        ]
+    },
+    {
+        "latin": "hypocrite",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐮𐐹𐐱𐐿𐑉𐐮𐐻"
+        ]
+    },
+    {
+        "latin": "ice",
+        "difficulty": 1,
+        "deseret": [
+            "𐐴𐑅"
+        ]
+    },
+    {
+        "latin": "idle",
+        "difficulty": 1,
+        "deseret": [
+            "𐐴𐐼𐑊"
+        ]
+    },
+    {
+        "latin": "idol",
+        "difficulty": 1,
+        "deseret": [
+            "𐐴𐐼𐐲𐑊"
+        ]
+    },
+    {
+        "latin": "if",
+        "difficulty": 1,
+        "deseret": [
+            "𐐆𐑁",
+            "𐐮𐑁"
+        ]
+    },
+    {
+        "latin": "ill",
+        "difficulty": 1,
+        "deseret": [
+            "𐐮𐑊"
+        ]
+    },
+    {
+        "latin": "image",
+        "difficulty": 2,
+        "deseret": [
+            "𐐮𐑋𐐯𐐾"
+        ]
+    },
+    {
+        "latin": "imaginations",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑋𐐰𐐾𐐮𐑌𐐩𐑇𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "immovable",
+        "difficulty": 2,
+        "deseret": [
+            "𐐮𐑋𐐭𐑂𐐰𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "importance",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑋𐐹𐐫𐑉𐐻𐐲𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "imprisoned",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑋𐐹𐑉𐐮𐑆𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "in",
+        "difficulty": 1,
+        "deseret": [
+            "𐐆𐑌",
+            "𐐮𐐯",
+            "𐐮𐑌",
+            "𐐮𐑍",
+            "𐐱𐑂",
+            "𐐱𐑌",
+            "𐑌𐑌"
+        ]
+    },
+    {
+        "latin": "independent",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐐼𐐹𐑌𐐼𐐰𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "indignation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐐼𐐮𐑀𐑌𐐩𐑇𐐲𐑌",
+            "𐐮𐑌𐐼𐐮𐑀𐑌𐐩𐑇𐑌"
+        ]
+    },
+    {
+        "latin": "inhabitant",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐐸𐐰𐐺𐐮𐐻𐐰𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "inheritance",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐐸𐐯𐑉𐐮𐐻𐐰𐑌𐑅",
+            "𐐮𐑌𐐸𐐯𐑉𐐮𐐻𐐲𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "iniquities",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐐮𐐿𐐶𐐮𐐻𐐮",
+            "𐐮𐑌𐐮𐐿𐐶𐐮𐐻𐐮𐑆"
+        ]
+    },
+    {
+        "latin": "inseparably",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐑅𐐯𐐹𐑉𐐰𐐺𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "inspiration",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐑅𐐹𐐮𐑉𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "instruction",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐑅𐐻𐑉𐐲𐐿𐑇𐐲𐑌",
+            "𐐮𐑌𐑅𐐻𐑉𐐲𐐿𐑇𐑌"
+        ]
+    },
+    {
+        "latin": "instruments",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐑅𐐻𐑉𐐮𐐳𐑋𐐯𐑌𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "integrity",
+        "difficulty": 2,
+        "deseret": [
+            "𐐮𐑌𐐻𐐯𐑀𐑉𐐮𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "intelligence",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐐻𐑊𐐮𐐾𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "interpretation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐐻𐐲𐑉𐐹𐑉𐐨𐐻𐐩𐑇𐐲𐑌",
+            "𐐮𐑌𐐻𐑉𐐹𐑉𐐮𐐻𐐩𐑇𐑌"
+        ]
+    },
+    {
+        "latin": "intervals",
+        "difficulty": 2,
+        "deseret": [
+            "𐐮𐑌𐐻𐐯𐑉𐑂𐐲𐑊𐑆"
+        ]
+    },
+    {
+        "latin": "into",
+        "difficulty": 1,
+        "deseret": [
+            "𐐮𐑌𐐻𐐬",
+            "𐐮𐑌𐐻𐐭",
+            "𐐮𐑌𐐻𐐳"
+        ]
+    },
+    {
+        "latin": "invigorated",
+        "difficulty": 3,
+        "deseret": [
+            "𐐮𐑌𐑂𐐮𐑀𐐲𐑉𐐩𐐻𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "it",
+        "difficulty": 1,
+        "deseret": [
+            "𐐆𐐻",
+            "𐐨𐐻",
+            "𐐮𐐻",
+            "𐐰𐐻"
+        ]
+    },
+    {
+        "latin": "jealous",
+        "difficulty": 2,
+        "deseret": [
+            "𐐾𐐯𐑊𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "join",
+        "difficulty": 1,
+        "deseret": [
+            "𐐾𐐫𐐮𐑌",
+            "𐐾𐐱𐐮𐑌"
+        ]
+    },
+    {
+        "latin": "joints",
+        "difficulty": 2,
+        "deseret": [
+            "𐐾𐐱𐐮𐑌𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "jot",
+        "difficulty": 1,
+        "deseret": [
+            "𐐾𐐱𐐻"
+        ]
+    },
+    {
+        "latin": "journey",
+        "difficulty": 2,
+        "deseret": [
+            "𐐾𐐲𐑉𐑌𐐮"
+        ]
+    },
+    {
+        "latin": "joy",
+        "difficulty": 1,
+        "deseret": [
+            "𐐾𐐫𐐮",
+            "𐐾𐐱𐐮"
+        ]
+    },
+    {
+        "latin": "judge",
+        "difficulty": 2,
+        "deseret": [
+            "𐐖𐐲𐐾",
+            "𐐾𐐲𐐾"
+        ]
+    },
+    {
+        "latin": "juicy",
+        "difficulty": 2,
+        "deseret": [
+            "𐐾𐐮𐐭𐑅𐐮"
+        ]
+    },
+    {
+        "latin": "just",
+        "difficulty": 1,
+        "deseret": [
+            "𐐖𐐲𐑅𐐻",
+            "𐐾𐐲𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "keep",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐨𐐹",
+            "𐐿𐐩𐐹"
+        ]
+    },
+    {
+        "latin": "keys",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐨𐑆"
+        ]
+    },
+    {
+        "latin": "kick",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐮𐐿"
+        ]
+    },
+    {
+        "latin": "kid",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐮𐐼"
+        ]
+    },
+    {
+        "latin": "kidneys",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐮𐐼𐑌𐐯𐑆"
+        ]
+    },
+    {
+        "latin": "kill",
+        "difficulty": 1,
+        "deseret": [
+            "𐐿𐐮𐑊"
+        ]
+    },
+    {
+        "latin": "kind",
+        "difficulty": 1,
+        "deseret": [
+            "𐐗𐐴𐑌𐐼",
+            "𐐿𐐴𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "kindred",
+        "difficulty": 2,
+        "deseret": [
+            "𐐿𐐮𐑌𐐼𐑉𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "king",
+        "difficulty": 1,
+        "deseret": [
+            "𐐗𐐮𐑍",
+            "𐐿𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "know",
+        "difficulty": 1,
+        "deseret": [
+            "𐐤𐐬",
+            "𐑌𐐬"
+        ]
+    },
+    {
+        "latin": "knowledge",
+        "difficulty": 2,
+        "deseret": [
+            "𐑌𐐱𐑊𐐯𐐾"
+        ]
+    },
+    {
+        "latin": "labor",
+        "difficulty": 2,
+        "deseret": [
+            "𐑊𐐩𐐺𐐲𐑉",
+            "𐑊𐐩𐐺𐑉"
+        ]
+    },
+    {
+        "latin": "lack",
+        "difficulty": 1,
+        "deseret": [
+            "𐑊𐐰𐐿"
+        ]
+    },
+    {
+        "latin": "ladders",
+        "difficulty": 2,
+        "deseret": [
+            "𐑊𐐰𐐼𐐯𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "laden",
+        "difficulty": 2,
+        "deseret": [
+            "𐑊𐐩𐐼𐑌"
+        ]
+    },
+    {
+        "latin": "lads",
+        "difficulty": 1,
+        "deseret": [
+            "𐑊𐐰𐐼𐑆"
+        ]
+    },
+    {
+        "latin": "lady",
+        "difficulty": 1,
+        "deseret": [
+            "𐑊𐐩𐐼𐐮"
+        ]
+    },
+    {
+        "latin": "lamb",
+        "difficulty": 1,
+        "deseret": [
+            "𐑊𐐰𐑋"
+        ]
+    },
+    {
+        "latin": "lame",
+        "difficulty": 1,
+        "deseret": [
+            "𐑊𐐩𐑋"
+        ]
+    },
+    {
+        "latin": "land",
+        "difficulty": 1,
+        "deseret": [
+            "𐑊𐐰𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "leviathan",
+        "difficulty": 2,
+        "deseret": [
+            "𐑊𐐯𐑂𐐴𐐮𐑃𐐰𐑌"
+        ]
+    },
+    {
+        "latin": "lightning",
+        "difficulty": 3,
+        "deseret": [
+            "𐑊𐐴𐐻𐑌𐑍"
+        ]
+    },
+    {
+        "latin": "like",
+        "difficulty": 1,
+        "deseret": [
+            "𐐢𐐴𐐿",
+            "𐐴𐐿",
+            "𐑊𐐴𐐿"
+        ]
+    },
+    {
+        "latin": "loathsome",
+        "difficulty": 2,
+        "deseret": [
+            "𐑊𐐬𐑄𐑅𐐲𐑋"
+        ]
+    },
+    {
+        "latin": "look",
+        "difficulty": 1,
+        "deseret": [
+            "𐐢𐐳𐐿",
+            "𐑊𐐳𐐭",
+            "𐑊𐐳𐐿"
+        ]
+    },
+    {
+        "latin": "lowliness",
+        "difficulty": 2,
+        "deseret": [
+            "𐑊𐐬𐑊𐐮𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "made",
+        "difficulty": 1,
+        "deseret": [
+            "𐑋𐐩𐐼"
+        ]
+    },
+    {
+        "latin": "maid",
+        "difficulty": 1,
+        "deseret": [
+            "𐑋𐐩𐐼"
+        ]
+    },
+    {
+        "latin": "make",
+        "difficulty": 1,
+        "deseret": [
+            "𐐣𐐩𐐿",
+            "𐑋𐐩𐐿"
+        ]
+    },
+    {
+        "latin": "male",
+        "difficulty": 1,
+        "deseret": [
+            "𐑋𐐩𐑊"
+        ]
+    },
+    {
+        "latin": "man",
+        "difficulty": 1,
+        "deseret": [
+            "𐑋𐐯𐑌",
+            "𐑋𐐰𐐯",
+            "𐑋𐐰𐑌"
+        ]
+    },
+    {
+        "latin": "manifest",
+        "difficulty": 2,
+        "deseret": [
+            "𐑋𐐰𐑌𐐮𐑁𐐯𐑅𐐻",
+            "𐑋𐐰𐑌𐐮𐑁𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "marvelous",
+        "difficulty": 2,
+        "deseret": [
+            "𐑋𐐪𐑉𐑂𐐯𐑊𐐲𐑅",
+            "𐑋𐐪𐑉𐑂𐑊𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "matchless",
+        "difficulty": 2,
+        "deseret": [
+            "𐑋𐐰𐐽𐑊𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "me",
+        "difficulty": 1,
+        "deseret": [
+            "𐐣𐐨",
+            "𐑋𐐨",
+            "𐑋𐐯𐑌"
+        ]
+    },
+    {
+        "latin": "messenger",
+        "difficulty": 2,
+        "deseret": [
+            "𐑋𐐯𐑅𐐯𐑌𐐾𐐯𐑉",
+            "𐑋𐑅𐑌𐐾𐑉"
+        ]
+    },
+    {
+        "latin": "mischievous",
+        "difficulty": 3,
+        "deseret": [
+            "𐑋𐐮𐑅𐐽𐐨𐑂𐐷𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "most",
+        "difficulty": 1,
+        "deseret": [
+            "𐑋𐐬𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "multiplication",
+        "difficulty": 3,
+        "deseret": [
+            "𐐣𐐊𐐢𐐓𐐆𐐑𐐢𐐆𐐗𐐁𐐟𐐊𐐤",
+            "𐐣𐐲𐑊𐐻𐐨𐐹𐑊𐐮𐐿𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "multitude",
+        "difficulty": 2,
+        "deseret": [
+            "𐑋𐐲𐑊𐐻𐐮𐐭𐐼",
+            "𐑋𐐲𐑊𐐻𐐮𐐻𐐮𐐭𐐼",
+            "𐑋𐐲𐑊𐐻𐐮𐐻𐐮𐐭𐐼𐑆",
+            "𐑋𐐲𐑊𐐻𐐮𐐻𐐮𐐳𐐼",
+            "𐑋𐐲𐑊𐐻𐐮𐐻𐐳𐐼"
+        ]
+    },
+    {
+        "latin": "murderers",
+        "difficulty": 2,
+        "deseret": [
+            "𐑋𐐲𐑉𐐼𐐯𐑉𐐯𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "murmurings",
+        "difficulty": 3,
+        "deseret": [
+            "𐑋𐐲𐑉𐑋𐐲𐑉𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "my",
+        "difficulty": 1,
+        "deseret": [
+            "𐐣𐐴",
+            "𐑄",
+            "𐑋𐐴"
+        ]
+    },
+    {
+        "latin": "mysteries",
+        "difficulty": 2,
+        "deseret": [
+            "𐑋𐐮𐑅𐐻𐐯𐑉𐐮𐑆"
+        ]
+    },
+    {
+        "latin": "nag",
+        "difficulty": 1,
+        "deseret": [
+            "𐑌𐐰𐑀"
+        ]
+    },
+    {
+        "latin": "nails",
+        "difficulty": 2,
+        "deseret": [
+            "𐑌𐐩𐑊𐑆"
+        ]
+    },
+    {
+        "latin": "name",
+        "difficulty": 1,
+        "deseret": [
+            "𐑌𐐩𐑋",
+            "𐑌𐑅𐑋"
+        ]
+    },
+    {
+        "latin": "narrow",
+        "difficulty": 2,
+        "deseret": [
+            "𐑌𐐰𐑉𐐬"
+        ]
+    },
+    {
+        "latin": "nasty",
+        "difficulty": 2,
+        "deseret": [
+            "𐑌𐐪𐑅𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "nation",
+        "difficulty": 2,
+        "deseret": [
+            "𐑌𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "natural",
+        "difficulty": 2,
+        "deseret": [
+            "𐑌𐐰𐐻𐐷𐐭𐑉𐐲𐑊"
+        ]
+    },
+    {
+        "latin": "neighbour",
+        "difficulty": 3,
+        "deseret": [
+            "𐑌𐐩𐐺𐐲𐑉",
+            "𐑌𐐩𐐺𐑉"
+        ]
+    },
+    {
+        "latin": "nethermost",
+        "difficulty": 3,
+        "deseret": [
+            "𐐤𐐯𐑄𐐯𐑉𐑋𐐬𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "nevertheless",
+        "difficulty": 3,
+        "deseret": [
+            "𐐤𐐯𐑂𐐯𐑉𐑄𐐨𐑊𐐯𐑅",
+            "𐑌𐐯𐑂𐐯𐑉𐑄𐐨𐑊𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "new",
+        "difficulty": 1,
+        "deseret": [
+            "𐑌𐐮𐐭",
+            "𐑌𐐮𐐳"
+        ]
+    },
+    {
+        "latin": "no",
+        "difficulty": 1,
+        "deseret": [
+            "𐐤𐐬",
+            "𐑌𐐬"
+        ]
+    },
+    {
+        "latin": "northward",
+        "difficulty": 2,
+        "deseret": [
+            "𐑌𐐫𐑉𐑄𐐶𐐲𐑉𐐼"
+        ]
+    },
+    {
+        "latin": "not",
+        "difficulty": 1,
+        "deseret": [
+            "𐐤𐐱𐐻",
+            "𐑌𐐫𐐻",
+            "𐑌𐐰𐐻",
+            "𐑌𐐱𐐮",
+            "𐑌𐐱𐐻",
+            "𐑌𐐱𐑊"
+        ]
+    },
+    {
+        "latin": "notwithstanding",
+        "difficulty": 3,
+        "deseret": [
+            "𐑌𐐱𐐻𐐶𐐮𐑄𐑅𐐻𐐰𐑌𐐼𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "nourishment",
+        "difficulty": 3,
+        "deseret": [
+            "𐑌𐐲𐑉𐐮𐑇𐑋𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "now",
+        "difficulty": 1,
+        "deseret": [
+            "𐐤𐐵",
+            "𐑌𐐵"
+        ]
+    },
+    {
+        "latin": "numberless",
+        "difficulty": 3,
+        "deseret": [
+            "𐑌𐐲𐑋𐐺𐐯𐑉𐑊𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "oath",
+        "difficulty": 1,
+        "deseret": [
+            "𐐬𐑃"
+        ]
+    },
+    {
+        "latin": "oats",
+        "difficulty": 1,
+        "deseret": [
+            "𐐬𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "obedient",
+        "difficulty": 2,
+        "deseret": [
+            "𐐬𐐺𐐨𐐼𐐮𐐯𐑌𐐻",
+            "𐐬𐐺𐐼𐐷𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "obliged",
+        "difficulty": 2,
+        "deseret": [
+            "𐐬𐐺𐑊𐐴𐐾𐐼"
+        ]
+    },
+    {
+        "latin": "obscurity",
+        "difficulty": 2,
+        "deseret": [
+            "𐐲𐐺𐑅𐐿𐐮𐐭𐑉𐐮𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "obstinate",
+        "difficulty": 2,
+        "deseret": [
+            "𐐱𐐺𐑅𐐻𐐮𐑌𐐯𐐻"
+        ]
+    },
+    {
+        "latin": "of",
+        "difficulty": 1,
+        "deseret": [
+            "𐐉𐐚",
+            "𐐉𐑂",
+            "𐐰𐑂",
+            "𐐱𐑁",
+            "𐐱𐑂",
+            "𐐱𐑂𐐮",
+            "𐐱𐑆",
+            "𐐻𐐳",
+            "𐐿𐑂"
+        ]
+    },
+    {
+        "latin": "offerings",
+        "difficulty": 2,
+        "deseret": [
+            "𐐱𐑁𐐯𐑉𐐮𐑍",
+            "𐐱𐑁𐐯𐑉𐐮𐑍𐑆",
+            "𐐱𐑁𐑉𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "olive-tree",
+        "difficulty": 3,
+        "deseret": [
+            "𐐉𐑊𐐮𐑂-𐐻𐑉𐐨",
+            "𐐱𐑊𐐮𐑂-𐐻𐑉𐐨"
+        ]
+    },
+    {
+        "latin": "on",
+        "difficulty": 1,
+        "deseret": [
+            "𐐉𐐤",
+            "𐐉𐑌",
+            "𐐫𐑌",
+            "𐐱𐐮",
+            "𐐱𐑂",
+            "𐐱𐑌"
+        ]
+    },
+    {
+        "latin": "one",
+        "difficulty": 1,
+        "deseret": [
+            "𐐎𐐲𐑌",
+            "𐐶𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "only",
+        "difficulty": 1,
+        "deseret": [
+            "𐐬𐑌𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "opposition",
+        "difficulty": 3,
+        "deseret": [
+            "𐐉𐐹𐐬𐑆𐐮𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "or",
+        "difficulty": 1,
+        "deseret": [
+            "𐐃𐑉",
+            "𐐫𐑉",
+            "𐐬𐑉",
+            "𐐱𐑉"
+        ]
+    },
+    {
+        "latin": "ordinances",
+        "difficulty": 3,
+        "deseret": [
+            "𐐫𐑉𐐼𐐮𐑌𐐰𐑅𐐯𐑅",
+            "𐐫𐑉𐐼𐐮𐑌𐐰𐑌𐑅𐐯𐑆"
+        ]
+    },
+    {
+        "latin": "organized",
+        "difficulty": 3,
+        "deseret": [
+            "𐐱𐑉𐑀𐐰𐑌𐐴𐑆𐐼"
+        ]
+    },
+    {
+        "latin": "other",
+        "difficulty": 1,
+        "deseret": [
+            "𐐊𐑄𐐯𐑉",
+            "𐐲𐑃𐐯𐑉",
+            "𐐲𐑄𐐯𐑉",
+            "𐐲𐑄𐑉"
+        ]
+    },
+    {
+        "latin": "otherwise",
+        "difficulty": 2,
+        "deseret": [
+            "𐐲𐑄𐐯𐑉𐐶𐐴𐑆",
+            "𐐲𐑄𐑉𐐶𐐴𐑆"
+        ]
+    },
+    {
+        "latin": "our",
+        "difficulty": 1,
+        "deseret": [
+            "𐐍𐑉",
+            "𐐪𐑉",
+            "𐐵𐑉"
+        ]
+    },
+    {
+        "latin": "ourselves",
+        "difficulty": 2,
+        "deseret": [
+            "𐐵𐑉𐑅𐐯𐑊𐑂𐑆"
+        ]
+    },
+    {
+        "latin": "out",
+        "difficulty": 1,
+        "deseret": [
+            "𐐵𐐻"
+        ]
+    },
+    {
+        "latin": "over",
+        "difficulty": 1,
+        "deseret": [
+            "𐐬𐑂𐐇𐑉",
+            "𐐬𐑂𐐯𐑉",
+            "𐐬𐑂𐑉"
+        ]
+    },
+    {
+        "latin": "overpower",
+        "difficulty": 2,
+        "deseret": [
+            "𐐬𐑂𐐯𐑉𐐹𐐵𐑉"
+        ]
+    },
+    {
+        "latin": "overshadowed",
+        "difficulty": 3,
+        "deseret": [
+            "𐐬𐑂𐐯𐑉𐑇𐐰𐐼𐐬𐐼"
+        ]
+    },
+    {
+        "latin": "overthrow",
+        "difficulty": 2,
+        "deseret": [
+            "𐐬𐑂𐑉𐑃𐑉𐐬"
+        ]
+    },
+    {
+        "latin": "pacify",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐰𐑅𐐮𐑁𐐴"
+        ]
+    },
+    {
+        "latin": "page",
+        "difficulty": 1,
+        "deseret": [
+            "𐐑𐐁𐐖",
+            "𐐑𐐩𐐾",
+            "𐐹𐐩𐐾"
+        ]
+    },
+    {
+        "latin": "paid",
+        "difficulty": 1,
+        "deseret": [
+            "𐐹𐐩𐐼"
+        ]
+    },
+    {
+        "latin": "pain",
+        "difficulty": 1,
+        "deseret": [
+            "𐐹𐐩𐑌"
+        ]
+    },
+    {
+        "latin": "paint",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐩𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "palaces",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐰𐑊𐐰𐑅𐐯𐑆"
+        ]
+    },
+    {
+        "latin": "palate",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐰𐑊𐐩𐐻"
+        ]
+    },
+    {
+        "latin": "palm",
+        "difficulty": 1,
+        "deseret": [
+            "𐐹𐐪𐑋"
+        ]
+    },
+    {
+        "latin": "paper",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐩𐐹𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "parable",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐰𐑉𐐰𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "parent",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐩𐑉𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "partakers",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐪𐑉𐐻𐐩𐐿𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "particular",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐐲𐑉𐐻𐐮𐐿𐐷𐐮𐐭𐑊𐐲𐑉"
+        ]
+    },
+    {
+        "latin": "peacemakers",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐐨𐑅𐑋𐐩𐐿𐐯𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "people",
+        "difficulty": 1,
+        "deseret": [
+            "𐐑𐐨𐐹𐑊",
+            "𐐹𐐨𐐹𐑊",
+            "𐐹𐐮𐐹𐑊"
+        ]
+    },
+    {
+        "latin": "persecute",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐐯𐑉𐑅𐐮𐐿𐐮𐐳𐐻",
+            "𐐹𐐲𐑉𐑅𐐨𐐿𐐮𐐭𐐻"
+        ]
+    },
+    {
+        "latin": "plainness",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐑊𐐩𐑌𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "poisonous",
+        "difficulty": 2,
+        "deseret": [
+            "𐐑𐐱𐐮𐑆𐑌𐐯𐑅",
+            "𐐹𐐱𐐮𐑆𐐲𐑌𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "pomegranates",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐐲𐑋𐑀𐑉𐐰𐑌𐐩𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "possessions",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐐲𐑅𐐯𐑇𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "preparations",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐯𐐹𐐰𐑉𐐩𐑇𐐯𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "prescribed",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐮𐑅𐐿𐑉𐐴𐐺𐐼"
+        ]
+    },
+    {
+        "latin": "preserved",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐑉𐐨𐑆𐐲𐑉𐑂𐐼"
+        ]
+    },
+    {
+        "latin": "president",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐑉𐐯𐑆𐐮𐐼𐐲𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "prevented",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐑉𐐨𐑂𐐯𐑌𐐻𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "priesthood",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐨𐑅𐐻𐐸𐐳𐐼"
+        ]
+    },
+    {
+        "latin": "prisoners",
+        "difficulty": 2,
+        "deseret": [
+            "𐐑𐑉𐐮𐑆𐑌𐐯𐑉𐑆",
+            "𐐹𐑉𐐮𐑆𐑌𐐯𐑉𐑆",
+            "𐐹𐑉𐐮𐑆𐑌𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "probation",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐑉𐐬𐐺𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "proceeded",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐑉𐐬𐑅𐐨𐐼𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "proclamation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐱𐐿𐑊𐐰𐑋𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "procrastinate",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐬𐐿𐑉𐐰𐑅𐐻𐐮𐑌𐐩𐐻"
+        ]
+    },
+    {
+        "latin": "profitable",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐱𐑁𐐮𐐻𐐰𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "prophecies",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐱𐑁𐐨𐑅𐐮𐑆",
+            "𐐹𐑉𐐱𐑁𐐮𐑅𐐮𐑆"
+        ]
+    },
+    {
+        "latin": "prosperous",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐱𐑅𐐹𐐯𐑉𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "protected",
+        "difficulty": 2,
+        "deseret": [
+            "𐐹𐑉𐐬𐐻𐐯𐐿𐐻𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "provisions",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐑉𐐬𐑂𐐮𐑈𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "punishment",
+        "difficulty": 3,
+        "deseret": [
+            "𐐹𐐲𐑌𐐮𐑇𐑋𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "quake",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐶𐐩𐐿"
+        ]
+    },
+    {
+        "latin": "qualities",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐶𐐱𐑊𐐮𐐻𐐮𐑆"
+        ]
+    },
+    {
+        "latin": "quarters",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐶𐐫𐑉𐐻𐐯𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "queen",
+        "difficulty": 3,
+        "deseret": [
+            "𐐗𐐶𐐨𐑌",
+            "𐐿𐐶𐐨𐑌"
+        ]
+    },
+    {
+        "latin": "quench",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐶𐐯𐑌𐐽"
+        ]
+    },
+    {
+        "latin": "questioning",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐶𐐯𐑅𐐻𐐷𐐲𐑌𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "quick",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐶𐐮𐐿"
+        ]
+    },
+    {
+        "latin": "quiet",
+        "difficulty": 3,
+        "deseret": [
+            "𐐿𐐶𐐴𐐯𐐻"
+        ]
+    },
+    {
+        "latin": "rabbits",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐰𐐺𐐮𐐻𐑅"
+        ]
+    },
+    {
+        "latin": "rag",
+        "difficulty": 1,
+        "deseret": [
+            "𐑉𐐰𐑀"
+        ]
+    },
+    {
+        "latin": "rain",
+        "difficulty": 1,
+        "deseret": [
+            "𐑉𐐩𐑌"
+        ]
+    },
+    {
+        "latin": "raise",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐩𐑆"
+        ]
+    },
+    {
+        "latin": "raisins",
+        "difficulty": 2,
+        "deseret": [
+            "𐐡𐐩𐑆𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "ram",
+        "difficulty": 1,
+        "deseret": [
+            "𐑉𐐰𐑋"
+        ]
+    },
+    {
+        "latin": "ran",
+        "difficulty": 1,
+        "deseret": [
+            "𐑉𐐰𐑌"
+        ]
+    },
+    {
+        "latin": "ransom",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐰𐑌𐑅𐐲𐑋"
+        ]
+    },
+    {
+        "latin": "rapid",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐰𐐹𐐮𐐼"
+        ]
+    },
+    {
+        "latin": "rash",
+        "difficulty": 1,
+        "deseret": [
+            "𐑉𐐪𐑇"
+        ]
+    },
+    {
+        "latin": "rat",
+        "difficulty": 1,
+        "deseret": [
+            "𐑉𐐰𐐻"
+        ]
+    },
+    {
+        "latin": "rate",
+        "difficulty": 1,
+        "deseret": [
+            "𐑉𐐩𐐻"
+        ]
+    },
+    {
+        "latin": "rather",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐪𐑄𐐯𐑉",
+            "𐑉𐐰𐑄𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "rebellion",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐨𐐺𐐯𐑊𐐷𐐲𐑌",
+            "𐑉𐐯𐐺𐐯𐑊𐐷𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "recommend",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐯𐐿𐐲𐑋𐐯𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "recompences",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐯𐐿𐐲𐑋𐐹𐐯𐑌𐑅𐐯𐑆"
+        ]
+    },
+    {
+        "latin": "reconciled",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐯𐐿𐐱𐑌𐑅𐐴𐑊𐐼"
+        ]
+    },
+    {
+        "latin": "redemption",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐨𐐼𐐯𐑋𐐹𐑇𐐲𐑌",
+            "𐑉𐐨𐐼𐐯𐑋𐑇𐑌"
+        ]
+    },
+    {
+        "latin": "regularly",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐯𐑀𐐷𐐳𐑊𐐪𐑉𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "remainder",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐨𐑋𐐩𐑌𐐼𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "remembrance",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐨𐑋𐐯𐑋𐐺𐑉𐐲𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "remission",
+        "difficulty": 2,
+        "deseret": [
+            "𐑉𐐮𐑋𐐮𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "repentance",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐨𐐹𐐯𐑌𐐻𐐰𐑌𐑅",
+            "𐑉𐐮𐐹𐐯𐑌𐐻𐐰𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "repetitions",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐯𐐹𐐨𐐻𐐮𐑇𐐲𐑌𐑆",
+            "𐑉𐐯𐐹𐐯𐐻𐐮𐑇𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "representation",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐯𐐹𐑉𐐨𐑆𐐯𐑌𐐻𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "respectful",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐨𐑅𐐹𐐯𐐿𐑁𐐳𐑊"
+        ]
+    },
+    {
+        "latin": "restoration",
+        "difficulty": 3,
+        "deseret": [
+            "𐐡𐐯𐑅𐐻𐐬𐑉𐐩𐑇𐑌",
+            "𐑉𐐯𐑅𐐻𐐬𐑉𐐩𐑇𐐲𐑌",
+            "𐑉𐐯𐑅𐐻𐑉𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "resurrection",
+        "difficulty": 3,
+        "deseret": [
+            "𐐡𐐯𐑆𐐲𐑉𐐯𐐿𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "revelation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐡𐐇𐐚𐐇𐐢𐐁𐐟𐐊𐐤",
+            "𐑉𐐯𐑂𐐨𐑊𐐩𐑇𐐲𐑌",
+            "𐑉𐐯𐑂𐐮𐑊𐐩𐑇𐐲𐑌",
+            "𐑉𐐯𐑂𐐮𐑊𐐩𐑇𐑌"
+        ]
+    },
+    {
+        "latin": "righteous",
+        "difficulty": 3,
+        "deseret": [
+            "𐐡𐐴𐐽𐐲𐑅",
+            "𐑉𐐴𐐻𐐷𐐲𐑅",
+            "𐑉𐐴𐐽𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "righteousness",
+        "difficulty": 3,
+        "deseret": [
+            "𐑉𐐴𐐽𐐲𐑅𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "sabbath",
+        "difficulty": 2,
+        "deseret": [
+            "𐐝𐐰𐐺𐐲𐑃",
+            "𐑅𐐰𐐺𐐲𐑃"
+        ]
+    },
+    {
+        "latin": "sacrament",
+        "difficulty": 2,
+        "deseret": [
+            "𐐝𐐰𐐿𐑉𐐰𐑋𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "sacred",
+        "difficulty": 2,
+        "deseret": [
+            "𐐝𐐩𐐿𐑉𐐯𐐼",
+            "𐑅𐐩𐐿𐑉𐐯𐐼",
+            "𐑅𐐩𐐿𐑉𐐲𐐼"
+        ]
+    },
+    {
+        "latin": "sacrifice",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐰𐐿𐑉𐐮𐑁𐐴𐑆",
+            "𐑅𐐰𐐿𐑉𐐯𐑁𐐴𐑆",
+            "𐑅𐐰𐑀𐑉𐐮𐑁𐐴𐑆"
+        ]
+    },
+    {
+        "latin": "sad",
+        "difficulty": 1,
+        "deseret": [
+            "𐑅𐐰𐐼"
+        ]
+    },
+    {
+        "latin": "saddle",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐰𐐼𐑊"
+        ]
+    },
+    {
+        "latin": "safely",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐩𐑁𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "safety",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐩𐑁𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "sagebrush",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐩𐐾𐐺𐑉𐐲𐑇"
+        ]
+    },
+    {
+        "latin": "salvation",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐰𐑊𐑂𐐩𐑇𐐲𐑌",
+            "𐑅𐐰𐑊𐑂𐐩𐑇𐑌"
+        ]
+    },
+    {
+        "latin": "sanctuary",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐰𐑍𐐻𐐮𐐳𐐯𐑉𐐮"
+        ]
+    },
+    {
+        "latin": "satisfied",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐰𐐻𐐮𐑅𐑁𐐴𐐼"
+        ]
+    },
+    {
+        "latin": "say",
+        "difficulty": 1,
+        "deseret": [
+            "𐐝𐐩",
+            "𐑅𐐩"
+        ]
+    },
+    {
+        "latin": "scarceness",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐿𐐯𐑉𐑅𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "scorpions",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐿𐐫𐑉𐐹𐐷𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "scriptures",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐿𐑉𐐮𐐹𐐻𐐲𐑉𐑆",
+            "𐑅𐐿𐑉𐐮𐐹𐐻𐐷𐐭𐑉𐑆",
+            "𐑅𐐿𐑉𐐮𐐹𐐻𐐷𐐲𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "see",
+        "difficulty": 1,
+        "deseret": [
+            "𐐝𐐨",
+            "𐑅𐐨"
+        ]
+    },
+    {
+        "latin": "separated",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐯𐐹𐐰𐑉𐐩𐐻𐐯𐐼",
+            "𐑅𐐯𐐹𐑉𐐩𐐻𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "sepulcher",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐯𐐹𐐲𐑊𐐿𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "seventeen",
+        "difficulty": 2,
+        "deseret": [
+            "𐐝𐐯𐑂𐑌𐐻𐐨𐑌",
+            "𐑅𐐯𐑂𐑌𐐻𐐨𐑌"
+        ]
+    },
+    {
+        "latin": "she",
+        "difficulty": 1,
+        "deseret": [
+            "𐐟𐐨",
+            "𐑇𐐨"
+        ]
+    },
+    {
+        "latin": "shepherds",
+        "difficulty": 3,
+        "deseret": [
+            "𐑇𐐯𐐹𐐯𐑉𐐼𐑆"
+        ]
+    },
+    {
+        "latin": "simpleness",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐮𐑋𐐹𐑊𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "sincerity",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐮𐑌𐑅𐐯𐑉𐐮𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "sixteenth",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐮𐐿𐑅𐐻𐐨𐑌𐑃"
+        ]
+    },
+    {
+        "latin": "slaughter",
+        "difficulty": 3,
+        "deseret": [
+            "𐐝𐑊𐐫𐐻𐐯𐑉",
+            "𐑅𐑊𐐫𐐻𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "so",
+        "difficulty": 1,
+        "deseret": [
+            "𐐝𐐬",
+            "𐑅𐐫",
+            "𐑅𐐬",
+            "𐑅𐐭"
+        ]
+    },
+    {
+        "latin": "soberness",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐬𐐺𐐯𐑉𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "some",
+        "difficulty": 1,
+        "deseret": [
+            "𐐝𐐲𐑋",
+            "𐑅𐐲𐑋"
+        ]
+    },
+    {
+        "latin": "sometimes",
+        "difficulty": 2,
+        "deseret": [
+            "𐐝𐐲𐑋𐐻𐐴𐑋𐑆",
+            "𐑅𐐲𐑋𐐻𐐴𐑋𐑆"
+        ]
+    },
+    {
+        "latin": "sorrowful",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐱𐑉𐐬𐑁𐐳𐑊"
+        ]
+    },
+    {
+        "latin": "southeast",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐵𐑃𐐨𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "spiritual",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐹𐐮𐑉𐐮𐐻𐐷𐐮𐐭𐐲𐑊"
+        ]
+    },
+    {
+        "latin": "steadfast",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐻𐐯𐐼𐑁𐐪𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "stockings",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐻𐐱𐐿𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "straighten",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐻𐑉𐐩𐐻𐑌"
+        ]
+    },
+    {
+        "latin": "stratagem",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐻𐑉𐐰𐐻𐐰𐐾𐐯𐑋"
+        ]
+    },
+    {
+        "latin": "strengthen",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐻𐑉𐐯𐑍𐑃𐑌"
+        ]
+    },
+    {
+        "latin": "stumbling",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐻𐐲𐑋𐐺𐑊𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "submissive",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐲𐐺𐑋𐐮𐑅𐐮𐑂"
+        ]
+    },
+    {
+        "latin": "sufferings",
+        "difficulty": 3,
+        "deseret": [
+            "𐐝𐐲𐑁𐐯𐑉𐐮𐑍𐑆",
+            "𐑅𐐲𐑁𐐯𐑉𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "sufficient",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐲𐑁𐐮𐑇𐐯𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "surrendered",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐲𐑉𐐯𐑌𐐼𐐯𐑉𐐼"
+        ]
+    },
+    {
+        "latin": "surrounded",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐲𐑉𐐵𐑌𐐼𐐯𐐼"
+        ]
+    },
+    {
+        "latin": "suspension",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐲𐑅𐐹𐐯𐑌𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "sweetness",
+        "difficulty": 2,
+        "deseret": [
+            "𐑅𐐶𐐨𐐻𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "synagogues",
+        "difficulty": 3,
+        "deseret": [
+            "𐑅𐐮𐑌𐐰𐑀𐐱𐑀𐑆"
+        ]
+    },
+    {
+        "latin": "tabernacle",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐐰𐐺𐑉𐑌𐐰𐐿𐑊"
+        ]
+    },
+    {
+        "latin": "take",
+        "difficulty": 1,
+        "deseret": [
+            "𐐓𐐩𐐿",
+            "𐐻𐐩𐐿"
+        ]
+    },
+    {
+        "latin": "teachings",
+        "difficulty": 2,
+        "deseret": [
+            "𐐻𐐨𐐽𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "temperate",
+        "difficulty": 2,
+        "deseret": [
+            "𐐻𐐯𐑋𐐹𐐯𐑉𐐩𐐻"
+        ]
+    },
+    {
+        "latin": "temptation",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐐯𐑋𐐹𐐻𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "terrestrial",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐐨𐑉𐐯𐑅𐐻𐐮𐐰𐑊",
+            "𐐻𐐨𐑉𐑅𐐻𐑉𐐮𐐰𐑊"
+        ]
+    },
+    {
+        "latin": "testimony",
+        "difficulty": 2,
+        "deseret": [
+            "𐐓𐐇𐐝𐐓𐐆𐐣𐐄𐐤𐐆",
+            "𐐻𐐯𐑅𐐻𐐮𐑋𐐬𐑌𐐮",
+            "𐐻𐐯𐑅𐐻𐐮𐑋𐐲𐑌𐐮"
+        ]
+    },
+    {
+        "latin": "than",
+        "difficulty": 1,
+        "deseret": [
+            "𐑄𐐰𐑌"
+        ]
+    },
+    {
+        "latin": "thanksgiving",
+        "difficulty": 3,
+        "deseret": [
+            "𐑃𐐮𐑍𐐿𐑅𐑀𐐮𐑂𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "that",
+        "difficulty": 1,
+        "deseret": [
+            "𐐜𐐰𐐻",
+            "𐐰𐑄𐐻",
+            "𐐰𐑌𐐼",
+            "𐑄𐐯𐐻",
+            "𐑄𐐰𐐻",
+            "𐑄𐐰𐑅",
+            "𐑄𐐻"
+        ]
+    },
+    {
+        "latin": "the",
+        "difficulty": 1,
+        "deseret": [
+            "𐐜",
+            "𐐪",
+            "𐐺𐐮",
+            "𐑄",
+            "𐑄𐐮",
+            "𐑄𐐻",
+            "𐑅"
+        ]
+    },
+    {
+        "latin": "their",
+        "difficulty": 1,
+        "deseret": [
+            "𐐜𐐩𐑉",
+            "𐐸𐐩𐑉",
+            "𐑄𐐩𐑉",
+            "𐑄𐐯𐐰𐑉",
+            "𐑄𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "them",
+        "difficulty": 1,
+        "deseret": [
+            "𐑄𐐨𐑋",
+            "𐑄𐐯𐐽",
+            "𐑄𐐯𐑋",
+            "𐑄𐐯𐑌",
+            "𐑄𐐰𐑋",
+            "𐑄𐐲𐑋",
+            "𐑄𐑋",
+            "𐑅𐐯𐑋"
+        ]
+    },
+    {
+        "latin": "themselves",
+        "difficulty": 3,
+        "deseret": [
+            "𐑄𐐯𐑋𐑅𐐯𐑊𐑂𐑆"
+        ]
+    },
+    {
+        "latin": "then",
+        "difficulty": 1,
+        "deseret": [
+            "𐐜𐐯𐑌",
+            "𐑄𐐯𐑌",
+            "𐑄𐑌"
+        ]
+    },
+    {
+        "latin": "thenceforth",
+        "difficulty": 3,
+        "deseret": [
+            "𐑄𐐯𐑌𐑅𐑁𐐬𐑉𐑃"
+        ]
+    },
+    {
+        "latin": "there",
+        "difficulty": 1,
+        "deseret": [
+            "𐐜𐐩𐑉",
+            "𐑄𐐩𐑉",
+            "𐑄𐐯𐐰𐑉",
+            "𐑄𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "therefore",
+        "difficulty": 2,
+        "deseret": [
+            "𐐜𐐩𐑉𐑁𐐬𐑉",
+            "𐐜𐐯𐐰𐑉𐑁𐐬𐑉",
+            "𐐜𐐯𐑉𐑁𐐬𐑉",
+            "𐑄𐐨𐑉𐑁𐐬𐑉",
+            "𐑄𐐩𐑉𐑁𐐫𐑉",
+            "𐑄𐐩𐑉𐑁𐐬𐑉",
+            "𐑄𐐯𐑉𐐸𐐬𐑉",
+            "𐑄𐐯𐑉𐑁𐐬𐑉"
+        ]
+    },
+    {
+        "latin": "therewith",
+        "difficulty": 2,
+        "deseret": [
+            "𐑄𐐩𐑉𐐶𐐮𐑄"
+        ]
+    },
+    {
+        "latin": "these",
+        "difficulty": 1,
+        "deseret": [
+            "𐐜𐐨𐑆",
+            "𐑄𐐨𐑅",
+            "𐑄𐐨𐑆"
+        ]
+    },
+    {
+        "latin": "they",
+        "difficulty": 1,
+        "deseret": [
+            "𐐜𐐩",
+            "𐐷𐐩",
+            "𐑄𐐨",
+            "𐑄𐐩"
+        ]
+    },
+    {
+        "latin": "think",
+        "difficulty": 1,
+        "deseret": [
+            "𐐛𐐮𐑍𐐿",
+            "𐑃𐐮𐑌𐐿",
+            "𐑃𐐮𐑍𐐿"
+        ]
+    },
+    {
+        "latin": "this",
+        "difficulty": 1,
+        "deseret": [
+            "𐐜𐐮𐑅",
+            "𐑄𐐮𐐝",
+            "𐑄𐐮𐑅",
+            "𐑄𐐮𐑆"
+        ]
+    },
+    {
+        "latin": "threatened",
+        "difficulty": 3,
+        "deseret": [
+            "𐑃𐑉𐐯𐐻𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "thunderings",
+        "difficulty": 3,
+        "deseret": [
+            "𐑃𐐲𐑌𐐼𐐯𐑉𐐮𐑍𐑆"
+        ]
+    },
+    {
+        "latin": "time",
+        "difficulty": 1,
+        "deseret": [
+            "𐐻𐐴𐑋"
+        ]
+    },
+    {
+        "latin": "to",
+        "difficulty": 1,
+        "deseret": [
+            "𐐓𐐭",
+            "𐐓𐐳",
+            "𐐸𐐭",
+            "𐐻𐐬",
+            "𐐻𐐭",
+            "𐐻𐐲",
+            "𐐻𐐳",
+            "𐑊𐐭"
+        ]
+    },
+    {
+        "latin": "tortureth",
+        "difficulty": 2,
+        "deseret": [
+            "𐐻𐐫𐑉𐐻𐐷𐐭𐑉𐐯𐑃"
+        ]
+    },
+    {
+        "latin": "tradition",
+        "difficulty": 2,
+        "deseret": [
+            "𐐻𐑉𐐰𐐼𐐮𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "transfigured",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐑉𐐰𐑌𐑅𐑁𐐮𐑀𐐲𐑉𐐼"
+        ]
+    },
+    {
+        "latin": "transgression",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐑉𐐰𐑌𐑅𐑀𐑉𐐯𐑇𐐲𐑌",
+            "𐑊𐑉𐐰𐑌𐑅𐑀𐑉𐐯𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "translate",
+        "difficulty": 2,
+        "deseret": [
+            "𐐻𐑉𐐰𐑌𐑅𐑊𐐩𐐻"
+        ]
+    },
+    {
+        "latin": "transpired",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐑉𐐰𐑌𐑅𐐹𐐴𐑉𐐼"
+        ]
+    },
+    {
+        "latin": "treacherous",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐑉𐐯𐐽𐐲𐑉𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "treasures",
+        "difficulty": 2,
+        "deseret": [
+            "𐐻𐑉𐐯𐑈𐐭𐑉𐑆",
+            "𐐻𐑉𐐯𐑈𐐲𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "tremendous",
+        "difficulty": 3,
+        "deseret": [
+            "𐐓𐑉𐐨𐑋𐐯𐑌𐐼𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "trespasses",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐑉𐐯𐑅𐐹𐐰𐑅𐐯𐑅",
+            "𐐻𐑉𐐯𐑅𐐹𐐰𐑅𐐯𐑆",
+            "𐐻𐑉𐐯𐑅𐐹𐐲𐑅𐐯𐑆"
+        ]
+    },
+    {
+        "latin": "tumultuous",
+        "difficulty": 3,
+        "deseret": [
+            "𐐻𐐮𐐭𐑋𐐲𐑊𐐻𐐷𐐮𐐭𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "two",
+        "difficulty": 1,
+        "deseret": [
+            "𐐓𐐭",
+            "𐐻𐐭"
+        ]
+    },
+    {
+        "latin": "ugly",
+        "difficulty": 1,
+        "deseret": [
+            "𐐲𐑀𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "unavoidably",
+        "difficulty": 3,
+        "deseret": [
+            "𐐲𐑌𐐰𐑂𐐱𐐮𐐼𐐰𐐺𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "unbelief",
+        "difficulty": 2,
+        "deseret": [
+            "𐐲𐑌𐐺𐐨𐑊𐐨𐑁"
+        ]
+    },
+    {
+        "latin": "under",
+        "difficulty": 2,
+        "deseret": [
+            "𐐯𐑌𐐼𐐯𐑉",
+            "𐐲𐑌𐐼𐐯𐑉",
+            "𐐲𐑌𐐼𐑉"
+        ]
+    },
+    {
+        "latin": "understand",
+        "difficulty": 3,
+        "deseret": [
+            "𐐲𐑌𐐼𐐯𐑉𐑅𐐻𐐰𐑌𐐼",
+            "𐐲𐑌𐐼𐑉𐑅𐐻𐐰𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "unfold",
+        "difficulty": 2,
+        "deseret": [
+            "𐐲𐑌𐑁𐐬𐑊𐐼"
+        ]
+    },
+    {
+        "latin": "university",
+        "difficulty": 3,
+        "deseret": [
+            "𐐷𐐮𐐭𐑌𐐮𐑂𐐲𐑉𐑅𐐮𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "up",
+        "difficulty": 1,
+        "deseret": [
+            "𐐲𐐹"
+        ]
+    },
+    {
+        "latin": "us",
+        "difficulty": 1,
+        "deseret": [
+            "𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "use",
+        "difficulty": 1,
+        "deseret": [
+            "𐐮𐐳𐑆",
+            "𐐷𐐭𐑆",
+            "𐐷𐐮𐐭𐑅",
+            "𐐷𐐮𐐳𐑅",
+            "𐐷𐐮𐐳𐑆"
+        ]
+    },
+    {
+        "latin": "uttermost",
+        "difficulty": 2,
+        "deseret": [
+            "𐐲𐐻𐐯𐑉𐑋𐐬𐑅𐐻"
+        ]
+    },
+    {
+        "latin": "vain",
+        "difficulty": 1,
+        "deseret": [
+            "𐑂𐐩𐑌"
+        ]
+    },
+    {
+        "latin": "valley",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐰𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "valuable",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐰𐑊𐐷𐐮𐐭𐐰𐐺𐑊"
+        ]
+    },
+    {
+        "latin": "vanity",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐰𐑌𐐮𐐻𐐮"
+        ]
+    },
+    {
+        "latin": "vapor",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐩𐐹𐐲𐑉"
+        ]
+    },
+    {
+        "latin": "various",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐩𐑉𐐮𐐲𐑅"
+        ]
+    },
+    {
+        "latin": "veins",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐩𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "vengeance",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐯𐑌𐐾𐐰𐑌𐑅",
+            "𐑂𐐯𐑌𐐾𐐲𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "verily",
+        "difficulty": 2,
+        "deseret": [
+            "𐐚𐐯𐑉𐐮𐑊𐐮",
+            "𐑂𐐯𐑉𐐮𐑊𐐮",
+            "𐑂𐐰𐑉𐐮𐑊𐐮"
+        ]
+    },
+    {
+        "latin": "verse",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐯𐑉𐑅"
+        ]
+    },
+    {
+        "latin": "very",
+        "difficulty": 1,
+        "deseret": [
+            "𐑂𐐯𐑉𐐮"
+        ]
+    },
+    {
+        "latin": "vessels",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐯𐑅𐑊𐑆"
+        ]
+    },
+    {
+        "latin": "visionary",
+        "difficulty": 2,
+        "deseret": [
+            "𐑂𐐮𐑈𐐲𐑌𐐯𐑉𐐮"
+        ]
+    },
+    {
+        "latin": "visitation",
+        "difficulty": 3,
+        "deseret": [
+            "𐑂𐐮𐑆𐐮𐐻𐐩𐑇𐐲𐑌"
+        ]
+    },
+    {
+        "latin": "wade",
+        "difficulty": 1,
+        "deseret": [
+            "𐐶𐐩𐐼"
+        ]
+    },
+    {
+        "latin": "wagons",
+        "difficulty": 2,
+        "deseret": [
+            "𐐶𐐰𐑀𐐲𐑌𐑆"
+        ]
+    },
+    {
+        "latin": "wailing",
+        "difficulty": 2,
+        "deseret": [
+            "𐐶𐐩𐑊𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "want",
+        "difficulty": 1,
+        "deseret": [
+            "𐐶𐐫𐑌𐐻"
+        ]
+    },
+    {
+        "latin": "way",
+        "difficulty": 1,
+        "deseret": [
+            "𐐶𐐩"
+        ]
+    },
+    {
+        "latin": "we",
+        "difficulty": 1,
+        "deseret": [
+            "𐐎𐐨",
+            "𐐶𐐨",
+            "𐐶𐐨𐐶𐐮𐑊",
+            "𐐶𐐩"
+        ]
+    },
+    {
+        "latin": "well",
+        "difficulty": 1,
+        "deseret": [
+            "𐐎𐐯𐑊",
+            "𐐶𐐩𐑊",
+            "𐐶𐐯𐑊"
+        ]
+    },
+    {
+        "latin": "wellspring",
+        "difficulty": 3,
+        "deseret": [
+            "𐐶𐐯𐑊𐑅𐐹𐑉𐐮𐑍"
+        ]
+    },
+    {
+        "latin": "what",
+        "difficulty": 1,
+        "deseret": [
+            "𐐐𐐶𐐰𐐻",
+            "𐐐𐐶𐐱𐐻",
+            "𐐸𐐶𐐱𐐻",
+            "𐐸𐐶𐐴𐐻"
+        ]
+    },
+    {
+        "latin": "whatsoever",
+        "difficulty": 3,
+        "deseret": [
+            "𐐸𐐶𐐱𐐻𐑅𐐬𐐯𐑂𐐯𐑉",
+            "𐐸𐐶𐐱𐐻𐑅𐐬𐐯𐑂𐑉"
+        ]
+    },
+    {
+        "latin": "when",
+        "difficulty": 1,
+        "deseret": [
+            "𐐐𐐶𐐯𐑌",
+            "𐐸𐐱𐐯𐑌",
+            "𐐸𐐶𐐨𐑌",
+            "𐐸𐐶𐐯",
+            "𐐸𐐶𐐯𐑌",
+            "𐐸𐐶𐐯𐑍",
+            "𐐸𐐶𐐲𐑌",
+            "𐐸𐐶𐑌"
+        ]
+    },
+    {
+        "latin": "wherefore",
+        "difficulty": 2,
+        "deseret": [
+            "𐐐𐐶𐐩𐑉𐑁𐐬𐑉",
+            "𐐐𐐶𐐯𐐰𐑉𐑁𐐬𐑉",
+            "𐐸𐐶𐐩𐑉𐑁𐐬𐑉",
+            "𐐸𐐶𐐯𐑉𐑁𐐬𐑉"
+        ]
+    },
+    {
+        "latin": "wherewithal",
+        "difficulty": 3,
+        "deseret": [
+            "𐐸𐐶𐐯𐐰𐑉𐐶𐐮𐑄𐐫𐑊"
+        ]
+    },
+    {
+        "latin": "which",
+        "difficulty": 1,
+        "deseret": [
+            "𐐐𐐶𐐮𐐽",
+            "𐐸𐐶𐐮𐐽",
+            "𐑄𐐶𐐮𐐽"
+        ]
+    },
+    {
+        "latin": "whirlwind",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐶𐐲𐑉𐑊𐐶𐐮𐑌𐐼"
+        ]
+    },
+    {
+        "latin": "whisperer",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐶𐐮𐑅𐐹𐐯𐑉𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "whithersoever",
+        "difficulty": 3,
+        "deseret": [
+            "𐐸𐐶𐐮𐑄𐐯𐑉𐑅𐐬𐐯𐑂𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "who",
+        "difficulty": 1,
+        "deseret": [
+            "𐐐𐐭",
+            "𐐸𐐭"
+        ]
+    },
+    {
+        "latin": "wholesome",
+        "difficulty": 2,
+        "deseret": [
+            "𐐸𐐬𐑊𐑅𐐲𐑋"
+        ]
+    },
+    {
+        "latin": "whosoever",
+        "difficulty": 2,
+        "deseret": [
+            "𐐐𐐭𐑅𐐬𐐯𐑂𐐯𐑉",
+            "𐐸𐐭𐑅𐐬𐐯𐑂𐐯𐑉",
+            "𐐸𐐭𐑅𐐬𐐯𐑂𐑉"
+        ]
+    },
+    {
+        "latin": "wickedness",
+        "difficulty": 3,
+        "deseret": [
+            "𐐶𐐮𐐿𐐯𐐼𐑌𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "wilderness",
+        "difficulty": 3,
+        "deseret": [
+            "𐐶𐐮𐑊𐐼𐐯𐑉𐑌𐐯𐑅",
+            "𐐶𐐮𐑊𐐼𐑉𐑌𐐯𐑅",
+            "𐐶𐐮𐑊𐐼𐑉𐑌𐑅"
+        ]
+    },
+    {
+        "latin": "will",
+        "difficulty": 1,
+        "deseret": [
+            "𐐎𐐮𐑊",
+            "𐐶𐐨𐐶𐐮𐑊",
+            "𐐶𐐮𐑊"
+        ]
+    },
+    {
+        "latin": "with",
+        "difficulty": 1,
+        "deseret": [
+            "𐐎𐐮𐑄",
+            "𐐶𐐮𐑃",
+            "𐐶𐐮𐑄"
+        ]
+    },
+    {
+        "latin": "wonderful",
+        "difficulty": 2,
+        "deseret": [
+            "𐐶𐐲𐑌𐐼𐐯𐑉𐑁𐐲𐑊",
+            "𐐶𐐲𐑌𐐼𐐯𐑉𐑁𐐳𐑊"
+        ]
+    },
+    {
+        "latin": "work",
+        "difficulty": 1,
+        "deseret": [
+            "𐐎𐐲𐑉𐐿",
+            "𐐶𐐲𐑉𐐿",
+            "𐐶𐑉𐐿"
+        ]
+    },
+    {
+        "latin": "workmanship",
+        "difficulty": 3,
+        "deseret": [
+            "𐐶𐐲𐑉𐐿𐑋𐐈𐑌𐑇𐐮𐐹",
+            "𐐶𐐲𐑉𐐿𐑋𐐲𐑌𐑇𐐮𐐹"
+        ]
+    },
+    {
+        "latin": "would",
+        "difficulty": 1,
+        "deseret": [
+            "𐐎𐐳𐐼",
+            "𐐶𐐳𐐼"
+        ]
+    },
+    {
+        "latin": "yard",
+        "difficulty": 1,
+        "deseret": [
+            "𐐷𐐪𐑉𐐼"
+        ]
+    },
+    {
+        "latin": "yarn",
+        "difficulty": 1,
+        "deseret": [
+            "𐐷𐐪𐑉𐑌"
+        ]
+    },
+    {
+        "latin": "year",
+        "difficulty": 1,
+        "deseret": [
+            "𐐷𐐨𐑉",
+            "𐑄𐐨𐑋"
+        ]
+    },
+    {
+        "latin": "yes",
+        "difficulty": 1,
+        "deseret": [
+            "𐐏𐐯𐑅"
+        ]
+    },
+    {
+        "latin": "yesterday",
+        "difficulty": 2,
+        "deseret": [
+            "𐐷𐐯𐑅𐐻𐐇𐑉𐐼𐐩",
+            "𐐷𐐯𐑅𐐻𐐯𐑉𐐼𐐩"
+        ]
+    },
+    {
+        "latin": "yet",
+        "difficulty": 1,
+        "deseret": [
+            "𐐷𐐯𐐻",
+            "𐐷𐐲𐐻"
+        ]
+    },
+    {
+        "latin": "yield",
+        "difficulty": 2,
+        "deseret": [
+            "𐐷𐐨𐑊𐐼"
+        ]
+    },
+    {
+        "latin": "yoke",
+        "difficulty": 1,
+        "deseret": [
+            "𐐷𐐬𐐿"
+        ]
+    },
+    {
+        "latin": "yonder",
+        "difficulty": 2,
+        "deseret": [
+            "𐐷𐐱𐑌𐐼𐐯𐑉"
+        ]
+    },
+    {
+        "latin": "you",
+        "difficulty": 1,
+        "deseret": [
+            "𐐏𐐭",
+            "𐐏𐐮𐐳",
+            "𐐷",
+            "𐐷𐐭",
+            "𐐷𐐮𐐭",
+            "𐐷𐐮𐐳",
+            "𐐷𐐳",
+            "𐐻𐐭"
+        ]
+    },
+    {
+        "latin": "your",
+        "difficulty": 1,
+        "deseret": [
+            "𐐏𐐭𐑉",
+            "𐐷𐐭𐑉",
+            "𐐷𐐮𐐭𐑉",
+            "𐐷𐐮𐐳𐑉",
+            "𐑄"
+        ]
+    },
+    {
+        "latin": "yourselves",
+        "difficulty": 3,
+        "deseret": [
+            "𐐷𐐭𐑉𐑅𐐯𐑊𐑂𐑆",
+            "𐐷𐐮𐐳𐑉𐑅𐐯𐑊𐑂𐑆"
+        ]
+    },
+    {
+        "latin": "zephyrs",
+        "difficulty": 3,
+        "deseret": [
+            "𐑆𐐯𐑁𐐲𐑉𐑆"
+        ]
+    },
+    {
+        "latin": "zone",
+        "difficulty": 1,
+        "deseret": [
+            "𐑆𐐬𐑌"
+        ]
+    }
+]

@@ -136,7 +136,7 @@ class Gui:
         self.keyboard_instructions_button = tk.Button(
             frame,
             text="Keyboard installation and use - 𐐗𐐀𐐒𐐄𐐡𐐔",
-            command=self.open_keyboard_instructions,
+            command=self.keyboard_instructions,
             font=self.button_font_1,
             bg="#FFFFDB",
         ).pack(side="bottom")
