@@ -7,6 +7,8 @@ import webbrowser
 
 from pathlib import Path
 
+from src.typing_mode import TypingPractice
+
 ## TO DO
 # configure start menu buttons
 
@@ -90,7 +92,7 @@ class Gui:
         self.start_button = tk.Button(
             self.main_frame,
             text="Begin! - 𐐒𐐀𐐘𐐆𐐤!",
-            command=self.begin_menu_frame,
+            command=self.start_program_menu_frame,
             font=self.button_font_1,
             bg="#FFFFDB",
         )
@@ -185,7 +187,7 @@ class Gui:
             self.current_frame.pack(fill="both", expand=True)
 
     # create begin program menu
-    def begin_menu_frame(self):
+    def start_program_menu_frame(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
         # create text and buttons
@@ -208,7 +210,7 @@ class Gui:
         self.manu_img = Image.open(img_path)
         self.manu_img = ImageTk.PhotoImage(self.manu_img)
         manuscript_img = tk.Label(frame, image=self.manu_img)
-        manuscript_img.pack(side="bottom", pady=9)
+        manuscript_img.pack(side="bottom", pady=20)
 
         tk.Button(
             frame,
@@ -216,23 +218,15 @@ class Gui:
             command=self.flashcards_frame,
             font=self.button_font_1,
             bg="#FFFFDB",
-        ).pack(pady=9)
+        ).pack(pady=15)
 
         tk.Button(
             frame,
-            text="Deseret to Latin Typing - 𐐔𐐇𐐝𐐞𐐡𐐇𐐓 𐐓𐐅 𐐢𐐈𐐓𐐆𐐤 𐐓𐐌𐐑𐐆𐐥",
-            command=self.d_to_l_typing_frame,
+            text="Typing - 𐐓𐐌𐐑𐐆𐐥",
+            command=self.typing_frame,
             font=self.button_font_1,
             bg="#FFFFDB",
-        ).pack(pady=9)
-
-        tk.Button(
-            frame,
-            text="Latin to Deseret Typing - 𐐢𐐈𐐓𐐆𐐤 𐐓𐐅 𐐔𐐇𐐝𐐞𐐡𐐇𐐓 𐐓𐐌𐐑𐐆𐐥",
-            command=self.l_to_d_typing_frame,
-            font=self.button_font_1,
-            bg="#FFFFDB",
-        ).pack(pady=9)
+        ).pack(pady=15)
 
         self.show_frame(frame)
 
@@ -250,76 +244,154 @@ class Gui:
 
         self.show_frame(frame)
 
-    # create deseret to latin typing function frame
-    def d_to_l_typing_frame(self):
+    # create typing function frame
+    def typing_frame(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
         tk.Label(
             frame,
-            text="Deseret to Latin Typing practice - 𐐔𐐇𐐝𐐞𐐡𐐇𐐓 𐐓𐐅 𐐢𐐈𐐓𐐆𐐤 𐐓𐐌𐐑𐐆𐐥 𐐑𐐡𐐈𐐗𐐓𐐆𐐝",
+            text="Typing practice - 𐐓𐐌𐐑𐐆𐐥 𐐑𐐡𐐈𐐗𐐓𐐆𐐝",
             font=self.header_font_2,
             bg="#EDE4BE",
-        ).pack(side="top", pady=30)
+        ).pack(side="top", pady=5)
 
         tk.Label(
             frame,
-            text="Enter the corresponding Latin text for the Deseret shown.",
-            font=self.header_font_2,
+            text="Enter the corresponding Latin or Deseret text for the example shown.",
+            font=self.button_font_1,
             bg="#EDE4BE",
-        ).pack(side="top", pady=30)
+        ).pack(side="top", pady=5)
+
+        # create separate settings buttons areas
+        settings_container = tk.Frame(frame, bg="#EDE4BE")
+        settings_container.pack(side="top", pady=10, fill="x")
+
+        settings_frame_left = tk.Frame(settings_container, bg="#EDE4BE")
+        settings_frame_left.pack(side="left", expand=True)
+
+        settings_frame_right = tk.Frame(settings_container, bg="#EDE4BE")
+        settings_frame_right.pack(side="right", expand=True)
+
+        self.mode_var = tk.StringVar(value="latin_to_deseret")
+
+        tk.Radiobutton(
+            settings_frame_left,
+            text="Latin → Deseret",
+            font=self.main_text_font,
+            variable=self.mode_var,
+            value="latin_to_deseret",
+            bg="#EDE4BE",
+            highlightthickness=0,
+        ).pack(side="top", pady=2, anchor="w")
+
+        tk.Radiobutton(
+            settings_frame_left,
+            text="Deseret → Latin",
+            font=self.main_text_font,
+            variable=self.mode_var,
+            value="deseret_to_latin",
+            bg="#EDE4BE",
+            highlightthickness=0,
+        ).pack(side="top", pady=2, anchor="w")
+
+        # choose difficulty
+        self.difficulty_var = tk.IntVar(value=1)
 
         tk.Label(
+            settings_frame_right,
+            text="Difficulty: 1 (easy) -> 3 (hard)",
+            font=self.main_text_font,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=2)
+
+        ttk.Combobox(
+            settings_frame_right,
+            textvariable=self.difficulty_var,
+            values=[1, 2, 3],
+            state="readonly",
+            width=5,
+        ).pack(side="top", pady=2)
+
+        # start practice
+        tk.Button(
             frame,
-            text="Here is the example",
+            text="Start Practice",
+            font=self.button_font_1,
+            bg="#FFFFDB",
+            command=self.start_practice,
+        ).pack(side="top", pady=15)
+
+        # prompt
+        self.question_label = tk.Label(
+            frame,
+            text="XX",
             font=self.header_font_1,
             bg="#EDE4BE",
-        ).pack(side="top", pady=30)
+        )
+        self.question_label.pack(side="top", pady=5)
 
+        # feedback
+        self.result_label = tk.Label(
+            frame,
+            text="xxx",
+            font=self.button_font_1,
+            bg="#EDE4BE",
+        )
+        self.result_label.pack(side="top", pady=5)
+
+        # text entry box
+        self.answer_entry = tk.Text(
+            frame, width=20, height=1, font=self.text_entry_font
+        )
+        self.answer_entry.pack(side="top", pady=5)
+
+        # back button
         self.back_button = tk.Button(
             frame,
             text="Back - 𐐒𐐈𐐗",
             command=self.go_back,
             font=self.button_font_1,
             bg="#FFFFDB",
-        ).pack(side="bottom", pady=15)
+        )
+        self.back_button.pack(side="bottom", pady=10)
 
-        tk.Text(frame, width=20, font=self.text_entry_font).pack(side="bottom", pady=80)
-
-        self.show_frame(frame)
-
-    # create latin to deseret typing function frame
-    def l_to_d_typing_frame(self):
-        frame = tk.Frame(self.root, bg="#EDE4BE")
-
-        tk.Label(
+        # submit button
+        tk.Button(
             frame,
-            text="Latin to Deseret Typing practice - 𐐢𐐈𐐓𐐆𐐤 𐐓𐐅 𐐔𐐇𐐝𐐞𐐡𐐇𐐓 𐐓𐐌𐐑𐐆𐐥 𐐑𐐡𐐈𐐗𐐓𐐆𐐝",
-            font=self.header_font_2,
-            bg="#EDE4BE",
-        ).pack(side="top", pady=30)
-
-        tk.Label(
-            frame,
-            text="Enter the corresponding Deseret text for the Latin shown.",
-            font=self.header_font_2,
-            bg="#EDE4BE",
-        ).pack(side="top", pady=30)
-
-        tk.Label(
-            frame,
-            text="Here is the example",
-            font=self.header_font_1,
-            bg="#EDE4BE",
-        ).pack(side="top", pady=30)
-
-        self.back_button = tk.Button(
-            frame,
-            text="Back - 𐐒𐐈𐐗",
-            command=self.go_back,
+            text="Enter Answer",
             font=self.button_font_1,
             bg="#FFFFDB",
-        ).pack(side="bottom", pady=15)
-
-        tk.Text(frame, width=20, font=self.text_entry_font).pack(side="bottom", pady=80)
+            command=self.submit_answer,
+        ).pack(side="bottom", pady=25)
 
         self.show_frame(frame)
+
+    # create functions to start typing practice
+    def start_practice(self):
+        self.practice = TypingPractice(
+            mode=self.mode_var.get(), difficulty=self.difficulty_var.get()
+        )
+        self.load_question()
+
+    # create function to show next question
+    def load_question(self):
+        question = self.practice.next_question()
+        self.question_label.config(text=question)
+        self.answer_entry.delete("1.0", tk.END)
+        self.result_label.config(text="")
+
+    # create function to submit user answer
+    def submit_answer(self):
+        user_answer = self.answer_entry.get("1.0", "end-1c")
+        correct = self.practice.grade_answer(user_answer)
+        if correct:
+            self.result_label.config(text="Correct!", font=self.header_font_2)
+        else:
+            correct_answer = self.practice.get_answer()
+
+            self.result_label.config(
+                text=f"Incorrect. Correct answer: {correct_answer}",
+                font=self.header_font_2,
+            )
+
+        self.root.after(1500, self.load_question)
