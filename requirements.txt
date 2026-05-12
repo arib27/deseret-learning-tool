@@ -1,1 +1,1 @@
-You will need the Pillow (PIL) library installed to sucessfully run this program.
+You will need the Pillow (PIL) library installed to sucessfully run aspects of this program.

@@ -239,20 +239,6 @@ class Gui:
 
         self.show_frame(frame)
 
-    # create flashcard function page
-    def flashcards_frame(self):
-        frame = tk.Frame(self.root, bg="#EDE4BE")
-
-        self.back_button = tk.Button(
-            frame,
-            text="Back - 𐐒𐐈𐐗",
-            command=self.go_back,
-            font=self.button_font_1,
-            bg="#FFFFDB",
-        ).pack(side="bottom", pady=15)
-
-        self.show_frame(frame)
-
     # create typing function page
     def typing_frame(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
@@ -414,3 +400,17 @@ class Gui:
                 font=self.deseret_font,
             )
             self.root.after(2500, self.load_question)
+
+    # create flashcard function page
+    def flashcards_frame(self):
+        frame = tk.Frame(self.root, bg="#EDE4BE")
+
+        self.back_button = tk.Button(
+            frame,
+            text="Back - 𐐒𐐈𐐗",
+            command=self.go_back,
+            font=self.button_font_1,
+            bg="#FFFFDB",
+        ).pack(side="bottom", pady=15)
+
+        self.show_frame(frame)
