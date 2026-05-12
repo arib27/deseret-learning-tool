@@ -9,9 +9,6 @@ from pathlib import Path
 
 from src.typing_mode import TypingPractice
 
-## TO DO
-# configure start menu buttons
-
 
 # create user interface
 class Gui:
@@ -218,11 +215,11 @@ class Gui:
             command=self.flashcards_frame,
             font=self.button_font_1,
             bg="#FFFFDB",
-        ).pack(pady=15)
+        ).pack(pady=30)
 
         tk.Button(
             frame,
-            text="Typing - 𐐓𐐌𐐑𐐆𐐥",
+            text="Spelling and Typing - 𐐝𐐑𐐇𐐢𐐆𐐥 𐐈𐐤𐐔 𐐓𐐌𐐑𐐆𐐥",
             command=self.typing_frame,
             font=self.button_font_1,
             bg="#FFFFDB",
@@ -250,7 +247,7 @@ class Gui:
 
         tk.Label(
             frame,
-            text="Typing practice - 𐐓𐐌𐐑𐐆𐐥 𐐑𐐡𐐈𐐗𐐓𐐆𐐝",
+            text="Spelling and typing practice - 𐐝𐐑𐐇𐐢𐐆𐐥 𐐈𐐤𐐔 𐐓𐐌𐐑𐐆𐐥 𐐑𐐡𐐈𐐗𐐓𐐆𐐝",
             font=self.header_font_2,
             bg="#EDE4BE",
         ).pack(side="top", pady=5)
@@ -272,17 +269,7 @@ class Gui:
         settings_frame_right = tk.Frame(settings_container, bg="#EDE4BE")
         settings_frame_right.pack(side="right", expand=True)
 
-        self.mode_var = tk.StringVar(value="latin_to_deseret")
-
-        tk.Radiobutton(
-            settings_frame_left,
-            text="Latin → Deseret",
-            font=self.main_text_font,
-            variable=self.mode_var,
-            value="latin_to_deseret",
-            bg="#EDE4BE",
-            highlightthickness=0,
-        ).pack(side="top", pady=2, anchor="w")
+        self.mode_var = tk.StringVar(value="deseret_to_latin")
 
         tk.Radiobutton(
             settings_frame_left,
@@ -290,6 +277,16 @@ class Gui:
             font=self.main_text_font,
             variable=self.mode_var,
             value="deseret_to_latin",
+            bg="#EDE4BE",
+            highlightthickness=0,
+        ).pack(side="top", pady=2, anchor="w")
+
+        tk.Radiobutton(
+            settings_frame_left,
+            text="Latin → Deseret",
+            font=self.main_text_font,
+            variable=self.mode_var,
+            value="latin_to_deseret",
             bg="#EDE4BE",
             highlightthickness=0,
         ).pack(side="top", pady=2, anchor="w")
@@ -324,26 +321,26 @@ class Gui:
         # prompt
         self.question_label = tk.Label(
             frame,
-            text="XX",
-            font=self.header_font_1,
+            text="",
+            font=self.text_entry_font,
             bg="#EDE4BE",
         )
-        self.question_label.pack(side="top", pady=5)
+        self.question_label.pack(side="top", pady=10)
 
         # feedback
         self.result_label = tk.Label(
             frame,
-            text="xxx",
+            text="",
             font=self.button_font_1,
             bg="#EDE4BE",
         )
-        self.result_label.pack(side="top", pady=5)
+        self.result_label.pack(side="top", pady=10)
 
         # text entry box
         self.answer_entry = tk.Text(
             frame, width=20, height=1, font=self.text_entry_font
         )
-        self.answer_entry.pack(side="top", pady=5)
+        self.answer_entry.pack(side="top", pady=10)
 
         # back button
         self.back_button = tk.Button(
@@ -384,14 +381,26 @@ class Gui:
     def submit_answer(self):
         user_answer = self.answer_entry.get("1.0", "end-1c")
         correct = self.practice.grade_answer(user_answer)
+        correct_answer = self.practice.get_answer()
+
         if correct:
-            self.result_label.config(text="Correct!", font=self.header_font_2)
+            if self.practice.mode == "deseret_to_latin":
+                self.result_label.config(
+                    text="Correct!",
+                    font=self.text_entry_font,
+                )
+                self.root.after(1200, self.load_question)
+
+            if self.practice.mode == "latin_to_deseret":
+                self.result_label.config(
+                    text=f"Correct! Possible answers: {correct_answer}",
+                    font=self.text_entry_font,
+                )
+                self.root.after(2500, self.load_question)
+
         else:
-            correct_answer = self.practice.get_answer()
-
             self.result_label.config(
-                text=f"Incorrect. Correct answer: {correct_answer}",
-                font=self.header_font_2,
+                text=f"Incorrect! Right answer: {correct_answer}",
+                font=self.text_entry_font,
             )
-
-        self.root.after(1500, self.load_question)
+            self.root.after(2500, self.load_question)

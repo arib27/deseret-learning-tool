@@ -31,7 +31,6 @@
         "latin": "abomination",
         "difficulty": 3,
         "deseret": [
-            "𐐰𐐺𐐱𐑋𐐮𐐩𐑇𐐲𐑌",
             "𐐰𐐺𐐱𐑋𐐮𐑌𐐩𐑇𐐲𐑌"
         ]
     },
@@ -184,7 +183,6 @@
         "latin": "although",
         "difficulty": 3,
         "deseret": [
-            "𐐃𐑊𐑄𐐬",
             "𐐫𐑊𐑄𐐬"
         ]
     },
@@ -376,12 +374,10 @@
         "latin": "because",
         "difficulty": 1,
         "deseret": [
-            "𐐒𐐨𐐿𐐫𐑆",
-            "𐐒𐐯𐐿𐐫𐑆",
             "𐐺𐐨𐐿𐐫𐑆",
+            "𐐺𐐯𐐿𐐫𐑆",
             "𐐺𐐩𐐿𐐫𐑆",
             "𐐺𐐮𐐿𐐫𐑆",
-            "𐐺𐐯𐐿𐐫𐑆",
             "𐐺𐐯𐑀𐐫𐑆",
             "𐐺𐐿𐐫𐑆"
         ]
@@ -404,13 +400,12 @@
         "latin": "beginning",
         "difficulty": 2,
         "deseret": [
-            "𐐒𐑀𐐮𐑌𐑍",
+            "𐐺𐑀𐐮𐑌𐑍",
             "𐐺𐐨𐑀𐐮𐑌𐐮𐑍",
             "𐐺𐐯𐑀𐐮𐑌𐐮𐑍",
             "𐐺𐐿𐐮𐑌𐑍",
             "𐐺𐐿𐑌𐑌𐑍",
-            "𐐺𐑀𐐮𐑌𐐮𐑍",
-            "𐐺𐑀𐐮𐑌𐑍"
+            "𐐺𐑀𐐮𐑌𐐮𐑍"
         ]
     },
     {
@@ -475,7 +470,7 @@
         "latin": "brambles",
         "difficulty": 2,
         "deseret": [
-            "𐐺 𐑉𐐰𐑋𐐺𐑊𐑆"
+            "𐐺𐑉𐐰𐑋𐐺𐑊𐑆"
         ]
     },
     {
@@ -518,19 +513,13 @@
         "latin": "but",
         "difficulty": 1,
         "deseret": [
-            "𐐒𐐲𐐻",
-            "𐐲𐐻",
-            "𐐺𐐲𐐻",
-            "𐑄𐐲𐑌"
+            "𐐺𐐲𐐻"
         ]
     },
     {
         "latin": "by",
         "difficulty": 1,
         "deseret": [
-            "𐐒𐐌",
-            "𐐒𐐴",
-            "𐐮𐑌",
             "𐐺𐐴"
         ]
     },
@@ -587,18 +576,15 @@
         "latin": "came",
         "difficulty": 1,
         "deseret": [
-            "𐐿𐐩𐑋",
-            "𐑊𐐩𐑋"
+            "𐐿𐐩𐑋"
         ]
     },
     {
         "latin": "can",
         "difficulty": 1,
         "deseret": [
-            "𐐗𐐰𐑌",
             "𐐿𐐰𐑌",
-            "𐐿𐐱𐑌",
-            "𐑌𐐰𐑀"
+            "𐐿𐐱𐑌"
         ]
     },
     {
@@ -662,8 +648,6 @@
         "latin": "children",
         "difficulty": 2,
         "deseret": [
-            "𐐕𐐮𐑊𐐼𐑉𐐯𐑌",
-            "𐐕𐐮𐑊𐐼𐑉𐐯𐑍",
             "𐐽𐐮𐑊𐐼𐑉𐐯𐑌",
             "𐐽𐐮𐑊𐐼𐑉𐐯𐑍",
             "𐐽𐐮𐑊𐐼𐑉𐑌"
@@ -673,7 +657,7 @@
         "latin": "cleanliness",
         "difficulty": 3,
         "deseret": [
-            "𐐗𐑊𐐨𐑌𐑊𐐮𐑌𐐯𐑅"
+            "𐐿𐑊𐐨𐑌𐑊𐐮𐑌𐐯𐑅"
         ]
     },
     {
@@ -701,8 +685,6 @@
         "latin": "come",
         "difficulty": 1,
         "deseret": [
-            "𐐗𐐲𐑋",
-            "𐐿𐐯𐑋",
             "𐐿𐐲𐑋"
         ]
     },
@@ -764,7 +746,6 @@
         "latin": "confidence",
         "difficulty": 3,
         "deseret": [
-            "𐐗𐐱𐑌𐑁𐐮𐐼𐐯𐑌𐑅",
             "𐐿𐐱𐑌𐑁𐐮𐐼𐐯𐑌𐑅",
             "𐐿𐐱𐑌𐑁𐐮𐐼𐐯𐑌𐑆"
         ]
@@ -788,10 +769,9 @@
         "latin": "consider",
         "difficulty": 2,
         "deseret": [
-            "𐐗𐐲𐑌𐑅𐐮𐐼𐐯𐑉",
+            "𐐿𐐲𐑌𐑅𐐮𐐼𐐯𐑉",
             "𐐿𐐱𐑌𐑅𐐮𐐼𐐯𐑉",
-            "𐐿𐐱𐑌𐑅𐐮𐐼𐑉",
-            "𐐿𐐲𐑌𐑅𐐮𐐼𐐯𐑉"
+            "𐐿𐐱𐑌𐑅𐐮𐐼𐑉"
         ]
     },
     {
@@ -822,7 +802,6 @@
         "latin": "crucifixion",
         "difficulty": 3,
         "deseret": [
-            "𐐗𐑉𐐭𐑅𐐮𐑁𐐮𐐿𐑇𐐲𐑌",
             "𐐿𐑉𐐭𐑅𐐮𐑁𐐮𐐿𐑇𐐲𐑌"
         ]
     },
@@ -830,7 +809,6 @@
         "latin": "cultivate",
         "difficulty": 2,
         "deseret": [
-            "𐐗𐐲𐑊𐐻𐐮𐑂𐐩𐐻",
             "𐐿𐐲𐑊𐐻𐐮𐑂𐐩𐐻"
         ]
     },
@@ -896,9 +874,6 @@
         "latin": "day",
         "difficulty": 1,
         "deseret": [
-            "𐐔𐐩",
-            "𐐜𐐩",
-            "𐐺𐐩",
             "𐐼𐐩"
         ]
     },
@@ -982,7 +957,6 @@
         "latin": "disciples",
         "difficulty": 2,
         "deseret": [
-            "𐐔𐐮𐑅𐐴𐐹𐑊𐑆",
             "𐐼𐐮𐑅𐐴𐐹𐑊𐑆",
             "𐐼𐑅𐐴𐐹𐑊𐑆"
         ]
@@ -991,7 +965,7 @@
         "latin": "discovery",
         "difficulty": 2,
         "deseret": [
-            "𐐔𐐮𐑅𐐿𐐲𐑂𐐯𐑉𐐮"
+            "𐐼𐐮𐑅𐐿𐐲𐑂𐐯𐑉𐐮"
         ]
     },
     {
@@ -1033,7 +1007,7 @@
         "latin": "dissensions",
         "difficulty": 3,
         "deseret": [
-            "𐐔𐐮𐑅𐐯𐑌𐑇𐐲𐑌𐑆"
+            "𐐼𐐮𐑅𐐯𐑌𐑇𐐲𐑌𐑆"
         ]
     },
     {
@@ -1054,8 +1028,7 @@
         "latin": "do",
         "difficulty": 1,
         "deseret": [
-            "𐐔𐐬",
-            "𐐔𐐭",
+            "𐐼𐐬",
             "𐐼𐐭",
             "𐐼𐐳"
         ]
@@ -1092,7 +1065,6 @@
         "latin": "early",
         "difficulty": 2,
         "deseret": [
-            "𐐊𐑉𐑊𐐮",
             "𐐲𐑉𐑊𐐮"
         ]
     },
@@ -1175,7 +1147,6 @@
         "latin": "engravings",
         "difficulty": 3,
         "deseret": [
-            "𐐇𐑌𐑀𐑉𐐩𐑂𐐮𐑍𐑆",
             "𐐯𐑌𐑀𐑉𐐩𐑂𐐮𐑍𐑆"
         ]
     },
@@ -1205,7 +1176,6 @@
         "latin": "even",
         "difficulty": 1,
         "deseret": [
-            "𐐀𐑂𐑌",
             "𐐨𐑂𐑌"
         ]
     },
@@ -1228,7 +1198,6 @@
         "latin": "excellent",
         "difficulty": 3,
         "deseret": [
-            "𐐇𐐿𐑅𐐯𐑊𐐯𐑌𐐻",
             "𐐯𐐿𐑅𐐯𐑊𐐯𐑌𐐻"
         ]
     },
@@ -1292,7 +1261,6 @@
         "latin": "faith",
         "difficulty": 2,
         "deseret": [
-            "𐐙𐐩𐑃",
             "𐑁𐐩𐑃"
         ]
     },
@@ -1315,8 +1283,6 @@
         "latin": "first",
         "difficulty": 1,
         "deseret": [
-            "𐐙𐐊𐐡𐐝𐐓",
-            "𐐙𐐲𐑉𐑅𐐻",
             "𐑁𐐲𐑉𐑅𐐻",
             "𐑁𐑉𐑅𐐻",
             "𐑁𐑉𐑅𐐻𐑊𐐮"
@@ -1333,15 +1299,12 @@
         "latin": "for",
         "difficulty": 1,
         "deseret": [
-            "𐐙𐐫𐑉",
-            "𐐙𐐬𐑉",
-            "𐐙𐐱𐑉",
-            "𐐸𐐫𐑉",
-            "𐑁𐐫 𐑉",
             "𐑁𐐫𐑉",
             "𐑁𐐬𐑉",
-            "𐑁𐐭𐑉",
-            "𐑁𐐱𐑉"
+            "𐑁𐐱𐑉",
+            "𐐸𐐫𐑉",
+            "𐑁𐐫 𐑉",
+            "𐑁𐐭𐑉"
         ]
     },
     {
@@ -1383,7 +1346,7 @@
         "latin": "fortifications",
         "difficulty": 3,
         "deseret": [
-            "𐐙𐐫𐑉𐐻𐐮𐑁𐐮𐐿𐐩𐑇𐐲𐑌𐑆"
+            "𐑁𐐫𐑉𐐻𐐮𐑁𐐮𐐿𐐩𐑇𐐲𐑌𐑆"
         ]
     },
     {
@@ -1405,8 +1368,6 @@
         "latin": "from",
         "difficulty": 1,
         "deseret": [
-            "𐐙𐐡𐐉𐐣",
-            "𐐙𐑉𐐱𐑋",
             "𐑁𐑉𐐱𐑋",
             "𐑋𐑉𐐱𐑋"
         ]
@@ -1443,7 +1404,6 @@
         "latin": "gather",
         "difficulty": 2,
         "deseret": [
-            "𐐘𐐰𐑄𐐯𐑉",
             "𐑀𐐰𐑄𐐯𐑉"
         ]
     },
@@ -1482,9 +1442,8 @@
         "latin": "give",
         "difficulty": 1,
         "deseret": [
-            "𐐘𐐮𐑂",
-            "𐐿𐐮𐑂",
-            "𐑀𐐮𐑂"
+            "𐑀𐐮𐑂",
+            "𐐿𐐮𐑂"
         ]
     },
     {
@@ -1498,8 +1457,6 @@
         "latin": "go",
         "difficulty": 1,
         "deseret": [
-            "𐐘𐐬",
-            "𐐿𐐬",
             "𐑀𐐬"
         ]
     },
@@ -1507,18 +1464,17 @@
         "latin": "good",
         "difficulty": 1,
         "deseret": [
-            "𐐔𐐳𐐼",
-            "𐐘𐐳𐐼",
+            "𐐼𐐳𐐼",
+            "𐑀𐐳𐐼",
             "𐐫𐐳𐐼",
-            "𐐿𐐳𐐼",
-            "𐑀𐐳𐐼"
+            "𐐿𐐳𐐼"
         ]
     },
     {
         "latin": "government",
         "difficulty": 3,
         "deseret": [
-            "𐐘𐐲𐑂𐐯𐑉𐑌𐑋𐐯𐑌𐐻"
+            "𐑀𐐲𐑂𐐯𐑉𐑌𐑋𐐯𐑌𐐻"
         ]
     },
     {
@@ -1604,7 +1560,6 @@
         "latin": "hallowed",
         "difficulty": 2,
         "deseret": [
-            "𐐐𐐰𐑊𐐬𐐼",
             "𐐸𐐰𐑊𐐬𐐼"
         ]
     },
@@ -1640,10 +1595,8 @@
         "latin": "have",
         "difficulty": 1,
         "deseret": [
-            "𐐐𐐰𐑂",
-            "𐐸𐐈𐑂",
-            "𐐸𐐰𐐲",
-            "𐐸𐐰𐑂"
+            "𐐸𐐰𐑂",
+            "𐐸𐐰𐐲"
         ]
     },
     {
@@ -1657,7 +1610,6 @@
         "latin": "he",
         "difficulty": 1,
         "deseret": [
-            "𐐐𐐨",
             "𐐸𐐨",
             "𐐸𐐩",
             "𐐸𐐸"
@@ -1674,7 +1626,6 @@
         "latin": "her",
         "difficulty": 1,
         "deseret": [
-            "𐐸𐐮𐑋",
             "𐐸𐐯𐑉",
             "𐐸𐐲𐑉",
             "𐐸𐑉"
@@ -1699,23 +1650,17 @@
         "latin": "him",
         "difficulty": 1,
         "deseret": [
-            "𐐴𐐰𐑋",
             "𐐸𐐩𐑋",
             "𐐸𐐮𐑋",
-            "𐐸𐐴𐑋",
-            "𐑋𐐨"
+            "𐐸𐐴𐑋"
         ]
     },
     {
         "latin": "his",
         "difficulty": 1,
         "deseret": [
-            "𐐐𐐮𐑂",
-            "𐐐𐐮𐑆",
-            "𐐮𐑆",
-            "𐐸𐐮𐑅",
             "𐐸𐐮𐑆",
-            "𐑄𐐮"
+            "𐐸𐐮𐑅"
         ]
     },
     {
@@ -1743,7 +1688,6 @@
         "latin": "how",
         "difficulty": 1,
         "deseret": [
-            "𐐐𐐵",
             "𐐸𐐵"
         ]
     },
@@ -1786,7 +1730,6 @@
         "latin": "if",
         "difficulty": 1,
         "deseret": [
-            "𐐆𐑁",
             "𐐮𐑁"
         ]
     },
@@ -1836,13 +1779,7 @@
         "latin": "in",
         "difficulty": 1,
         "deseret": [
-            "𐐆𐑌",
-            "𐐮𐐯",
-            "𐐮𐑌",
-            "𐐮𐑍",
-            "𐐱𐑂",
-            "𐐱𐑌",
-            "𐑌𐑌"
+            "𐐮𐑌"
         ]
     },
     {
@@ -1961,9 +1898,8 @@
         "latin": "it",
         "difficulty": 1,
         "deseret": [
-            "𐐆𐐻",
-            "𐐨𐐻",
             "𐐮𐐻",
+            "𐐨𐐻",
             "𐐰𐐻"
         ]
     },
@@ -2015,7 +1951,6 @@
         "latin": "judge",
         "difficulty": 2,
         "deseret": [
-            "𐐖𐐲𐐾",
             "𐐾𐐲𐐾"
         ]
     },
@@ -2030,7 +1965,6 @@
         "latin": "just",
         "difficulty": 1,
         "deseret": [
-            "𐐖𐐲𐑅𐐻",
             "𐐾𐐲𐑅𐐻"
         ]
     },
@@ -2081,7 +2015,6 @@
         "latin": "kind",
         "difficulty": 1,
         "deseret": [
-            "𐐗𐐴𐑌𐐼",
             "𐐿𐐴𐑌𐐼"
         ]
     },
@@ -2096,7 +2029,6 @@
         "latin": "king",
         "difficulty": 1,
         "deseret": [
-            "𐐗𐐮𐑍",
             "𐐿𐐮𐑍"
         ]
     },
@@ -2104,7 +2036,6 @@
         "latin": "know",
         "difficulty": 1,
         "deseret": [
-            "𐐤𐐬",
             "𐑌𐐬"
         ]
     },
@@ -2197,9 +2128,8 @@
         "latin": "like",
         "difficulty": 1,
         "deseret": [
-            "𐐢𐐴𐐿",
-            "𐐴𐐿",
-            "𐑊𐐴𐐿"
+            "𐑊𐐴𐐿",
+            "𐐴𐐿"
         ]
     },
     {
@@ -2213,9 +2143,8 @@
         "latin": "look",
         "difficulty": 1,
         "deseret": [
-            "𐐢𐐳𐐿",
-            "𐑊𐐳𐐭",
-            "𐑊𐐳𐐿"
+            "𐑊𐐳𐐿",
+            "𐑊𐐳𐐭"
         ]
     },
     {
@@ -2243,7 +2172,6 @@
         "latin": "make",
         "difficulty": 1,
         "deseret": [
-            "𐐣𐐩𐐿",
             "𐑋𐐩𐐿"
         ]
     },
@@ -2290,9 +2218,7 @@
         "latin": "me",
         "difficulty": 1,
         "deseret": [
-            "𐐣𐐨",
-            "𐑋𐐨",
-            "𐑋𐐯𐑌"
+            "𐑋𐐨"
         ]
     },
     {
@@ -2321,8 +2247,8 @@
         "latin": "multiplication",
         "difficulty": 3,
         "deseret": [
-            "𐐣𐐊𐐢𐐓𐐆𐐑𐐢𐐆𐐗𐐁𐐟𐐊𐐤",
-            "𐐣𐐲𐑊𐐻𐐨𐐹𐑊𐐮𐐿𐐩𐑇𐐲𐑌"
+            "𐑋𐐲𐑊𐐻𐐮𐐹𐑊𐐮𐐿𐐩𐑇𐐲𐑌",
+            "𐑋𐐲𐑊𐐻𐐨𐐹𐑊𐐮𐐿𐐩𐑇𐐲𐑌"
         ]
     },
     {
@@ -2354,8 +2280,6 @@
         "latin": "my",
         "difficulty": 1,
         "deseret": [
-            "𐐣𐐴",
-            "𐑄",
             "𐑋𐐴"
         ]
     },
@@ -2428,14 +2352,13 @@
         "latin": "nethermost",
         "difficulty": 3,
         "deseret": [
-            "𐐤𐐯𐑄𐐯𐑉𐑋𐐬𐑅𐐻"
+            "𐑌𐐯𐑄𐐯𐑉𐑋𐐬𐑅𐐻"
         ]
     },
     {
         "latin": "nevertheless",
         "difficulty": 3,
         "deseret": [
-            "𐐤𐐯𐑂𐐯𐑉𐑄𐐨𐑊𐐯𐑅",
             "𐑌𐐯𐑂𐐯𐑉𐑄𐐨𐑊𐐯𐑅"
         ]
     },
@@ -2451,7 +2374,6 @@
         "latin": "no",
         "difficulty": 1,
         "deseret": [
-            "𐐤𐐬",
             "𐑌𐐬"
         ]
     },
@@ -2466,11 +2388,10 @@
         "latin": "not",
         "difficulty": 1,
         "deseret": [
-            "𐐤𐐱𐐻",
+            "𐑌𐐱𐐻",
             "𐑌𐐫𐐻",
             "𐑌𐐰𐐻",
             "𐑌𐐱𐐮",
-            "𐑌𐐱𐐻",
             "𐑌𐐱𐑊"
         ]
     },
@@ -2492,7 +2413,6 @@
         "latin": "now",
         "difficulty": 1,
         "deseret": [
-            "𐐤𐐵",
             "𐑌𐐵"
         ]
     },
@@ -2550,15 +2470,9 @@
         "latin": "of",
         "difficulty": 1,
         "deseret": [
-            "𐐉𐐚",
-            "𐐉𐑂",
-            "𐐰𐑂",
-            "𐐱𐑁",
             "𐐱𐑂",
-            "𐐱𐑂𐐮",
-            "𐐱𐑆",
-            "𐐻𐐳",
-            "𐐿𐑂"
+            "𐐰𐑂",
+            "𐐱𐑁"
         ]
     },
     {
@@ -2574,7 +2488,6 @@
         "latin": "olive-tree",
         "difficulty": 3,
         "deseret": [
-            "𐐉𐑊𐐮𐑂-𐐻𐑉𐐨",
             "𐐱𐑊𐐮𐑂-𐐻𐑉𐐨"
         ]
     },
@@ -2582,19 +2495,14 @@
         "latin": "on",
         "difficulty": 1,
         "deseret": [
-            "𐐉𐐤",
-            "𐐉𐑌",
-            "𐐫𐑌",
-            "𐐱𐐮",
-            "𐐱𐑂",
-            "𐐱𐑌"
+            "𐐱𐑌",
+            "𐐫𐑌"
         ]
     },
     {
         "latin": "one",
         "difficulty": 1,
         "deseret": [
-            "𐐎𐐲𐑌",
             "𐐶𐐲𐑌"
         ]
     },
@@ -2609,14 +2517,13 @@
         "latin": "opposition",
         "difficulty": 3,
         "deseret": [
-            "𐐉𐐹𐐬𐑆𐐮𐑇𐐲𐑌"
+            "𐐱𐐹𐐬𐑆𐐮𐑇𐐲𐑌"
         ]
     },
     {
         "latin": "or",
         "difficulty": 1,
         "deseret": [
-            "𐐃𐑉",
             "𐐫𐑉",
             "𐐬𐑉",
             "𐐱𐑉"
@@ -2641,9 +2548,8 @@
         "latin": "other",
         "difficulty": 1,
         "deseret": [
-            "𐐊𐑄𐐯𐑉",
-            "𐐲𐑃𐐯𐑉",
             "𐐲𐑄𐐯𐑉",
+            "𐐲𐑃𐐯𐑉",
             "𐐲𐑄𐑉"
         ]
     },
@@ -2659,9 +2565,8 @@
         "latin": "our",
         "difficulty": 1,
         "deseret": [
-            "𐐍𐑉",
-            "𐐪𐑉",
-            "𐐵𐑉"
+            "𐐵𐑉",
+            "𐐪𐑉"
         ]
     },
     {
@@ -2682,7 +2587,6 @@
         "latin": "over",
         "difficulty": 1,
         "deseret": [
-            "𐐬𐑂𐐇𐑉",
             "𐐬𐑂𐐯𐑉",
             "𐐬𐑂𐑉"
         ]
@@ -2719,8 +2623,6 @@
         "latin": "page",
         "difficulty": 1,
         "deseret": [
-            "𐐑𐐁𐐖",
-            "𐐑𐐩𐐾",
             "𐐹𐐩𐐾"
         ]
     },
@@ -2812,7 +2714,6 @@
         "latin": "people",
         "difficulty": 1,
         "deseret": [
-            "𐐑𐐨𐐹𐑊",
             "𐐹𐐨𐐹𐑊",
             "𐐹𐐮𐐹𐑊"
         ]
@@ -2836,7 +2737,7 @@
         "latin": "poisonous",
         "difficulty": 2,
         "deseret": [
-            "𐐑𐐱𐐮𐑆𐑌𐐯𐑅",
+            "𐐹𐐱𐐮𐑆𐑌𐐯𐑅",
             "𐐹𐐱𐐮𐑆𐐲𐑌𐐲𐑅"
         ]
     },
@@ -2900,7 +2801,6 @@
         "latin": "prisoners",
         "difficulty": 2,
         "deseret": [
-            "𐐑𐑉𐐮𐑆𐑌𐐯𐑉𐑆",
             "𐐹𐑉𐐮𐑆𐑌𐐯𐑉𐑆",
             "𐐹𐑉𐐮𐑆𐑌𐑉𐑆"
         ]
@@ -3001,7 +2901,6 @@
         "latin": "queen",
         "difficulty": 3,
         "deseret": [
-            "𐐗𐐶𐐨𐑌",
             "𐐿𐐶𐐨𐑌"
         ]
     },
@@ -3065,7 +2964,7 @@
         "latin": "raisins",
         "difficulty": 2,
         "deseret": [
-            "𐐡𐐩𐑆𐑌𐑆"
+            "𐑉𐐩𐑆𐑌𐑆"
         ]
     },
     {
@@ -3224,7 +3123,7 @@
         "latin": "restoration",
         "difficulty": 3,
         "deseret": [
-            "𐐡𐐯𐑅𐐻𐐬𐑉𐐩𐑇𐑌",
+            "𐑉𐐯𐑅𐐻𐐬𐑉𐐩𐑇𐑌",
             "𐑉𐐯𐑅𐐻𐐬𐑉𐐩𐑇𐐲𐑌",
             "𐑉𐐯𐑅𐐻𐑉𐐩𐑇𐐲𐑌"
         ]
@@ -3233,14 +3132,14 @@
         "latin": "resurrection",
         "difficulty": 3,
         "deseret": [
-            "𐐡𐐯𐑆𐐲𐑉𐐯𐐿𐑇𐐲𐑌"
+            "𐑉𐐯𐑆𐐲𐑉𐐯𐐿𐑇𐐲𐑌"
         ]
     },
     {
         "latin": "revelation",
         "difficulty": 3,
         "deseret": [
-            "𐐡𐐇𐐚𐐇𐐢𐐁𐐟𐐊𐐤",
+            "𐑉𐐯𐑂𐐯𐑊𐐩𐑇𐐲𐑌",
             "𐑉𐐯𐑂𐐨𐑊𐐩𐑇𐐲𐑌",
             "𐑉𐐯𐑂𐐮𐑊𐐩𐑇𐐲𐑌",
             "𐑉𐐯𐑂𐐮𐑊𐐩𐑇𐑌"
@@ -3250,9 +3149,8 @@
         "latin": "righteous",
         "difficulty": 3,
         "deseret": [
-            "𐐡𐐴𐐽𐐲𐑅",
-            "𐑉𐐴𐐻𐐷𐐲𐑅",
-            "𐑉𐐴𐐽𐐲𐑅"
+            "𐑉𐐴𐐽𐐲𐑅",
+            "𐑉𐐴𐐻𐐷𐐲𐑅"
         ]
     },
     {
@@ -3266,7 +3164,6 @@
         "latin": "sabbath",
         "difficulty": 2,
         "deseret": [
-            "𐐝𐐰𐐺𐐲𐑃",
             "𐑅𐐰𐐺𐐲𐑃"
         ]
     },
@@ -3274,14 +3171,13 @@
         "latin": "sacrament",
         "difficulty": 2,
         "deseret": [
-            "𐐝𐐰𐐿𐑉𐐰𐑋𐐯𐑌𐐻"
+            "𐑅𐐰𐐿𐑉𐐰𐑋𐐯𐑌𐐻"
         ]
     },
     {
         "latin": "sacred",
         "difficulty": 2,
         "deseret": [
-            "𐐝𐐩𐐿𐑉𐐯𐐼",
             "𐑅𐐩𐐿𐑉𐐯𐐼",
             "𐑅𐐩𐐿𐑉𐐲𐐼"
         ]
@@ -3356,7 +3252,6 @@
         "latin": "say",
         "difficulty": 1,
         "deseret": [
-            "𐐝𐐩",
             "𐑅𐐩"
         ]
     },
@@ -3387,7 +3282,6 @@
         "latin": "see",
         "difficulty": 1,
         "deseret": [
-            "𐐝𐐨",
             "𐑅𐐨"
         ]
     },
@@ -3410,7 +3304,6 @@
         "latin": "seventeen",
         "difficulty": 2,
         "deseret": [
-            "𐐝𐐯𐑂𐑌𐐻𐐨𐑌",
             "𐑅𐐯𐑂𐑌𐐻𐐨𐑌"
         ]
     },
@@ -3418,7 +3311,6 @@
         "latin": "she",
         "difficulty": 1,
         "deseret": [
-            "𐐟𐐨",
             "𐑇𐐨"
         ]
     },
@@ -3454,7 +3346,6 @@
         "latin": "slaughter",
         "difficulty": 3,
         "deseret": [
-            "𐐝𐑊𐐫𐐻𐐯𐑉",
             "𐑅𐑊𐐫𐐻𐐯𐑉"
         ]
     },
@@ -3462,9 +3353,8 @@
         "latin": "so",
         "difficulty": 1,
         "deseret": [
-            "𐐝𐐬",
-            "𐑅𐐫",
             "𐑅𐐬",
+            "𐑅𐐫",
             "𐑅𐐭"
         ]
     },
@@ -3479,7 +3369,6 @@
         "latin": "some",
         "difficulty": 1,
         "deseret": [
-            "𐐝𐐲𐑋",
             "𐑅𐐲𐑋"
         ]
     },
@@ -3487,7 +3376,6 @@
         "latin": "sometimes",
         "difficulty": 2,
         "deseret": [
-            "𐐝𐐲𐑋𐐻𐐴𐑋𐑆",
             "𐑅𐐲𐑋𐐻𐐴𐑋𐑆"
         ]
     },
@@ -3565,7 +3453,6 @@
         "latin": "sufferings",
         "difficulty": 3,
         "deseret": [
-            "𐐝𐐲𐑁𐐯𐑉𐐮𐑍𐑆",
             "𐑅𐐲𐑁𐐯𐑉𐐮𐑍𐑆"
         ]
     },
@@ -3622,7 +3509,6 @@
         "latin": "take",
         "difficulty": 1,
         "deseret": [
-            "𐐓𐐩𐐿",
             "𐐻𐐩𐐿"
         ]
     },
@@ -3659,7 +3545,6 @@
         "latin": "testimony",
         "difficulty": 2,
         "deseret": [
-            "𐐓𐐇𐐝𐐓𐐆𐐣𐐄𐐤𐐆",
             "𐐻𐐯𐑅𐐻𐐮𐑋𐐬𐑌𐐮",
             "𐐻𐐯𐑅𐐻𐐮𐑋𐐲𐑌𐐮"
         ]
@@ -3682,12 +3567,8 @@
         "latin": "that",
         "difficulty": 1,
         "deseret": [
-            "𐐜𐐰𐐻",
-            "𐐰𐑄𐐻",
-            "𐐰𐑌𐐼",
-            "𐑄𐐯𐐻",
             "𐑄𐐰𐐻",
-            "𐑄𐐰𐑅",
+            "𐑄𐐯𐐻",
             "𐑄𐐻"
         ]
     },
@@ -3695,24 +3576,8 @@
         "latin": "the",
         "difficulty": 1,
         "deseret": [
-            "𐐜",
-            "𐐪",
-            "𐐺𐐮",
             "𐑄",
-            "𐑄𐐮",
-            "𐑄𐐻",
-            "𐑅"
-        ]
-    },
-    {
-        "latin": "their",
-        "difficulty": 1,
-        "deseret": [
-            "𐐜𐐩𐑉",
-            "𐐸𐐩𐑉",
-            "𐑄𐐩𐑉",
-            "𐑄𐐯𐐰𐑉",
-            "𐑄𐐯𐑉"
+            "𐑄𐐮"
         ]
     },
     {
@@ -3720,13 +3585,10 @@
         "difficulty": 1,
         "deseret": [
             "𐑄𐐨𐑋",
-            "𐑄𐐯𐐽",
             "𐑄𐐯𐑋",
-            "𐑄𐐯𐑌",
             "𐑄𐐰𐑋",
             "𐑄𐐲𐑋",
-            "𐑄𐑋",
-            "𐑅𐐯𐑋"
+            "𐑄𐑋"
         ]
     },
     {
@@ -3740,7 +3602,6 @@
         "latin": "then",
         "difficulty": 1,
         "deseret": [
-            "𐐜𐐯𐑌",
             "𐑄𐐯𐑌",
             "𐑄𐑌"
         ]
@@ -3756,7 +3617,6 @@
         "latin": "there",
         "difficulty": 1,
         "deseret": [
-            "𐐜𐐩𐑉",
             "𐑄𐐩𐑉",
             "𐑄𐐯𐐰𐑉",
             "𐑄𐐯𐑉"
@@ -3766,14 +3626,12 @@
         "latin": "therefore",
         "difficulty": 2,
         "deseret": [
-            "𐐜𐐩𐑉𐑁𐐬𐑉",
-            "𐐜𐐯𐐰𐑉𐑁𐐬𐑉",
-            "𐐜𐐯𐑉𐑁𐐬𐑉",
+            "𐑄𐐩𐑉𐑁𐐬𐑉",
+            "𐑄𐐯𐐰𐑉𐑁𐐬𐑉",
+            "𐑄𐐯𐑉𐑁𐐬𐑉",
             "𐑄𐐨𐑉𐑁𐐬𐑉",
             "𐑄𐐩𐑉𐑁𐐫𐑉",
-            "𐑄𐐩𐑉𐑁𐐬𐑉",
-            "𐑄𐐯𐑉𐐸𐐬𐑉",
-            "𐑄𐐯𐑉𐑁𐐬𐑉"
+            "𐑄𐐯𐑉𐐸𐐬𐑉"
         ]
     },
     {
@@ -3787,36 +3645,31 @@
         "latin": "these",
         "difficulty": 1,
         "deseret": [
-            "𐐜𐐨𐑆",
-            "𐑄𐐨𐑅",
-            "𐑄𐐨𐑆"
+            "𐑄𐐨𐑆",
+            "𐑄𐐨𐑅"
         ]
     },
     {
         "latin": "they",
         "difficulty": 1,
         "deseret": [
-            "𐐜𐐩",
+            "𐑄𐐩",
             "𐐷𐐩",
-            "𐑄𐐨",
-            "𐑄𐐩"
+            "𐑄𐐨"
         ]
     },
     {
         "latin": "think",
         "difficulty": 1,
         "deseret": [
-            "𐐛𐐮𐑍𐐿",
-            "𐑃𐐮𐑌𐐿",
-            "𐑃𐐮𐑍𐐿"
+            "𐑃𐐮𐑍𐐿",
+            "𐑃𐐮𐑌𐐿"
         ]
     },
     {
         "latin": "this",
         "difficulty": 1,
         "deseret": [
-            "𐐜𐐮𐑅",
-            "𐑄𐐮𐐝",
             "𐑄𐐮𐑅",
             "𐑄𐐮𐑆"
         ]
@@ -3846,14 +3699,10 @@
         "latin": "to",
         "difficulty": 1,
         "deseret": [
-            "𐐓𐐭",
-            "𐐓𐐳",
-            "𐐸𐐭",
-            "𐐻𐐬",
             "𐐻𐐭",
-            "𐐻𐐲",
             "𐐻𐐳",
-            "𐑊𐐭"
+            "𐐻𐐬",
+            "𐐻𐐲"
         ]
     },
     {
@@ -3918,7 +3767,7 @@
         "latin": "tremendous",
         "difficulty": 3,
         "deseret": [
-            "𐐓𐑉𐐨𐑋𐐯𐑌𐐼𐐲𐑅"
+            "𐐻𐑉𐐨𐑋𐐯𐑌𐐼𐐲𐑅"
         ]
     },
     {
@@ -3941,7 +3790,6 @@
         "latin": "two",
         "difficulty": 1,
         "deseret": [
-            "𐐓𐐭",
             "𐐻𐐭"
         ]
     },
@@ -4090,7 +3938,6 @@
         "latin": "verily",
         "difficulty": 2,
         "deseret": [
-            "𐐚𐐯𐑉𐐮𐑊𐐮",
             "𐑂𐐯𐑉𐐮𐑊𐐮",
             "𐑂𐐰𐑉𐐮𐑊𐐮"
         ]
@@ -4169,9 +4016,7 @@
         "latin": "we",
         "difficulty": 1,
         "deseret": [
-            "𐐎𐐨",
             "𐐶𐐨",
-            "𐐶𐐨𐐶𐐮𐑊",
             "𐐶𐐩"
         ]
     },
@@ -4179,9 +4024,8 @@
         "latin": "well",
         "difficulty": 1,
         "deseret": [
-            "𐐎𐐯𐑊",
-            "𐐶𐐩𐑊",
-            "𐐶𐐯𐑊"
+            "𐐶𐐯𐑊",
+            "𐐶𐐩𐑊"
         ]
     },
     {
@@ -4195,8 +4039,7 @@
         "latin": "what",
         "difficulty": 1,
         "deseret": [
-            "𐐐𐐶𐐰𐐻",
-            "𐐐𐐶𐐱𐐻",
+            "𐐸𐐶𐐰𐐻",
             "𐐸𐐶𐐱𐐻",
             "𐐸𐐶𐐴𐐻"
         ]
@@ -4213,11 +4056,8 @@
         "latin": "when",
         "difficulty": 1,
         "deseret": [
-            "𐐐𐐶𐐯𐑌",
-            "𐐸𐐱𐐯𐑌",
-            "𐐸𐐶𐐨𐑌",
-            "𐐸𐐶𐐯",
             "𐐸𐐶𐐯𐑌",
+            "𐐸𐐶𐐨𐑌",
             "𐐸𐐶𐐯𐑍",
             "𐐸𐐶𐐲𐑌",
             "𐐸𐐶𐑌"
@@ -4227,9 +4067,8 @@
         "latin": "wherefore",
         "difficulty": 2,
         "deseret": [
-            "𐐐𐐶𐐩𐑉𐑁𐐬𐑉",
-            "𐐐𐐶𐐯𐐰𐑉𐑁𐐬𐑉",
             "𐐸𐐶𐐩𐑉𐑁𐐬𐑉",
+            "𐐸𐐶𐐯𐐰𐑉𐑁𐐬𐑉",
             "𐐸𐐶𐐯𐑉𐑁𐐬𐑉"
         ]
     },
@@ -4244,9 +4083,7 @@
         "latin": "which",
         "difficulty": 1,
         "deseret": [
-            "𐐐𐐶𐐮𐐽",
-            "𐐸𐐶𐐮𐐽",
-            "𐑄𐐶𐐮𐐽"
+            "𐐸𐐶𐐮𐐽"
         ]
     },
     {
@@ -4274,7 +4111,6 @@
         "latin": "who",
         "difficulty": 1,
         "deseret": [
-            "𐐐𐐭",
             "𐐸𐐭"
         ]
     },
@@ -4289,7 +4125,6 @@
         "latin": "whosoever",
         "difficulty": 2,
         "deseret": [
-            "𐐐𐐭𐑅𐐬𐐯𐑂𐐯𐑉",
             "𐐸𐐭𐑅𐐬𐐯𐑂𐐯𐑉",
             "𐐸𐐭𐑅𐐬𐐯𐑂𐑉"
         ]
@@ -4314,8 +4149,6 @@
         "latin": "will",
         "difficulty": 1,
         "deseret": [
-            "𐐎𐐮𐑊",
-            "𐐶𐐨𐐶𐐮𐑊",
             "𐐶𐐮𐑊"
         ]
     },
@@ -4323,9 +4156,8 @@
         "latin": "with",
         "difficulty": 1,
         "deseret": [
-            "𐐎𐐮𐑄",
-            "𐐶𐐮𐑃",
-            "𐐶𐐮𐑄"
+            "𐐶𐐮𐑄",
+            "𐐶𐐮𐑃"
         ]
     },
     {
@@ -4340,7 +4172,6 @@
         "latin": "work",
         "difficulty": 1,
         "deseret": [
-            "𐐎𐐲𐑉𐐿",
             "𐐶𐐲𐑉𐐿",
             "𐐶𐑉𐐿"
         ]
@@ -4349,7 +4180,7 @@
         "latin": "workmanship",
         "difficulty": 3,
         "deseret": [
-            "𐐶𐐲𐑉𐐿𐑋𐐈𐑌𐑇𐐮𐐹",
+            "𐐶𐐲𐑉𐐿𐑋𐐰𐑌𐑇𐐮𐐹",
             "𐐶𐐲𐑉𐐿𐑋𐐲𐑌𐑇𐐮𐐹"
         ]
     },
@@ -4357,7 +4188,6 @@
         "latin": "would",
         "difficulty": 1,
         "deseret": [
-            "𐐎𐐳𐐼",
             "𐐶𐐳𐐼"
         ]
     },
@@ -4387,14 +4217,13 @@
         "latin": "yes",
         "difficulty": 1,
         "deseret": [
-            "𐐏𐐯𐑅"
+            "𐐷𐐯𐑅"
         ]
     },
     {
         "latin": "yesterday",
         "difficulty": 2,
         "deseret": [
-            "𐐷𐐯𐑅𐐻𐐇𐑉𐐼𐐩",
             "𐐷𐐯𐑅𐐻𐐯𐑉𐐼𐐩"
         ]
     },
@@ -4431,25 +4260,19 @@
         "latin": "you",
         "difficulty": 1,
         "deseret": [
-            "𐐏𐐭",
-            "𐐏𐐮𐐳",
-            "𐐷",
             "𐐷𐐭",
-            "𐐷𐐮𐐭",
             "𐐷𐐮𐐳",
-            "𐐷𐐳",
-            "𐐻𐐭"
+            "𐐷𐐮𐐭",
+            "𐐷𐐳"
         ]
     },
     {
         "latin": "your",
         "difficulty": 1,
         "deseret": [
-            "𐐏𐐭𐑉",
             "𐐷𐐭𐑉",
             "𐐷𐐮𐐭𐑉",
-            "𐐷𐐮𐐳𐑉",
-            "𐑄"
+            "𐐷𐐮𐐳𐑉"
         ]
     },
     {
