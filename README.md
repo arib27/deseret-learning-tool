@@ -1,26 +1,30 @@
-## deseret learning tool - 𐐔𐐯𐑅𐑆𐐯𐑉𐐯𐐻 𐑊𐐲𐑉𐑌𐐮𐑍 𐐻𐐭𐑊
-### BCOG200 - Python for Brain and Cognitive Sciences - final project | 𐐒𐐗𐐉𐐘200 - 𐐑𐐴𐑃𐐱𐑌 𐑁𐐱𐑉 𐐒𐑉𐐩𐑌 𐐰𐑌𐐼 𐐕𐐱𐑀𐑌𐐮𐐻𐐮𐑂 𐐝𐐴𐐲𐑌𐑅𐐮𐑅 - 𐑁𐐴𐑌𐐲𐑊 𐐹𐑉𐐱𐐾𐐯𐐿𐐻
+# deseret learning tool - 𐐼𐐯𐑅𐑆𐐯𐑉𐐯𐐻 𐑊𐐲𐑉𐑌𐐮𐑍 𐐻𐐭𐑊
 
-### How to test the program
-From the command line, open the "deseret-learning-tool" folder, and run "main.py".
+organization:
+
+```
+.
+├── /config
+|          
+└── /data                   text, images, and resources 
+|
+├── /src                    primary functions
+│   ├── /cards.py             flashcards
+│   └── /gui.py               user interface
+│   └── /typing_mode.py       typing practice
+|
+└── main.py                 run this to use the program 
+
+```
+
+### testing and use
+Clone the repo in your terminal. Make sure to check requirements.txt for any libraries you need to install. From your command line, open the "deseret-learning-tool" folder, and run "main.py".
 You can tell that the program is currently running as expected if:
-1. The GUI opens onto a main page titled "Deseret Learning Tool", with an image loaded in the center
+1. A tkinter GUI opens onto a main page titled "Deseret Learning Tool", with an image loaded in the center
   and a few buttons.
-2. The 'Quit' button closes the program and the 'Illinois Deseret Consortium' button opens the
-  associated webpage in your default browser. The 'Begin' button should not do anything yet.
-3. The 'Program Instructions' button opens an empty page with another button for 'Keyboard 
-  Instructions'. This button should open a page full of text. The 'Back' buttons should take you to the previous page.
+2. The 'Begin' button opens a menu. The 'Program Instructions' button opens the instructions page. The 'Illinois Deseret Consortium' button opens the associated webpage in your default browser. The 'Quit' button closes the program.
+3. The typing mode allows you to practice, fonts are loaded correctly, and you get feedback on your answers.
+  The flashcards mode should be a blank screen at this point.
 
-### Description
-In this project I plan to create a learning application for the Deseret alphabet. The Deseret is a phonetic writing system used to write English, developed by the early Mormon community in the 1850s for purposes of orthographic reform and cultural differentiation. This application will be structured similar to other language-learning or flashcard applications, and will teach users to read and write in the Deseret alphabet using spaced repetition. Users will be able to gain access to the program through my research colloquium.
-
-#### the GUI
-  The program will run on a basic GUI from the command line.
-#### Card class
-  This is the core of the application which stores information on flashcards. Data will be imported from a .json dictionary.
-#### Scheduler function
-  This function changes the interval of when each flashcard is shown to the user, creating spaced-repetition learning.
-#### Review loop
-  This function presents the cards to the user and checks their answers, then updates the schedule for each card.
-
-- I also plan on including a small library of helpful tips and notes for working with the Deseret, as I hope this project will be used in my broader research group to train new research assistants.
+### description
+In this project I plan to create a learning application for the Deseret alphabet. The Deseret is a phonetic writing system used to write English, developed by the early Mormon community in the 1850s for purposes of orthographic reform and cultural differentiation. This application will be structured similar to other language-learning or flashcard applications, and will teach users to read and write in the Deseret alphabet using spaced repetition. Users will be able to gain access to the program through my research colloquium. This project will hopefully be used to train new research assistants working in the IDC, as well as be available for any interested public.
