@@ -9,6 +9,10 @@ from pathlib import Path
 
 from src.typing_mode import TypingPractice
 
+## to do
+## add webpage link buttons to keyboard instructions
+## implement flashcards functions
+
 
 # create user interface
 class Gui:
@@ -37,9 +41,10 @@ class Gui:
         # create custom fonts for gui
         self.header_font_1 = tkFont.Font(family="Georgia Bold", size=32)
         self.header_font_2 = tkFont.Font(family="Georgia Bold", size=20)
+        self.header_font_3 = tkFont.Font(family="Georgia", size=16)
         self.button_font_1 = tkFont.Font(family="Georgia", size=15)
         self.main_text_font = tkFont.Font(family="Georgia", size=12)
-        self.text_entry_font = tkFont.Font(family="Noto Sans Deseret", size=23)
+        self.deseret_font = tkFont.Font(family="Noto Sans Deseret", size=23)
 
         # create text
         tk.Label(
@@ -106,7 +111,7 @@ class Gui:
     def open_page(self):
         webbrowser.open("http://faculty.las.illinois.edu/rshosted/deseret.html")
 
-    # define instructions page button function
+    # create instructions page
     def main_instructions(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
@@ -119,6 +124,13 @@ class Gui:
             frame,
             text=instr_text,
             font=self.main_text_font,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=10)
+
+        tk.Label(
+            frame,
+            text="𐐛𐐰𐑌𐐿 𐐷𐐭 𐐻𐐭 𐐑𐑉𐐱𐑁. 𐐡𐐴𐐲𐑌 𐐗. 𐐟𐐱𐑅𐐻𐐯𐐼 𐐰𐑌𐐼 𐐔𐑉. 𐐤𐐨𐑊 𐐔𐐩𐑂𐐮𐑅 𐑁𐐬𐑉 𐑃𐐩𐑉 𐐸𐐯𐑊𐐹 𐐱𐑌 𐑄𐐮𐑅 𐐹𐑉𐐱𐐾𐐯𐐿𐐻!",
+            font=self.header_font_3,
             bg="#EDE4BE",
         ).pack(side="top", pady=10)
 
@@ -141,7 +153,7 @@ class Gui:
         ).pack(side="bottom")
         self.show_frame(frame)
 
-    # define keyboard instructions page button function
+    # create keyboard instructions page
     def keyboard_instructions(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
@@ -227,7 +239,7 @@ class Gui:
 
         self.show_frame(frame)
 
-    # create flashcard function frame
+    # create flashcard function page
     def flashcards_frame(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
@@ -241,7 +253,7 @@ class Gui:
 
         self.show_frame(frame)
 
-    # create typing function frame
+    # create typing function page
     def typing_frame(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
@@ -322,7 +334,7 @@ class Gui:
         self.question_label = tk.Label(
             frame,
             text="",
-            font=self.text_entry_font,
+            font=self.deseret_font,
             bg="#EDE4BE",
         )
         self.question_label.pack(side="top", pady=10)
@@ -337,9 +349,7 @@ class Gui:
         self.result_label.pack(side="top", pady=10)
 
         # text entry box
-        self.answer_entry = tk.Text(
-            frame, width=20, height=1, font=self.text_entry_font
-        )
+        self.answer_entry = tk.Text(frame, width=20, height=1, font=self.deseret_font)
         self.answer_entry.pack(side="top", pady=10)
 
         # back button
@@ -363,21 +373,21 @@ class Gui:
 
         self.show_frame(frame)
 
-    # create functions to start typing practice
+    # create function to start typing practice
     def start_practice(self):
         self.practice = TypingPractice(
             mode=self.mode_var.get(), difficulty=self.difficulty_var.get()
         )
         self.load_question()
 
-    # create function to show next question
+    # create function to show next question (typing)
     def load_question(self):
         question = self.practice.next_question()
         self.question_label.config(text=question)
         self.answer_entry.delete("1.0", tk.END)
         self.result_label.config(text="")
 
-    # create function to submit user answer
+    # create function to submit user answer (typing)
     def submit_answer(self):
         user_answer = self.answer_entry.get("1.0", "end-1c")
         correct = self.practice.grade_answer(user_answer)
@@ -387,20 +397,20 @@ class Gui:
             if self.practice.mode == "deseret_to_latin":
                 self.result_label.config(
                     text="Correct!",
-                    font=self.text_entry_font,
+                    font=self.deseret_font,
                 )
                 self.root.after(1200, self.load_question)
 
             if self.practice.mode == "latin_to_deseret":
                 self.result_label.config(
                     text=f"Correct! Possible answers: {correct_answer}",
-                    font=self.text_entry_font,
+                    font=self.deseret_font,
                 )
                 self.root.after(2500, self.load_question)
 
         else:
             self.result_label.config(
                 text=f"Incorrect! Right answer: {correct_answer}",
-                font=self.text_entry_font,
+                font=self.deseret_font,
             )
             self.root.after(2500, self.load_question)

@@ -1,9 +1,9 @@
+
 -- How to install a Deseret alphabet keyboard --
 
-In order to get full functionality from the program and to type the Deseret, 
-you will need to download an application called Keyman to use custom keyboards on your computer. 
-You can download Keyman by selecting the Deseret keyboard at this link: 
-https://keyman.com/keyboards/deseret 
+In order to get full functionality from the program and to type the Deseret, you will need to download 
+an application called Keyman to use custom keyboards on your computer. You can download Keyman by 
+selecting the Deseret keyboard at this link: https://keyman.com/keyboards/deseret 
 
 Click 'install keyboard' and follow the setup instructions.
 Remember to download new versions of Keyman as soon as updates are released, as this will 
@@ -25,5 +25,4 @@ You might be tempted to type 𐐋 when you mean 𐐊 - remember that the former 
   
 Symbols which are typed with two key-presses can be tricky. For example, you might need 
     𐐆𐐆 or 𐐆𐐇 - which would automatically correct to 𐐀 and 𐐌. Avoid this by pressing the space key, 
-    typing the second letter, then deleting the space. Keep an eye out for these, they're easy 
-    to miss!
+    typing the second letter, then deleting the space. Keep an eye out for these, they're easy to miss!

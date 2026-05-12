@@ -1,1 +1,22 @@
-These are the program instructions! They will be updated later.
+
+-- Welcome! --
+This program will teach you how to reccognize, read, and write the Deseret alphabet! It uses spaced repetition - 
+this means that questions which you frequently get right will be shown to you less, and questions which give you 
+trouble will appear more so you can improve.
+
+-- How to use the program --
+The flashcards mode will allow you to familiarize yourself with the individual 
+characters of the alphabet and their pronunciations. 
+
+Once you're confident with the individual characters, you can use the typing/spelling mode to practice
+using a Deseret keyboard, recognize words, and spell them. 
+
+IMPORTANT NOTE: The typing/spelling mode teaches you to recognize and spell words as they were pronounced
+in 1850s Utah, not modern Standard American English! Some pronunciations of familiar words will be different.
+
+
+-- Credits --
+Developed 2026 by Ari Wendrow Bliss at the University of Illinois Urbana-Champaign,
+research assistant for the Illinois Deseret Consortium
+
+Resources for typing/spelling mode adapted from the IDC's Deseret Spelling Book

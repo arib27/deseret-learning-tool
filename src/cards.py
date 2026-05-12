@@ -5,6 +5,8 @@ SRC_FOLDER = Path(__file__).resolve().parent  # src/
 PROJ_FOLDER = SRC_FOLDER.parent  # project/
 DATA_FOLDER = PROJ_FOLDER / "data"  # project/data/
 
+## to do
+
 
 # define cards creation
 def load_cards(path):
@@ -56,10 +58,10 @@ def review_session(cards):
 
         if user_input.strip().lower() == card.answer:
             quality = 5
-            print("Correct")
+            print("Correct!")
         else:
             quality = 2
-            print(f"Wrong. Answer: {card.answer}")
+            print(f"Incorrect! Right answer: {card.answer}")
 
         update_card(card, quality)
 
