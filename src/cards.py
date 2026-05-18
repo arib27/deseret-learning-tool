@@ -15,19 +15,32 @@ def load_cards(path):
     return [Card.from_dict(d) for d in data]
 
 
+# create function that saves cards
+def save_cards(cards, path):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump([c.to_dict() for c in cards], f, indent=4)
+
+
 # create Card class
 class Card:
-    def __init__(self, prompt, answer, interval=1, ease=2.5, due=0):
+    def __init__(self, prompt, answer, interval=1, ease=2.5, due=0, **kwargs):
         self.prompt = prompt  # e.g., "𐐀"
         self.answer = answer  # e.g., "a"
         self.interval = interval  # days until next review
         self.ease = ease  # ease factor
-        self.due = due  # next due time (int or timestamp)
+        self.due = due  # next due time
+
+        for key, value in kwargs.items():
+            setattr(self, key, value)
+
         self.review_cards = []
         self.current_card_index = 0
 
     def to_dict(self):
-        return self.__dict__
+        data = self.__dict__.copy()
+        data.pop("review_cards", None)
+        data.pop("current_card_index", None)
+        return data
 
     @staticmethod
     def from_dict(data):
@@ -46,24 +59,6 @@ def update_card(card, quality):
 
 def get_due_cards(cards, current_day):
     return [c for c in cards if c.due <= current_day]
-
-
-def review_session(cards):
-    current_day = 0
-    due_cards = get_due_cards(cards, current_day)
-
-    for card in due_cards:
-        print(card.prompt)
-        user_input = input("Answer: ")
-
-        if user_input.strip().lower() == card.answer:
-            quality = 5
-            print("Correct!")
-        else:
-            quality = 2
-            print(f"Incorrect! Right answer: {card.answer}")
-
-        update_card(card, quality)
 
 
 json_path = DATA_FOLDER / "alphabet.json"

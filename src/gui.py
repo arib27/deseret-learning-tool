@@ -8,6 +8,7 @@ import webbrowser
 from pathlib import Path
 
 from src.typing_mode import TypingPractice
+from src.cards import load_cards, save_cards, update_card, get_due_cards
 
 ## to do
 ## add webpage link buttons to keyboard instructions
@@ -24,6 +25,11 @@ class Gui:
         self.root = tk.Tk()
         self.frame_stack = []
         self.current_frame = None
+
+        # initialize flashcards
+        self.current_day = 0
+        self.cards_path = self.DATA_FOLDER / "alphabet.json"
+        self.cards = load_cards(self.cards_path)
 
         self.open_window()
         self.main_window_frame()
@@ -405,6 +411,65 @@ class Gui:
     def flashcards_frame(self):
         frame = tk.Frame(self.root, bg="#EDE4BE")
 
+        tk.Label(
+            frame,
+            text="Flashcard practice - 𐐙𐐢𐐈𐐟𐐗𐐉𐐡𐐔 𐐑𐐡𐐈𐐗𐐓𐐆𐐝",
+            font=self.header_font_2,
+            bg="#EDE4BE",
+        ).pack(side="top", pady=30)
+
+        # q&a labels
+        self.fc_prompt_label = tk.Label(
+            frame, text="", font=self.deseret_font, bg="#EDE4BE"
+        )
+        self.fc_prompt_label.pack(side="top", pady=30)
+        self.fc_answer_label = tk.Label(
+            frame, text="", font=self.header_font_2, bg="#EDE4BE"
+        )
+        self.fc_answer_label.pack(side="top", pady=20)
+
+        # action buttons frame
+        fc_action_frame = tk.Frame(frame, bg="#EDE4BE").pack(pady=10)
+
+        self.show_answer_btn = tk.Button(
+            frame,
+            text="Flip",
+            font=self.button_font_1,
+            command=self.show_flashcard_answer,
+            bg="#FFFFDB",
+        )
+
+        # difficulty selection buttons
+        self.fc_grade_frame = tk.Frame(frame, bg="#EDE4BE")
+        tk.Button(
+            self.fc_grade_frame,
+            text="Incorrect",
+            command=lambda: self.grade_flashcard(1),
+            font=self.main_text_font,
+            bg="#ffcccc",
+        ).pack(side="left", padx=5)
+        tk.Button(
+            self.fc_grade_frame,
+            text="Hard",
+            command=lambda: self.grade_flashcard(2),
+            font=self.main_text_font,
+            bg="#ffffcc",
+        ).pack(side="left", padx=5)
+        tk.Button(
+            self.fc_grade_frame,
+            text="Good",
+            command=lambda: self.grade_flashcard(3),
+            font=self.main_text_font,
+            bg="#ccffcc",
+        ).pack(side="left", padx=5)
+        tk.Button(
+            self.fc_grade_frame,
+            text="Easy",
+            command=lambda: self.grade_flashcard(4),
+            font=self.main_text_font,
+            bg="#ccddff",
+        ).pack(side="left", padx=5)
+
         self.back_button = tk.Button(
             frame,
             text="Back - 𐐒𐐈𐐗",
@@ -414,3 +479,37 @@ class Gui:
         ).pack(side="bottom", pady=15)
 
         self.show_frame(frame)
+
+        # review session
+        self.due_cards = get_due_cards(self.cards, self.current_day)
+        self.current_card_index = 0
+        self.load_next_flashcard()
+
+    # decide which flashcard will be next
+    def load_next_flashcard(self):
+        self.fc_answer_label.config(text="")
+        self.fc_grade_frame.pack_forget()
+
+        if self.current_card_index < len(self.due_cards):
+            card = self.due_cards[self.current_card_index]
+            self.fc_prompt_label.config(text=card.prompt)
+            self.show_answer_btn.pack(side="bottom", pady=50)
+        else:
+            self.fc_prompt_label.config(text="All done for today! - 𐐉𐑊 𐐼𐐲𐑌 𐑁𐐬𐑉 𐐻𐐲𐐼𐐩!")
+            self.show_answer_btn.pack_forget()
+
+    # flip the flashcard
+    def show_flashcard_answer(self):
+        if self.current_card_index < len(self.due_cards):
+            card = self.due_cards[self.current_card_index]
+            self.fc_answer_label.config(text=card.answer)
+            self.show_answer_btn.pack_forget()
+            self.fc_grade_frame.pack(pady=10)
+
+    # add difficulty grading information to the card
+    def grade_flashcard(self, quality):
+        card = self.due_cards[self.current_card_index]
+        update_card(card, quality)
+        save_cards(self.cards, self.cards_path)
+        self.current_card_index += 1
+        self.load_next_flashcard()
