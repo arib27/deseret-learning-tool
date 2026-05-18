@@ -10,10 +10,6 @@ from pathlib import Path
 from src.typing_mode import TypingPractice
 from src.cards import load_cards, save_cards, update_card, get_due_cards
 
-## to do
-## add webpage link buttons to keyboard instructions
-## implement flashcards functions
-
 
 # create user interface
 class Gui:
@@ -423,13 +419,21 @@ class Gui:
             frame, text="", font=self.deseret_font, bg="#EDE4BE"
         )
         self.fc_prompt_label.pack(side="top", pady=30)
+
         self.fc_answer_label = tk.Label(
             frame, text="", font=self.header_font_2, bg="#EDE4BE"
         )
         self.fc_answer_label.pack(side="top", pady=20)
 
-        # action buttons frame
-        fc_action_frame = tk.Frame(frame, bg="#EDE4BE").pack(pady=10)
+        self.fc_name_label = tk.Label(
+            frame, text="", font=self.header_font_3, bg="#EDE4BE"
+        )
+        self.fc_name_label.pack(pady=5)
+
+        self.fc_pronunciation_label = tk.Label(
+            frame, text="", font=self.main_text_font, bg="#EDE4BE", fg="#555555"
+        )
+        self.fc_pronunciation_label.pack(pady=5)
 
         self.show_answer_btn = tk.Button(
             frame,
@@ -488,6 +492,8 @@ class Gui:
     # decide which flashcard will be next
     def load_next_flashcard(self):
         self.fc_answer_label.config(text="")
+        self.fc_name_label.config(text="")
+        self.fc_pronunciation_label.config(text="")
         self.fc_grade_frame.pack_forget()
 
         if self.current_card_index < len(self.due_cards):
@@ -495,14 +501,22 @@ class Gui:
             self.fc_prompt_label.config(text=card.prompt)
             self.show_answer_btn.pack(side="bottom", pady=50)
         else:
-            self.fc_prompt_label.config(text="All done for today! - 𐐉𐑊 𐐼𐐲𐑌 𐑁𐐬𐑉 𐐻𐐲𐐼𐐩!")
+            self.fc_prompt_label.config(
+                text="All done for this session! \n Restart the program if you want to \n continue from the beginning."
+            )
             self.show_answer_btn.pack_forget()
 
     # flip the flashcard
     def show_flashcard_answer(self):
         if self.current_card_index < len(self.due_cards):
             card = self.due_cards[self.current_card_index]
-            self.fc_answer_label.config(text=card.answer)
+            name = getattr(card, "name", "Unknown")
+            pronunciation = getattr(card, "pronunciation", "Unknown")
+
+            self.fc_answer_label.config(text=f"keyboard encoding: {card.answer}")
+            self.fc_name_label.config(text=f"Deseret name: {name}")
+            self.fc_pronunciation_label.config(text=f"Sounds like: {pronunciation}")
+
             self.show_answer_btn.pack_forget()
             self.fc_grade_frame.pack(pady=10)
 
@@ -510,6 +524,5 @@ class Gui:
     def grade_flashcard(self, quality):
         card = self.due_cards[self.current_card_index]
         update_card(card, quality)
-        save_cards(self.cards, self.cards_path)
         self.current_card_index += 1
         self.load_next_flashcard()

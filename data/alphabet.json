@@ -146,9 +146,9 @@
     {
         "prompt": "\ud801\udc34",
         "answer": "ie",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Ay",
         "pronunciation": "'y' in cry, 'i' in price",
         "features": [
@@ -160,7 +160,7 @@
         "answer": "ow",
         "interval": 1,
         "ease": 2.5,
-        "due": 0,
+        "due": 1,
         "name": "Ow",
         "pronunciation": "'ou' in mouth, 'ow' in how",
         "features": [
@@ -170,9 +170,9 @@
     {
         "prompt": "\ud801\udc36",
         "answer": "w",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Wu",
         "pronunciation": "'w' in whale, wind",
         "features": [
@@ -182,9 +182,9 @@
     {
         "prompt": "\ud801\udc37",
         "answer": "y",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Yee",
         "pronunciation": "'y' in day, yes",
         "features": [
@@ -196,7 +196,7 @@
         "answer": "h",
         "interval": 1,
         "ease": 2.5,
-        "due": 0,
+        "due": 1,
         "name": "H",
         "pronunciation": "'h' in hi, hair",
         "features": [
@@ -206,9 +206,9 @@
     {
         "prompt": "\ud801\udc39",
         "answer": "p",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Pee",
         "pronunciation": "'p' in put, pine",
         "features": [
@@ -218,9 +218,9 @@
     {
         "prompt": "\ud801\udc3a",
         "answer": "b",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Bee",
         "pronunciation": "'b' in bread, buy",
         "features": [
@@ -230,9 +230,9 @@
     {
         "prompt": "\ud801\udc3b",
         "answer": "t",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Tee",
         "pronunciation": "'t' in town, train",
         "features": [
@@ -242,9 +242,9 @@
     {
         "prompt": "\ud801\udc3c",
         "answer": "d",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Dee",
         "pronunciation": "'d' in drink, dawn",
         "features": [
@@ -254,9 +254,9 @@
     {
         "prompt": "\ud801\udc3d",
         "answer": "c",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Chee",
         "pronunciation": "'ch' in church, change",
         "features": [
@@ -266,9 +266,9 @@
     {
         "prompt": "\ud801\udc3e",
         "answer": "j",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Jee",
         "pronunciation": "'j' in judge, jam",
         "features": [
@@ -280,7 +280,7 @@
         "answer": "k",
         "interval": 1,
         "ease": 2.5,
-        "due": 0,
+        "due": 1,
         "name": "Kay",
         "pronunciation": "'k' in keep, kind",
         "features": [
@@ -290,9 +290,9 @@
     {
         "prompt": "\ud801\udc40",
         "answer": "g",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Gay",
         "pronunciation": "'g' in ground, gate",
         "features": [
@@ -304,7 +304,7 @@
         "answer": "f",
         "interval": 1,
         "ease": 2.5,
-        "due": 0,
+        "due": 1,
         "name": "Ef",
         "pronunciation": "'f' in fox, frame",
         "features": [
@@ -314,9 +314,9 @@
     {
         "prompt": "\ud801\udc42",
         "answer": "v",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Vee",
         "pronunciation": "'v' in vice, vixen",
         "features": [
@@ -326,9 +326,9 @@
     {
         "prompt": "\ud801\udc43",
         "answer": "th",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Eth",
         "pronunciation": "'th' in thought, thigh",
         "features": [
@@ -339,9 +339,9 @@
     {
         "prompt": "\ud801\udc44",
         "answer": "dh",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Thee",
         "pronunciation": "'th' in this, breathe",
         "features": [
@@ -352,9 +352,9 @@
     {
         "prompt": "\ud801\udc45",
         "answer": "s",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Es",
         "pronunciation": "'s' in sound, stand",
         "features": [
@@ -364,9 +364,9 @@
     {
         "prompt": "\ud801\udc46",
         "answer": "z",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Zee",
         "pronunciation": "'z' in zoom, zen",
         "features": [
@@ -376,9 +376,9 @@
     {
         "prompt": "\ud801\udc47",
         "answer": "sh",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Esh",
         "pronunciation": "'sh' in shirt, shower",
         "features": [
@@ -388,9 +388,9 @@
     {
         "prompt": "\ud801\udc48",
         "answer": "zh",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Zhee",
         "pronunciation": "'s' in pleasure, 'g' in beige",
         "features": [
@@ -400,9 +400,9 @@
     {
         "prompt": "\ud801\udc49",
         "answer": "r",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "Er",
         "pronunciation": "'r' in round, reap",
         "features": [
@@ -412,9 +412,9 @@
     {
         "prompt": "\ud801\udc4a",
         "answer": "l",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "El",
         "pronunciation": "'l' in loud, linger",
         "features": [
@@ -426,7 +426,7 @@
         "answer": "m",
         "interval": 1,
         "ease": 2.5,
-        "due": 0,
+        "due": 1,
         "name": "Em",
         "pronunciation": "'m' in morning, mirth",
         "features": [
@@ -436,9 +436,9 @@
     {
         "prompt": "\ud801\udc4c",
         "answer": "n",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.52,
+        "due": 2,
         "name": "En",
         "pronunciation": "'n' in north, neat",
         "features": [
@@ -448,9 +448,9 @@
     {
         "prompt": "\ud801\udc4d",
         "answer": "ng",
-        "interval": 1,
-        "ease": 2.5,
-        "due": 0,
+        "interval": 2,
+        "ease": 2.44,
+        "due": 2,
         "name": "Eng",
         "pronunciation": "'ng' in sing, king",
         "features": [

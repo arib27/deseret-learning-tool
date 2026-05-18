@@ -5,13 +5,17 @@ SRC_FOLDER = Path(__file__).resolve().parent  # src/
 PROJ_FOLDER = SRC_FOLDER.parent  # project/
 DATA_FOLDER = PROJ_FOLDER / "data"  # project/data/
 
-## to do
-
 
 # define cards creation
 def load_cards(path):
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
+
+    for d in data:  # reset json data for each session
+        d.pop("interval", None)
+        d.pop("ease", None)
+        d.pop("due", None)
+
     return [Card.from_dict(d) for d in data]
 
 
