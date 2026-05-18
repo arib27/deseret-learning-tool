@@ -7,10 +7,6 @@ PROJ_FOLDER = SRC_FOLDER.parent  # project/
 DATA_FOLDER = PROJ_FOLDER / "data"  # project/data/
 SPELLING_DATA = DATA_FOLDER / "spelling_book.json"
 
-## to do
-## implement spaced repetition
-## gotta edit that json more: weird capitalizations, 'and's, strange multiples
-
 
 # open and load spelling book
 with open(SPELLING_DATA, "r", encoding="utf-8") as file:

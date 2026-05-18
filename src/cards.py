@@ -4,6 +4,7 @@ from pathlib import Path
 SRC_FOLDER = Path(__file__).resolve().parent  # src/
 PROJ_FOLDER = SRC_FOLDER.parent  # project/
 DATA_FOLDER = PROJ_FOLDER / "data"  # project/data/
+json_path = DATA_FOLDER / "alphabet.json"
 
 
 # define cards creation
@@ -51,6 +52,7 @@ class Card:
         return Card(**data)
 
 
+# save quality information to card for review session
 def update_card(card, quality):
     if quality < 3:
         card.interval = 1
@@ -61,10 +63,6 @@ def update_card(card, quality):
     card.due += card.interval
 
 
+# find due cards
 def get_due_cards(cards, current_day):
     return [c for c in cards if c.due <= current_day]
-
-
-json_path = DATA_FOLDER / "alphabet.json"
-# cards = load_cards(json_path)
-# review_session(cards)

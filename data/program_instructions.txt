@@ -1,6 +1,6 @@
 
 -- Welcome! --
-This program will teach you how to reccognize, read, and write the Deseret alphabet! It uses spaced repetition - 
+This program will teach you how to recognize, read, and write the Deseret alphabet! It uses spaced repetition - 
 this means that questions which you frequently get right will be shown to you less, and questions which give you 
 trouble will appear more so you can improve.
 
